@@ -1,7 +1,0 @@
-PolyCount for Medieval Militia Axeman:
-945
-
-Uses Swordsman kfm.
-
-
-Axe and shield are by Rabbit, White.

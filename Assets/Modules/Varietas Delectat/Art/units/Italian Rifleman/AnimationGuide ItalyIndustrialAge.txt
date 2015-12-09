@@ -1,3 +1,0 @@
-The Italy Alpini Rifleman uses the rifleman animations.
-The Cavalry uses the cavalry animations
-The Gernadier uses the gernadier animations.

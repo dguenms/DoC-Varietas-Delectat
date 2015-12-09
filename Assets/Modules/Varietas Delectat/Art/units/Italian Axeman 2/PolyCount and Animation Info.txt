@@ -1,4 +1,0 @@
-PolyCount for Militia Axeman:
-634
-
-Uses Swordsman kfm.
