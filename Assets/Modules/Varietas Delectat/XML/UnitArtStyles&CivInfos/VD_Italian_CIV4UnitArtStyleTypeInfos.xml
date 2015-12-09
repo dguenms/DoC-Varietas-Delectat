@@ -242,7 +242,7 @@
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ITALIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ITALIAN_LATE</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ITALIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ITALIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
