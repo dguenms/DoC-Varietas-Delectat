@@ -10,198 +10,179 @@
 <!--                                                                                                                                                -->
 <!-- VD mod BEGIN Barbarian ArtStyle                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
-
 		<UnitArtStyleTypeInfo>
 			<Type>UNIT_ARTSTYLE_BARBARIAN</Type>
 			<StyleUnits>
-				
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKERMODERN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_PIRATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MODERN_WORKER</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>				
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WARRIOR</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PIRATE</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>	
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_LEADER_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_LEADER_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_LEADER_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_LEADER_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_BURYAT_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>	
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>					
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_LONGBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_PIRATE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_PIRATE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_PIRATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_PIRATE</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>	
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CROSSBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_PIRATE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_PIRATE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_PIRATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_PIRATE</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>																
-
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
-					<UnitType>UNIT_MACEMAN</UnitType>
+					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MACEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACEMAN_BARBARIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MACEMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACEMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>		
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_KNIGHT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>						
-
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PIRATE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUS_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PIRATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUS_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>								
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_AT_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_BARBARIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_BARBARIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>		
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MARINE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AK47_PUNK</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AK47_PUNK</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AK47_PUNK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AK47_PUNK</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>		
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_ARTILLERY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_ALTERNATE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_ALTERNATE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_ALTERNATE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_ALTERNATE</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>												
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_FRIGATE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PIRATE_BRIGANTINE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIRATE_BRIGANTINE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PIRATE_BRIGANTINE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIRATE_BRIGANTINE</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>						
-
+				</StyleUnit>
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
-
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
 <!-- VD mod END Barbarian ArtStyle                                                                                                                  -->

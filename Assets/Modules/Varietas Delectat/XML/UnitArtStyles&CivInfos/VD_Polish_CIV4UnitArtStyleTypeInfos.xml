@@ -10,451 +10,407 @@
 <!--                                                                                                                                                -->
 <!-- VD mod BEGIN Polish ArtStyle                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
-
 		<UnitArtStyleTypeInfo>
 			<Type>UNIT_ARTSTYLE_POLISH</Type>
 			<StyleUnits>
-
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_PACK</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_PACK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_CHILD</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_CHILD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_DOG</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_FEMALE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_DOG</MiddleArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_EUROPEAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_FEMALE</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_EUROPEAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_EUROPEAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_DOG</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_FEMALE</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_DOG</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_EUROPEAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_CHILD</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_CHILD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_EUROPEAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKERMODERN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MODERN_WORKER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_SCOUT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SCOUT_RUSSIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SCOUT_RUSSIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCOUT_RUSSIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SCOUT_RUSSIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_EXPLORER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_WARRIOR</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_GERMANIC</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_GERMANIC</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_GERMANIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_GERMANIC</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
-
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_1_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_1_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_1_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_1_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_2_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_2_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_2_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_2_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_PIKEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_LONGBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_CROSSBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_2</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_2</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_2</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_2</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_3</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_3</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_3</MiddleArtDefineTag>
-					</UnitMeshGroup>										
-				</StyleUnit>				
-
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLAND_3</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_2_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_2_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_2_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_2_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_3_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_3_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_3_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_3_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
-					<UnitType>UNIT_MACEMAN</UnitType>
+					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MACEMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACEMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MACEMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACEMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_CHARIOT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_EUROPEAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_EUROPEAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_EUROPEAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_KNIGHT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_CAVALRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>	
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CANNON</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CANNON_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>				
-
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_GRENADIER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_MACHINE_GUN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>				
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_AT_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_SAM_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>				
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_PARATROOPER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PARATROOPER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PARATROOPER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PARATROOPER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PARATROOPER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>					
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MARINE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MARINE_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MARINE_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MARINE_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MARINE_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>							
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_TANK</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_10TP_TANK_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_10TP_TANK_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_10TP_TANK_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_10TP_TANK_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
-					<UnitType>UNIT_MODERN_ARMOR</UnitType>
+					<UnitType>UNIT_MAIN_BATTLE_TANK</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MODERN_ARMOR_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_ARMOR_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MODERN_ARMOR_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MODERN_ARMOR_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-								
 				<StyleUnit>
 					<UnitType>UNIT_MECHANIZED_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ROSOMAK_MECH_INF_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ROSOMAK_MECH_INF_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ROSOMAK_MECH_INF_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ROSOMAK_MECH_INF_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>				
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SUBMARINE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ORZEL_SUBMARINE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ORZEL_SUBMARINE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ORZEL_SUBMARINE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ORZEL_SUBMARINE</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>	
-
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_FIGHTER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_FIGHTER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_FIGHTER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_FIGHTER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_FIGHTER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_BOMBER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_BOMBER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_BOMBER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_BOMBER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_BOMBER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_JET_FIGHTER</UnitType>
 						<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_JET_FIGHTER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_JET_FIGHTER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_JET_FIGHTER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_JET_FIGHTER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>					
-				
+				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_GUNSHIP</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GUNSHIP_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_GUNSHIP_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GUNSHIP_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GUNSHIP_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
-					<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_ANCIENT</EarlyArtDefineTag>
-					<LateArtDefineTag>ART_DEF_UNIT_WARLORD_MODERN_POLAND</LateArtDefineTag>
-					<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_MEDIEVAL_POLAND</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_GENERAL</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_MEDIEVAL_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARLORD_MODERN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>			
-				
+				</StyleUnit>
 				<!--StyleUnit>
 					<UnitType>UNIT_EARLY_FIGHTER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_EARLY_FIGHTER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_EARLY_FIGHTER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_EARLY_FIGHTER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_EARLY_FIGHTER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>	
-				
-				<StyleUnit>
+				</StyleUnit-->
+				<!--StyleUnit>
 					<UnitType>UNIT_LIGHT_BOMBER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_BOMBER_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_BOMBER_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_BOMBER_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_BOMBER_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>	
-				
-				<StyleUnit>
+				</StyleUnit-->
+				<!--StyleUnit>
 					<UnitType>UNIT_LIGHT_TANK</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_7TP_TANK_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_7TP_TANK_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_7TP_TANK_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_7TP_TANK_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit>			
-				
-				<StyleUnit>
+				</StyleUnit-->
+				<!--StyleUnit>
 					<UnitType>UNIT_SUPERSONIC_JET_FIGHTER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MIG21_JET_POLAND</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MIG21_JET_POLAND</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MIG21_JET_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MIG21_JET_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit-->															
-
+				</StyleUnit-->
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
 <!--________________________________________________________________________________________________________________________________________________-->

@@ -54,7 +54,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ARCHER_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Archer.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,1</Button>
@@ -79,7 +78,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -104,7 +102,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_POLAND_2</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -129,7 +126,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_POLAND_3</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -154,7 +150,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_BOMBER_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
@@ -300,7 +295,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_EARLY_FIGHTER_POLAND</Type>
 			<Button>Modules/Poland/FlavourUnits/EarlyFighterPoland/Btn_PolAlbatros.dds</Button>
@@ -331,7 +325,6 @@
 			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
 		</UnitArtInfo>
-			
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_FIGHTER_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Fighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,10</Button>
@@ -646,7 +639,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPEARMAN_1_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
@@ -671,7 +663,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPEARMAN_2_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
@@ -696,7 +687,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SWORDSMAN_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Swordsman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,5</Button>
@@ -721,7 +711,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SWORDSMAN_2_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Swordsman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,5</Button>
@@ -746,7 +735,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SWORDSMAN_3_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Swordsman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,5</Button>
@@ -771,7 +759,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_7TP_TANK_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
@@ -807,7 +794,6 @@
 			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_10TP_TANK_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
@@ -842,8 +828,7 @@
 			</AudioRunSounds>
 			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
-		</UnitArtInfo>		
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WARLORD_MEDIEVAL_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/GreatEngineer.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,10</Button>
@@ -867,8 +852,7 @@
 			<AudioRunTypeLoop/>
 			<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>					
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WARLORD_MODERN_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/GreatEngineer.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,10</Button>
@@ -892,8 +876,7 @@
 			<AudioRunTypeLoop/>
 			<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ROSOMAK_MECH_INF_POLAND</Type>
 			<Button>Modules/Poland/FlavourUnits/KTORosomakPoland/btn_rosomak-1.dds</Button>
@@ -926,8 +909,7 @@
 				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
 				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
 			</AudioRunSounds>
-		</UnitArtInfo>		
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AT_INFANTRY_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,5,11</Button>
@@ -951,8 +933,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>			
-				
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HORSEMAN_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/HorseArcher.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,7</Button>
@@ -971,13 +952,12 @@
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
 			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
 			<AudioRunSounds>
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_LIGHT_BOMBER_POLAND</Type>
 			<Button>Modules/Varietas Delectat/Art/Buttons/Units/ju87.dds</Button>
@@ -1007,8 +987,7 @@
 			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
 			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MACHINE_GUN_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/MachineGun.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,6</Button>
@@ -1032,8 +1011,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MARINE_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
@@ -1057,8 +1035,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MUSKETMAN_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
@@ -1082,8 +1059,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_PARATROOPER_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,11</Button>
@@ -1108,7 +1084,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SAM_INFANTRY_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/SAM_Infantry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,8</Button>
@@ -1132,8 +1107,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MIG21_JET_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/JetFighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,10</Button>
@@ -1163,7 +1137,6 @@
 			<PatrolSound>AS3D_UN_JET_PATROL</PatrolSound>
 			<SelectionSound>AS3D_UN_JET_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_JET_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>												
-				
+		</UnitArtInfo>
 	</UnitArtInfos>
 </Civ4ArtDefines>

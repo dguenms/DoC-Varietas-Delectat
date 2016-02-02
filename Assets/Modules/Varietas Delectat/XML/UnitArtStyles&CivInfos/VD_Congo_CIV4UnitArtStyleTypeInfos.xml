@@ -10,7 +10,6 @@
 <!--                                                                                                                                                -->
 <!-- VD mod BEGIN Congolese ArtStyle                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
-
 		<UnitArtStyleTypeInfo>
 			<Type>UNIT_ARTSTYLE_CONGO</Type>
 			<StyleUnits>
@@ -18,248 +17,247 @@
 					<UnitType>UNIT_AT_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AT_INFANTRY</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AT_INFANTRY</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AT_INFANTRY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AT_INFANTRY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARCHER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARCHER</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARCHER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARCHER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CANNON</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CANNON</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CANNON</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CANNON</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CANNON</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CAVALRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHER_AFRICAN_CAVALRY</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHER_AFRICAN_CAVALRY</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHER_AFRICAN_CAVALRY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHER_AFRICAN_CAVALRY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CHARIOT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CROSSBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CROSSBOWMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CROSSBOWMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CROSSBOWMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CROSSBOWMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CUIRASSIER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CUIRASSIER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CUIRASSIER</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CUIRASSIER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CUIRASSIER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WAR_ELEPHANT</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WAR_ELEPHANT</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WAR_ELEPHANT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WAR_ELEPHANT</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_EXPLORER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_EXPLORER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_EXPLORER</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_EXPLORER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_EXPLORER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_GRENADIER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_GRENADIER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_GRENADIER</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_GRENADIER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_GRENADIER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HORSE_ARCHER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HORSE_ARCHER</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HORSE_ARCHER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HORSE_ARCHER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_INFANTRY</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_INFANTRY</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_INFANTRY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_INFANTRY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_KNIGHT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_KNIGHT</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_KNIGHT</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_KNIGHT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_KNIGHT</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_LONGBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_LONGBOWMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_LONGBOWMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_LONGBOWMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_LONGBOWMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MACEMAN</UnitType>
+					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACEMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MACHINE_GUN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACHINE_GUN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACHINE_GUN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACHINE_GUN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MACHINE_GUN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MARINE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MARINE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MARINE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MARINE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MARINE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_PARATROOPER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PARATROOPER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PARATROOPER</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PARATROOPER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PARATROOPER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_PIKEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_RIFLEMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_RIFLEMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_RIFLEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_RIFLEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SAM_INFANTRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SAM_INFANTRY</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SAM_INFANTRY</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SAM_INFANTRY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SAM_INFANTRY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SCOUT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SCOUT</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SCOUT</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SCOUT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SCOUT</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_MALE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_MALE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_MALE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_MALE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WARRIOR</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WORKER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKERMODERN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WORKER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MODERN_WORKER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
-
-<!--________________________________________________________________________________________________________________________________________________-->
+<!--_______________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
 <!-- VD mod END Congolese ArtStyle                                                                                                                  -->
 <!--________________________________________________________________________________________________________________________________________________-->
