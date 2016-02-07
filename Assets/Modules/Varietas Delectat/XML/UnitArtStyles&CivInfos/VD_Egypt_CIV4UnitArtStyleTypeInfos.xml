@@ -438,16 +438,16 @@
 				<StyleUnit>
 					<UnitType>UNIT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ANCIENT_SPY_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ANCIENT_SPY_EGYPT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_SPY</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EGYPT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EGYPT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_SPY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_SPY</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_ARAB</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>

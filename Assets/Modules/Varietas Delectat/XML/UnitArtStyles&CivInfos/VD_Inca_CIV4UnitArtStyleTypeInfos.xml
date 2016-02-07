@@ -56,7 +56,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_INCAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_INCAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_WORKER</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -73,24 +73,6 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_MAYAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_MAYAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_MAYAN</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_INCAN_AUCAC</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -392,7 +374,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_INCA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_INCA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_GREAT_GENERAL</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
@@ -400,7 +382,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_GREAT_ARTIST</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
@@ -430,8 +412,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_SPY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_SPY</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_INDIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>

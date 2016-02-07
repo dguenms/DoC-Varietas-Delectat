@@ -509,7 +509,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_POLAND</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -533,7 +533,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MODERN_ARMOR_POLAND</Type>
+			<Type>ART_DEF_UNIT_MAIN_BATTLE_TANK_POLAND</Type>
 			<Button>,Art/Interface/Buttons/Units/ModernArmor.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,11</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>

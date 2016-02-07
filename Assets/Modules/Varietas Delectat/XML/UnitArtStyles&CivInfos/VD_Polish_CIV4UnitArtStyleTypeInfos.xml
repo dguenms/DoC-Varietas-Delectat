@@ -56,7 +56,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_EUROPEAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_EUROPEAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_WORKER</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -182,9 +182,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MACEMAN_POLAND</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MACEMAN_POLAND</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACEMAN_POLAND</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_POLAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -318,9 +318,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_MAIN_BATTLE_TANK</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MODERN_ARMOR_POLAND</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MODERN_ARMOR_POLAND</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_ARMOR_POLAND</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MAIN_BATTLE_TANK_POLAND</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MAIN_BATTLE_TANK_POLAND</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MAIN_BATTLE_TANK_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -374,7 +374,7 @@
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_GENERAL</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_MEDIEVAL_POLAND</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARLORD_MODERN_POLAND</LateArtDefineTag>
 					</UnitMeshGroup>

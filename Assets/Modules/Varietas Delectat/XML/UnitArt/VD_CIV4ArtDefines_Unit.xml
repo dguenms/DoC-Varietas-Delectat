@@ -308,7 +308,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</Type>
+			<Type>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</Type>
 			<Button>,Art/Interface/Buttons/Units/Missionary_Jewish.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,3</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -332,7 +332,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_CHRISTIAN_MISSIONARY_JT_ZULU</Type>
+			<Type>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</Type>
 			<Button>,Art/Interface/Buttons/Units/Missionary_Christian.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,3</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -476,7 +476,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_ANCIENT_SPY_JT_AFRICA</Type>
+			<Type>ART_DEF_UNIT_SPY_ANCIENT_JT_AFRICA</Type>
 			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
@@ -984,7 +984,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_WORKERMODERN_AFRICAN</Type>
+			<Type>ART_DEF_UNIT_WORKER_MODERN_AFRICAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Worker.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,5</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -2559,7 +2559,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_ZULU</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_ZULU</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -2793,7 +2793,7 @@
 <!-- VD mod BEGIN Egyptian UnitArt                                                                                                                  -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_ANCIENT_SPY_EGYPT</Type>
+			<Type>ART_DEF_UNIT_SPY_ANCIENT_EGYPT</Type>
 			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
@@ -3589,7 +3589,7 @@
 <!-- VD mod BEGIN Middle East UnitArt                                                                                                               -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_ANCIENT_SPY_MIDDLE_EAST</Type>
+			<Type>ART_DEF_UNIT_SPY_ANCIENT_MIDDLE_EAST</Type>
 			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
@@ -6109,7 +6109,7 @@
 <!-- VD mod BEGIN South American UnitArt                                                                                                            -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_INCAN_QUECHUA_1</Type>
+			<Type>ART_DEF_UNIT_INCAN_AUCAC_2</Type>
 			<Button>,Art/Interface/Buttons/Units/Quechua.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,4</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -6133,7 +6133,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_INCAN_QUECHUA_2</Type>
+			<Type>ART_DEF_UNIT_INCAN_AUCAC_1</Type>
 			<Button>,Art/Interface/Buttons/Units/Quechua.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,4</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -6157,7 +6157,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_INCAN_QUECHUA_3</Type>
+			<Type>ART_DEF_UNIT_INCAN_AUCAC_3</Type>
 			<Button>,Art/Interface/Buttons/Units/Quechua.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,4</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -7340,7 +7340,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_NATIVE_AMERICAN</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_NATIVE_AMERICAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -9967,7 +9967,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_WORKERMODERN_ASIAN</Type>
+			<Type>ART_DEF_UNIT_WORKER_MODERN_ASIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Worker.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,5</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -12850,7 +12850,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_INDIAN</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_INDIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -15120,7 +15120,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_FRENCH</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_FRENCH</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -15871,7 +15871,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_ENGLISH</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_ENGLISH</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -21277,7 +21277,7 @@
 <!-- VD mod BEGIN Roman UnitArt                                                                                                                     -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_ANCIENT_SPY_GRECOROMAN</Type>
+			<Type>ART_DEF_UNIT_SPY_ANCIENT_GRECOROMAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
@@ -23567,7 +23567,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_BYZANTINE</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_BYZANTINE</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -23878,7 +23878,7 @@
 <!-- VD mod BEGIN European UnitArt                                                                                                                 -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_ANCIENT_SPY_EUROPE</Type>
+			<Type>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</Type>
 			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
@@ -24294,7 +24294,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_USA</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_USA</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -26054,7 +26054,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_BARBARIAN</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_BARBARIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -32468,7 +32468,7 @@
 <!-- CULTURAL DIVERSITY -  Footmen aka macemen.                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_GERMAN</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_GERMAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

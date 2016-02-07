@@ -56,7 +56,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_AFRICAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKERMEDIEVAL_AFRICAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKERMODERN_AFRICAN</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN_AFRICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -318,17 +318,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_PROTESTANT_MISSIONARY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CATHOLIC_MISSIONARY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CHRISTIAN_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CHRISTIAN_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CHRISTIAN_MISSIONARY_JT_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -374,8 +374,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ANCIENT_SPY_JT_AFRICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ANCIENT_SPY_JT_AFRICA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_JT_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_JT_AFRICA</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_JT_AFRICA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -430,8 +430,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_SPY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ANCIENT_GREAT_SPY</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_GREAT_SPY_JT_AFRICA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>

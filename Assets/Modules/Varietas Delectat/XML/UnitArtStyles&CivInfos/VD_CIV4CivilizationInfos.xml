@@ -7169,6 +7169,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY1</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_INDEPENDENT</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_NATIVE_AMERICAN</UnitArtStyleType>
 			<Identifier>MIN</Identifier>
 			<StartingYear>0</StartingYear>
 			<LoadingTimes>
@@ -7402,6 +7403,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY2</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_INDEPENDENT</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_SUMERIAN</UnitArtStyleType>
 			<Identifier>MIN</Identifier>
 			<StartingYear>0</StartingYear>
 			<LoadingTimes>
@@ -7968,6 +7970,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_BLACK</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BARBARIAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_BARBARIAN</UnitArtStyleType>
 			<Identifier>BAR</Identifier>
 			<StartingYear>0</StartingYear>
 			<LoadingTimes>

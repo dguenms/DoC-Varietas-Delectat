@@ -203,7 +203,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_ANCIENT_SPY_ITALIAN</Type>
+			<Type>ART_DEF_UNIT_SPY_ANCIENT_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.40</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
@@ -526,7 +526,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_ITALIAN</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

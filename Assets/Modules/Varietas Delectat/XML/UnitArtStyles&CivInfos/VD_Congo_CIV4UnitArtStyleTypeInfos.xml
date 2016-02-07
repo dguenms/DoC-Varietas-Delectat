@@ -252,7 +252,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WORKER</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WORKER</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MODERN_WORKER</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>
