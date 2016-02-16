@@ -194,6 +194,11 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_POLAND_EARLY</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>

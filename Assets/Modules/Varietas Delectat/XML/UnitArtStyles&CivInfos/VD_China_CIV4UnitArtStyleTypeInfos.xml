@@ -202,6 +202,11 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_CHINESE</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_CHINESE</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_CHINESE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_CHINESE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_CHINESE</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>

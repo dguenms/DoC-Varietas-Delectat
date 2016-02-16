@@ -60,6 +60,11 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_CHARIOT</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CROSSBOWMAN</UnitType>

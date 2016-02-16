@@ -194,6 +194,11 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_ARABIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_ARABIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_ARABIAN</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
@@ -201,6 +206,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_ARABIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_ARABIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_ARABIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_KNIGHT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_MALI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_MALI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_MALI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

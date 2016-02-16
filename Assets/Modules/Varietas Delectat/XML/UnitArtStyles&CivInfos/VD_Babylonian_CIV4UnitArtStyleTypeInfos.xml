@@ -94,6 +94,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARCHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_SUMER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_SUMER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_SUMER</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_LONGBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_BABYLONIAN</EarlyArtDefineTag>
@@ -181,6 +189,11 @@
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CHARIOT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</LateArtDefineTag>
+					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</MiddleArtDefineTag>

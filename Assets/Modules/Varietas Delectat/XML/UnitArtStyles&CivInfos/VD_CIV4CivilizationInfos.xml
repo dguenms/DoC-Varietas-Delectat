@@ -264,7 +264,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_VERY_LIGHT_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_ARGENTINA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_SPAIN</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_SUMERIAN</UnitArtStyleType>
 			<Identifier>ARG</Identifier>
 			<StartingYear>1810</StartingYear>
 			<LoadingTimes>
@@ -660,7 +660,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BRAZIL</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_PORTUGAL</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_BARBARIAN</UnitArtStyleType>
 			<Identifier>BRA</Identifier>
 			<StartingYear>1822</StartingYear>
 			<LoadingTimes>
@@ -4298,7 +4298,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_MEXICO</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_SPAIN</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_NATIVE_AMERICAN</UnitArtStyleType>
 			<Identifier>MEX</Identifier>
 			<StartingYear>1810</StartingYear>
 			<LoadingTimes>
@@ -5525,7 +5525,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_POLYNESIA</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_POLYNESIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_PACIFIC</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_KHMER</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_POLYNESIA</UnitArtStyleType>
 			<Identifier>PLY</Identifier>
 			<StartingYear>-1000</StartingYear>
 			<LoadingTimes>
@@ -7169,7 +7169,6 @@
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY1</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_INDEPENDENT</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_NATIVE_AMERICAN</UnitArtStyleType>
 			<Identifier>MIN</Identifier>
 			<StartingYear>0</StartingYear>
 			<LoadingTimes>
@@ -7403,7 +7402,6 @@
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY2</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_INDEPENDENT</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_SUMERIAN</UnitArtStyleType>
 			<Identifier>MIN</Identifier>
 			<StartingYear>0</StartingYear>
 			<LoadingTimes>
@@ -7970,7 +7968,6 @@
 			<DefaultPlayerColor>PLAYERCOLOR_BLACK</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BARBARIAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_BARBARIAN</UnitArtStyleType>
 			<Identifier>BAR</Identifier>
 			<StartingYear>0</StartingYear>
 			<LoadingTimes>

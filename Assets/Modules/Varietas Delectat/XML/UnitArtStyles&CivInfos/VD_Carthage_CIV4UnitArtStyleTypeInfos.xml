@@ -186,6 +186,11 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_CARTHAGE_CHARIOT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CARTHAGE_CHARIOT</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CARTHAGE_CHARIOT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CARTHAGE_CHARIOT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CARTHAGE_CHARIOT</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>

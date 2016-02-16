@@ -233,7 +233,7 @@
 			<iNukeRange>-1</iNukeRange>
 			<iAsset>4</iAsset>
 			<UnitMeshGroups>
-				<iGroupSize>4</iGroupSize>
+				<iGroupSize>7</iGroupSize>
 				<fMaxSpeed>1.75</fMaxSpeed>
 				<fPadTime>1</fPadTime>
 				<iMeleeWaveSize>4</iMeleeWaveSize>
@@ -247,8 +247,20 @@
 					<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE</EarlyArtDefineTag>
 				</UnitMeshGroup>
 				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE</EarlyArtDefineTag>
+				</UnitMeshGroup>
+				<UnitMeshGroup>
 					<iRequired>2</iRequired>
 					<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD</EarlyArtDefineTag>
+				</UnitMeshGroup>
+				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_DOG</EarlyArtDefineTag>
+				</UnitMeshGroup>
+				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_PACK</EarlyArtDefineTag>
 				</UnitMeshGroup>
 			</UnitMeshGroups>
 			<FormationType>FORMATION_TYPE_DEFAULT</FormationType>
@@ -1269,11 +1281,31 @@
 			<iAsset>1</iAsset>
 			<iPower>2</iPower>
 			<UnitMeshGroups>
-				<iGroupSize>3</iGroupSize>
+				<iGroupSize>8</iGroupSize>
 				<fMaxSpeed>1.75</fMaxSpeed>
 				<fPadTime>1</fPadTime>
 				<iMeleeWaveSize>3</iMeleeWaveSize>
 				<iRangedWaveSize>0</iRangedWaveSize>
+				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR</EarlyArtDefineTag>
+				</UnitMeshGroup>
+				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR</EarlyArtDefineTag>
+				</UnitMeshGroup>
+				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR</EarlyArtDefineTag>
+				</UnitMeshGroup>
+				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR</EarlyArtDefineTag>
+				</UnitMeshGroup>
+				<UnitMeshGroup>
+					<iRequired>1</iRequired>
+					<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR</EarlyArtDefineTag>
+				</UnitMeshGroup>
 				<UnitMeshGroup>
 					<iRequired>1</iRequired>
 					<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR</EarlyArtDefineTag>
@@ -5906,13 +5938,13 @@
 		</UnitInfo>
 		<UnitInfo>
 			<Class>UNITCLASS_HORSE_ARCHER</Class>
-			<Type>UNIT_NUMIDIAN_NUMIDIAN_CAVALRY</Type>
+			<Type>UNIT_NUMIDIAN_CAVALRY</Type>
 			<Combat>UNITCOMBAT_MOUNTED</Combat>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
-			<Description>TXT_KEY_UNIT_NUMIDIAN_NUMIDIAN_CAVALRY</Description>
-			<Civilopedia>TXT_KEY_UNIT_NUMIDIAN_NUMIDIAN_CAVALRY_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_NUMIDIAN_NUMIDIAN_CAVALRY_STRATEGY</Strategy>
+			<Description>TXT_KEY_UNIT_NUMIDIAN_CAVALRY</Description>
+			<Civilopedia>TXT_KEY_UNIT_NUMIDIAN_CAVALRY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_NUMIDIAN_CAVALRY_STRATEGY</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<bMilitaryHappiness>1</bMilitaryHappiness>
 			<bMilitarySupport>1</bMilitarySupport>
@@ -6004,7 +6036,7 @@
 				<iRangedWaveSize>3</iRangedWaveSize>
 				<UnitMeshGroup>
 					<iRequired>3</iRequired>
-					<EarlyArtDefineTag>ART_DEF_UNIT_NUMIDIAN_NUMIDIAN_CAVALRY</EarlyArtDefineTag>
+					<EarlyArtDefineTag>ART_DEF_UNIT_NUMIDIAN_CAVALRY</EarlyArtDefineTag>
 				</UnitMeshGroup>
 			</UnitMeshGroups>
 			<FormationType>FORMATION_TYPE_DEFAULT</FormationType>
