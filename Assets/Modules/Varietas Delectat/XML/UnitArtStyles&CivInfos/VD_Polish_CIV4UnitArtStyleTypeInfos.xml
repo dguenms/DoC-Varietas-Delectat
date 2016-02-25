@@ -11,13 +11,13 @@
 <!-- VD mod BEGIN Polish ArtStyle                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_POLISH</Type>
+			<Type>UNIT_ARTSTYLE_POLAND</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
@@ -377,11 +377,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_POLISH_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_MEDIEVAL_POLAND</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARLORD_MODERN_POLAND</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<!--StyleUnit>

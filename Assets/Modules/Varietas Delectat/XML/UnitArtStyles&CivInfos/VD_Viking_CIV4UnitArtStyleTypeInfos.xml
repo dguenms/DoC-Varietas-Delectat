@@ -16,8 +16,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
@@ -177,14 +177,6 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_VIKING</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_VIKING</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_VIKING</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_VIKING_HUSCARL</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_FOOTMAN_VIKING</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_FOOTMAN_VIKING</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_FOOTMAN_VIKING</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -441,7 +433,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_VIKING_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MEDIEVAL</MiddleArtDefineTag>
@@ -465,11 +457,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_VIKING_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_VIKING</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_VIKING</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PROPHET_VIKING</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_PROPHET</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

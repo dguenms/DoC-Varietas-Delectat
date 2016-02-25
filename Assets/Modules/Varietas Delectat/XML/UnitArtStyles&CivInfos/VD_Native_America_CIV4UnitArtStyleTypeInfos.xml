@@ -11,51 +11,51 @@
 <!-- VD mod BEGIN Native American ArtStyle                                                                                                                  -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_NATIVE_AMERICAN</Type>
+			<Type>UNIT_ARTSTYLE_NATIVE_AMERICA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_PACK</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_PACK</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DOG</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DOG</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_HORSE_PACK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DOG</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DOG</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_HORSE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_SOUTH_AMERICA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_SOUTH_AMERICAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -133,6 +133,24 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_NATIVE_AMERICAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_NATIVE_AMERICAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_NATIVE_AMERICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_AXEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_KHMER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -363,7 +381,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_NATIVE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_NATIVE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PROPHET_NATIVE</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_PROPHET</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 

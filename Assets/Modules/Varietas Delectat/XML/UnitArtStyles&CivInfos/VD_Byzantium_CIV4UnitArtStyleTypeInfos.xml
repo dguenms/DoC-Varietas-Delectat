@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Byzantine ArtStyle                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_BYZANTINE</Type>
+			<Type>UNIT_ARTSTYLE_BYZANTIUM</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -65,6 +65,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_WORKER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_HELLENISTIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKERMEDIEVAL_EU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

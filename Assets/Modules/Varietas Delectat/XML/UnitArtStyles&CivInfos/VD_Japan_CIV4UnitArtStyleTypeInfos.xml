@@ -11,14 +11,14 @@
 <!-- VD mod BEGIN Japanese ArtStyle                                                                                                                 -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_JAPANESE</Type>
+			<Type>UNIT_ARTSTYLE_JAPAN</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_ELDER_ASIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_ELDER_ASIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_ELDER_ASIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_ASIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE</EarlyArtDefineTag>
@@ -177,6 +177,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAPANESE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAPANESE</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAPANESE</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_JAPANESE_SAMURAI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_JAPANESE_SAMURAI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_JAPANESE_SAMURAI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -433,7 +441,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_JAPANESE_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_ASIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_ASIAN</MiddleArtDefineTag>
@@ -449,7 +457,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_JAPANESE_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_ZHANG_FEI</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_ZHAOYUN_CHINESE</MiddleArtDefineTag>

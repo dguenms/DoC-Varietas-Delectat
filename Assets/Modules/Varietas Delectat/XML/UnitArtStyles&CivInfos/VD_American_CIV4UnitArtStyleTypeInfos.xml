@@ -11,13 +11,13 @@
 <!-- VD mod BEGIN USA ArtStyle                                                                                                                      -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_USA</Type>
+			<Type>UNIT_ARTSTYLE_AMERICA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
@@ -54,16 +54,24 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_SOUTH_AMERICA</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_EUROPEAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKERMEDIEVAL_EU</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_SCOUT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SCOUT_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SCOUT_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SCOUT_EUROPEAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_EXPLORER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_USA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_USA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_USA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -81,6 +89,19 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_USA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_USA</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_USA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CHARIOT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_EUROPEAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_EUROPEAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -164,17 +185,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_NATIVE_AMERICAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_NATIVE_AMERICAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_NATIVE_AMERICAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_ENGLISH</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_ENGLISH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_ENGLISH</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_USA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_USA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_USA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_EU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_EU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_EU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -201,6 +222,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_HOLY_ROMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_HOLY_ROMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_HOLY_ROMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -396,11 +425,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_AMERICAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MED_USA</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARLORD_MODERN_USA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MARINE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AMERICAN_NAVY_SEAL</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AMERICAN_NAVY_SEAL</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AMERICAN_NAVY_SEAL</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

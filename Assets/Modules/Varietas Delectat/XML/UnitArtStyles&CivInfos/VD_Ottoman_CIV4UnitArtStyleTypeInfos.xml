@@ -49,8 +49,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EAST</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EASTERN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -120,6 +120,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_OTTOMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_OTTOMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_OTTOMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -241,24 +249,6 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

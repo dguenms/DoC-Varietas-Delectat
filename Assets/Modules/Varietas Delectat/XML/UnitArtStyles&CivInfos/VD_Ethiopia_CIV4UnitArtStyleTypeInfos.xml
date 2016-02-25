@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Ethiopian ArtStyle                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_ETHIOPIAN</Type>
+			<Type>UNIT_ARTSTYLE_ETHIOPIA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -125,6 +125,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_ETHIOPIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_ETHIOPIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_ETHIOPIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -323,9 +331,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_PROTESTANT_MISSIONARY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -385,7 +393,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_ETHIOPIAN_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_JT_AFRICA</MiddleArtDefineTag>
@@ -393,7 +401,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_ARTIST</UnitType>
+					<UnitType>UNIT_ETHIOPIAN_GREAT_ARTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_JT_AFRICA</MiddleArtDefineTag>
@@ -401,7 +409,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
+					<UnitType>UNIT_ETHIOPIAN_GREAT_MERCHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_JT_AFRICA</MiddleArtDefineTag>
@@ -409,7 +417,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_SCIENTIST</UnitType>
+					<UnitType>UNIT_ETHIOPIAN_GREAT_SCIENTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_JT_AFRICA</MiddleArtDefineTag>
@@ -417,7 +425,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
+					<UnitType>UNIT_ETHIOPIAN_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_JT_AFRICA</MiddleArtDefineTag>
@@ -425,7 +433,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_ETHIOPIAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_ANCIENT_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_MEDIEVAL_JT_AFRICA</MiddleArtDefineTag>

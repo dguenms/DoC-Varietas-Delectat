@@ -102,6 +102,24 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_JAVELIN_THROWER_ZULU</EarlyArtDefineTag>
@@ -305,9 +323,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_PROTESTANT_MISSIONARY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

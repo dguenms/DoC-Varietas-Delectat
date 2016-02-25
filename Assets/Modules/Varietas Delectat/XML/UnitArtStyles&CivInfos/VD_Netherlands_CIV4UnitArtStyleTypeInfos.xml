@@ -11,13 +11,13 @@
 <!-- VD mod BEGIN Holland ArtStyle                                                                                                                  -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_HOLLAND</Type>
+			<Type>UNIT_ARTSTYLE_NETHERLANDS</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>

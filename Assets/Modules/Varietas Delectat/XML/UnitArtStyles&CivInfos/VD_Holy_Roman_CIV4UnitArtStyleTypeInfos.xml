@@ -11,13 +11,13 @@
 <!-- VD mod BEGIN Holy Roman ArtStyle                                                                                                               -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_HOLYROMAN</Type>
+			<Type>UNIT_ARTSTYLE_HOLY_ROMAN</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
@@ -268,6 +268,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_LITTORIO_BATTLESHIP</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_LITTORIO_BATTLESHIP</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_LITTORIO_BATTLESHIP</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

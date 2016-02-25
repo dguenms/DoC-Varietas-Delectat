@@ -16,7 +16,7 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_PIRATE</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>

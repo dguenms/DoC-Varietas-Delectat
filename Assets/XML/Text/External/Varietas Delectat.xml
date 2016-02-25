@@ -77,4 +77,8 @@
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIREME</Tag>
+		<English>War Galley</English>
+	</TEXT>
 </Civ4GameText>

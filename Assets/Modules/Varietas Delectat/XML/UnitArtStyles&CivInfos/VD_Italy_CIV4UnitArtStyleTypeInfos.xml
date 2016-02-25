@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Italian ArtStyle                                                                                                                -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_ITALIAN</Type>
+			<Type>UNIT_ARTSTYLE_ITALY</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -138,7 +138,7 @@
 				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ITALIAN</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN2_ITALIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MEDIEVAL_ITALIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MEDIEVAL_ITALIAN</LateArtDefineTag>
 					</UnitMeshGroup>
@@ -353,7 +353,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_ITALIAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MEDIEVAL</MiddleArtDefineTag>

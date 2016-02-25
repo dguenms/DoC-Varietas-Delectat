@@ -11,14 +11,14 @@
 <!-- VD mod BEGIN Sumerian ArtStyle                                                                                                                 -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_SUMERIAN</Type>
+			<Type>UNIT_ARTSTYLE_SUMERIA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CAMEL_PACK</EarlyArtDefineTag>
@@ -26,24 +26,24 @@
 						<LateArtDefineTag>ART_DEF_UNIT_CAMEL_PACK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CAMEL</EarlyArtDefineTag>
@@ -54,8 +54,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EAST</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_MIDDLE_EASTERN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -252,6 +252,24 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_AXEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_BABYLONIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

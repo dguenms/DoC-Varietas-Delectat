@@ -91,19 +91,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_EURASIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ASIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -428,7 +428,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_MONGOLIAN_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_ASIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_ASIAN</MiddleArtDefineTag>
@@ -444,7 +444,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_MONGOLIAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_GANNING</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_TAISHI_CI</MiddleArtDefineTag>

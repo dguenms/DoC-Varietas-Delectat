@@ -36,6 +36,16 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CANNON</UnitType>
@@ -215,21 +225,51 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_MALE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_MALE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_MALE</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DOG</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DOG</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_CHILD_AFRICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_FEMALE_AFRICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_FEMALE_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_CHILD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_S_A_SETTLER_FEMALE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_CHILD_AFRICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SPEARMAN</MiddleArtDefineTag>
@@ -243,9 +283,29 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_SWORDSMAN</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WARRIOR</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</LateArtDefineTag>
+					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WARRIOR</MiddleArtDefineTag>
@@ -255,9 +315,129 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WORKER</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WORKER</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKERMEDIEVAL_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_PROTESTANT_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CATHOLIC_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CATHOLIC_MISSIONARY_JT_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_TAOIST_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_TAOIST_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_TAOIST_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_TAOIST_MISSIONARY_JT_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_BUDDHIST_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_BUDDHIST_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_BUDDHIST_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_BUDDHIST_MISSIONARY_JT_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_JT_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_JT_AFRICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_JT_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HINDU_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HINDU_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HINDU_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HINDU_MISSIONARY_JT_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_ISLAMIC_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ISLAMIC_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ISLAMIC_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ISLAMIC_MISSIONARY_JT_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CONFUCIAN_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CONFUCIAN_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CONFUCIAN_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CONFUCIAN_MISSIONARY_JT_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CONGOLESE_GREAT_PROPHET</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_JT_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_JT_AFRICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PROPHET_JT_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CONGOLESE_GREAT_ARTIST</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTIST_MODERN_JT_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CONGOLESE_GREAT_MERCHANT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_JT_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_JT_AFRICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MERCHANT_MODERN_JT_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CONGOLESE_GREAT_SCIENTIST</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_JT_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_JT_AFRICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SCIENTIST_MODERN_JT_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CONGOLESE_GREAT_ENGINEER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_JT_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_JT_AFRICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MODERN_JT_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CONGOLESE_GREAT_GENERAL</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARLORD_MODERN_JT_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_AFRICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

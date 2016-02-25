@@ -8,16 +8,16 @@
 	<UnitArtStyleTypeInfos>
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
-<!-- VD mod BEGIN English ArtStyle                                                                                                                  -->
+<!-- VD mod BEGIN Canadian ArtStyle                                                                                                                  -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_ENGLISH</Type>
+			<Type>UNIT_ARTSTYLE_CANADA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
@@ -70,8 +70,8 @@
 				<StyleUnit>
 					<UnitType>UNIT_EXPLORER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_ENGLISH</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_EURO</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_ENGLISH</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -156,14 +156,6 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_ENGLISH</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_3_CELTIC</EarlyArtDefineTag>
@@ -174,17 +166,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_LONGBOWMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_FRANK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_FRANK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_FRANK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CROSSBOWMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_FRANK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_FRANK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_FRANK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -419,6 +411,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EUROPE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_BOMBER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_LANCASTER_BOMBER_ENGLISH</EarlyArtDefineTag>
@@ -443,7 +443,15 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_ENGLISH_GREAT_GENERAL</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MED_ENGLISH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MOD_ENGLISH</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CANADIAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MED_ENGLISH</MiddleArtDefineTag>
@@ -462,7 +470,7 @@
 		</UnitArtStyleTypeInfo>
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
-<!-- VD mod END English ArtStyle                                                                                                                    -->
+<!-- VD mod END Canadian ArtStyle                                                                                                                    -->
 <!--________________________________________________________________________________________________________________________________________________-->
 	</UnitArtStyleTypeInfos>
 </Civ4UnitArtStyleTypeInfos>

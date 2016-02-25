@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Indian ArtStyle                                                                                                                   -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_INDIAN</Type>
+			<Type>UNIT_ARTSTYLE_INDIA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -26,52 +26,14 @@
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_2_INDIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_HARAPPAN_CITY_BUILDER</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_INDIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_INDIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_INDIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_2_INDIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_2_INDIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_2_INDIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</EarlyArtDefineTag>
@@ -84,9 +46,9 @@
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -412,6 +374,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_INDIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_MIDDLE_EAST</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_MIDDLE_EAST</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

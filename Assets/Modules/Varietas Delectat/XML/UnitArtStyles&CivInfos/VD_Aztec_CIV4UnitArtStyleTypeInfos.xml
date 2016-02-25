@@ -16,9 +16,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_PACK</EarlyArtDefineTag>
@@ -31,30 +31,30 @@
 						<LateArtDefineTag>ART_DEF_UNIT_HORSE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_SOUTH_AMERICA</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT_SOUTH_AMERICAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_MEXICAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
@@ -164,19 +164,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -227,9 +227,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_KNIGHT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_SOUTH_AMERICA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_SOUTH_AMERICA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_SOUTH_AMERICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_SOUTH_AMERICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -441,7 +441,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_AZTEC_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_AZTEC</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_AZTEC</MiddleArtDefineTag>
@@ -449,7 +449,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_ARTIST</UnitType>
+					<UnitType>UNIT_AZTEC_GREAT_ARTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</MiddleArtDefineTag>
@@ -457,7 +457,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_AZTEC_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_MESO_2</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_MESO_2</MiddleArtDefineTag>
@@ -465,15 +465,23 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
+					<UnitType>UNIT_AZTEC_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_AZTEC_GREAT_STATESMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_JUDGE_SOUTH_AMERICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_JUDGE_SOUTH_AMERICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_JUDGE_SOUTH_AMERICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
+					<UnitType>UNIT_AZTEC_GREAT_MERCHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_MESO</MiddleArtDefineTag>

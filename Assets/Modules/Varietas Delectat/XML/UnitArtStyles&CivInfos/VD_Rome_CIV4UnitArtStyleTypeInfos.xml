@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Roman ArtStyle                                                                                                                    -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_ROMAN</Type>
+			<Type>UNIT_ARTSTYLE_ROME</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -159,6 +159,24 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_ROMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_ROMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_ROMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_CELTIC</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -439,7 +457,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_ROMAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ROMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MED_ROMAN</MiddleArtDefineTag>

@@ -26,9 +26,9 @@
 						<LateArtDefineTag>ART_DEF_UNIT_CAMEL_PACK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EGYPTIAN_ELDER</EarlyArtDefineTag>
@@ -182,14 +182,14 @@
 				<StyleUnit>
 					<UnitType>UNIT_CHARIOT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

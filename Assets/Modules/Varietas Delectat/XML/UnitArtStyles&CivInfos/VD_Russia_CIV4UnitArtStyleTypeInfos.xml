@@ -11,13 +11,13 @@
 <!-- VD mod BEGIN Russian ArtStyle                                                                                                                  -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_RUSSIAN</Type>
+			<Type>UNIT_ARTSTYLE_RUSSIA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
@@ -91,6 +91,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SLAVIC</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CAVALRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_ITALY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_ITALY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_ITALY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -433,7 +441,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_RUSSIAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MEDIEVAL</MiddleArtDefineTag>

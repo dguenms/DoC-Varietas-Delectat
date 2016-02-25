@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Arabian ArtStyle                                                                                                                  -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_ARABIAN</Type>
+			<Type>UNIT_ARTSTYLE_ARABIA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -26,14 +26,14 @@
 						<LateArtDefineTag>ART_DEF_UNIT_CAMEL_PACK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_MIDDLE_EASTERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_ARABIAN</EarlyArtDefineTag>
@@ -54,7 +54,7 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORKER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKERMEDIEVAL_ARABIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
@@ -62,7 +62,7 @@
 				<StyleUnit>
 					<UnitType>UNIT_SCOUT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SCOUT_ARABIAN</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SCOUT_SUMER</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCOUT_ARABIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SCOUT_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
@@ -449,27 +449,27 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_ARABIAN_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
-					<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ARAB</EarlyArtDefineTag>
-					<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_YUSUF</MiddleArtDefineTag>
-					<LateArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MODERN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ARAB</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_YUSUF</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SPY</UnitType>
 					<UnitMeshGroup>
-					<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_MIDDLE_EAST</EarlyArtDefineTag>
-					<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_MIDDLE_EAST</MiddleArtDefineTag>
-					<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_MIDDLE_EAST</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_MIDDLE_EAST</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
-					<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
-					<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
-					<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_ARAB</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_ARAB</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

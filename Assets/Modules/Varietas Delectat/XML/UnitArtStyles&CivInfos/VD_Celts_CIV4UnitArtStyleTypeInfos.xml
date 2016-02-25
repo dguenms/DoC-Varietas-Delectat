@@ -11,13 +11,13 @@
 <!-- VD mod BEGIN Celtic ArtStyle                                                                                                                   -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_CELTIC</Type>
+			<Type>UNIT_ARTSTYLE_CELT</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_EUROPEAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_EUROPEAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
@@ -162,21 +162,21 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_CELTIC_GALLIC_WARRIOR</UnitType>
+					<UnitType>UNIT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -350,6 +350,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_CELT</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit> 
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_VIKING</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_VIKING</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_PROPHET</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

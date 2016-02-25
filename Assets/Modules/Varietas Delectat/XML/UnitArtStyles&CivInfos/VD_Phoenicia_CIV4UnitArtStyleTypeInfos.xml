@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Carthage ArtStyle                                                                                                                 -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_CARTHAGE</Type>
+			<Type>UNIT_ARTSTYLE_PHOENICIA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>

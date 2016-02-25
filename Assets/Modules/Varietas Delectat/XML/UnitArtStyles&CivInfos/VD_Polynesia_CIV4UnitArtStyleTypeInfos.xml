@@ -36,18 +36,18 @@
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_FEMALE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_SOUTH_AMERICAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_FEMALE</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_DOG</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_SOUTH_AMERICAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MODERN_CHILD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -78,9 +78,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_TRIREME</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WORKBOAT_ANCIENT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WORKBOAT_ANCIENT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKBOAT_ANCIENT</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_TRIREME_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_TRIREME_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_TRIREME_AFRICAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -301,6 +301,16 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_POLYNESIA</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_PIKEMAN</UnitType>
@@ -385,9 +395,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_GALLEY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ATAKEBUNE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ATAKEBUNE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ATAKEBUNE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKBOAT_ANCIENT</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKBOAT_ANCIENT</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKBOAT_ANCIENT</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -468,6 +478,38 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_ASIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit> 
+					<UnitType>UNIT_GREAT_ARTIST</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_ARTIST_MODERN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit> 
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_NATIVE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_NATIVE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GREAT_PROPHET</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit> 
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit> 
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_MESO</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_MESO</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MERCHANT_MESO</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>
