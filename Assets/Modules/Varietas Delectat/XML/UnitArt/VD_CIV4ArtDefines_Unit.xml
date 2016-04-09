@@ -308,7 +308,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_PROTESTANT_MISSIONARY_JT_ZULU</Type>
+			<Type>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</Type>
 			<Button>,Art/Interface/Buttons/Units/Missionary_Jewish.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,3</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -17641,7 +17641,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_KIROV_CORVETTE</Type>
 			<Button>,Art/Interface/Buttons/Units/Destroyer.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,9</Button>
-			<fScale>0.68</fScale>
+			<fScale>0.74</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
