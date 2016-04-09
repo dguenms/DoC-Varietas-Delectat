@@ -401,7 +401,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_AZTEC_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MAYAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MAYAN</MiddleArtDefineTag>
@@ -409,7 +409,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_AZTEC_GREAT_ARTIST</UnitType>
+					<UnitType>UNIT_GREAT_ARTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_MESO</MiddleArtDefineTag>
@@ -417,7 +417,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_AZTEC_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_MESO</MiddleArtDefineTag>
@@ -425,7 +425,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_AZTEC_GREAT_ENGINEER</UnitType>
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_MESO</MiddleArtDefineTag>
@@ -433,7 +433,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_AZTEC_GREAT_MERCHANT</UnitType>
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_MESO</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_MESO</MiddleArtDefineTag>
@@ -449,7 +449,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_AZTEC_GREAT_STATESMAN</UnitType>
+					<UnitType>UNIT_GREAT_STATESMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_JUDGE_SOUTH_AMERICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_JUDGE_SOUTH_AMERICA</MiddleArtDefineTag>

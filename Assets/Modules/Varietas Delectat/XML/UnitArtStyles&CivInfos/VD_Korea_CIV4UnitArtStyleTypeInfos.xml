@@ -417,7 +417,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KOREAN_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_ASIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_ASIAN</MiddleArtDefineTag>
@@ -433,7 +433,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KOREAN_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_GUANYU_CHINESE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_ZHANG_LIAO</MiddleArtDefineTag>

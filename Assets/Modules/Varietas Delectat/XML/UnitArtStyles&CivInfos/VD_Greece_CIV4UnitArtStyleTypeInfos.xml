@@ -347,7 +347,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREEK_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_ANCIENT_GREEK</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MEDIEVAL</MiddleArtDefineTag>

@@ -443,15 +443,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ENGLISH_GREAT_GENERAL</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MED_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MOD_ENGLISH</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_CANADIAN_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MED_ENGLISH</MiddleArtDefineTag>

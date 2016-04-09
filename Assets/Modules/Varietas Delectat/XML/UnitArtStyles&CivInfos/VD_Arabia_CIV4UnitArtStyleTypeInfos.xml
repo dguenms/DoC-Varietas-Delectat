@@ -449,7 +449,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_ARABIAN_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ARAB</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_YUSUF</MiddleArtDefineTag>

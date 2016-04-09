@@ -377,7 +377,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_POLISH_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_MEDIEVAL_POLAND</MiddleArtDefineTag>

@@ -441,7 +441,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_SPANISH_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_EL_CID_SPANISH</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_DUKE_OLIVARES_SPANISH</MiddleArtDefineTag>

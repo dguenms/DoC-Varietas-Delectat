@@ -433,7 +433,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_VIKING_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MEDIEVAL</MiddleArtDefineTag>
@@ -457,7 +457,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit> 
-					<UnitType>UNIT_VIKING_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_VIKING</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_VIKING</MiddleArtDefineTag>

@@ -536,6 +536,14 @@
 						<LateArtDefineTag>ART_DEF_UNIT_ROOIVALK_GUNSHIP</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_JEWISH_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
 <!--________________________________________________________________________________________________________________________________________________-->

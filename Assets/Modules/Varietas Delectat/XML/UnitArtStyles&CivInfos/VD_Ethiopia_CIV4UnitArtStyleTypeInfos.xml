@@ -393,7 +393,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ETHIOPIAN_GREAT_PROPHET</UnitType>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_JT_AFRICA</MiddleArtDefineTag>
@@ -401,7 +401,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ETHIOPIAN_GREAT_ARTIST</UnitType>
+					<UnitType>UNIT_GREAT_ARTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_JT_AFRICA</MiddleArtDefineTag>
@@ -409,7 +409,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ETHIOPIAN_GREAT_MERCHANT</UnitType>
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_JT_AFRICA</MiddleArtDefineTag>
@@ -425,7 +425,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ETHIOPIAN_GREAT_ENGINEER</UnitType>
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_JT_AFRICA</MiddleArtDefineTag>
@@ -433,7 +433,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ETHIOPIAN_GREAT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARLORD_ANCIENT_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARLORD_MEDIEVAL_JT_AFRICA</MiddleArtDefineTag>
@@ -550,6 +550,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_MI24_HIND_ETHIOPIA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_MI24_HIND_ETHIOPIA</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_MI24_HIND_ETHIOPIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_JEWISH_MISSIONARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_JEWISH_MISSIONARY_JT_ZULU</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>
