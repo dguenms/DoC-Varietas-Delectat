@@ -409,7 +409,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MANDE_GREAT_SCIENTIST</UnitType>
+					<UnitType>UNIT_GREAT_SCIENTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_JT_AFRICA</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_JT_AFRICA</MiddleArtDefineTag>
