@@ -368,70 +368,6 @@
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_MOD_ITALIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				<!--StyleUnit>
-					<UnitType>UNIT_EARLY_JET_FIGHTER</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AMBROSINI_SV15</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AMBROSINI_SV15</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AMBROSINI_SV15</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_ARMOURED_CAR</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_LANCIA_IZ_ITALIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_LANCIA_IZ_ITALIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_LANCIA_IZ_ITALIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_RECONNAISSANCE_CAR</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AB41_ITALIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AB41_ITALIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AB41_ITALIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_HUMVEE</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HUMVEE_ITALIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HUMVEE_ITALIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HUMVEE_ITALIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_MARINE_WW2</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MARINE_WW2_ITALIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MARINE_WW2_ITALIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MARINE_WW2_ITALIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_EARLY_TANK</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_FIAT_3000</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_FIAT_3000</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_FIAT_3000</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_LIGHT_TANK</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_TANK_ITALIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_TANK_ITALIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_TANK_ITALIAN</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_BATTLE_TANK</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_FIAT_2000</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_FIAT_2000</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_FIAT_2000</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
 				<StyleUnit>
 					<UnitType>UNIT_TANK</UnitType>
 					<UnitMeshGroup>
@@ -440,14 +376,6 @@
 						<LateArtDefineTag>ART_DEF_UNIT_MEDIUM_TANK_ITALIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				<!--StyleUnit>
-					<UnitType>UNIT_HEAVY_TANK</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_FIAT_P26</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_FIAT_P26</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_FIAT_P26</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
 				<StyleUnit>
 					<UnitType>UNIT_MAIN_BATTLE_TANK</UnitType>
 					<UnitMeshGroup>
@@ -464,14 +392,6 @@
 						<LateArtDefineTag>ART_DEF_UNIT_M270_MRLS</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				<!--StyleUnit>
-					<UnitType>UNIT_TANK_DESTROYER</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SEMOVENTE_75_18</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SEMOVENTE_75_18</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SEMOVENTE_75_18</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
 				<StyleUnit>
 					<UnitType>UNIT_WORK_BOAT</UnitType>
 					<UnitMeshGroup>
@@ -488,14 +408,6 @@
 						<LateArtDefineTag>ART_DEF_UNIT_ITALIAN_GALLEY</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				<!--StyleUnit>
-					<UnitType>UNIT_GALLEASS</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ITALIAN_GALLEAS</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ITALIAN_GALLEAS</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ITALIAN_GALLEAS</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit-->
 				<StyleUnit>
 					<UnitType>UNIT_CARAVEL</UnitType>
 					<UnitMeshGroup>
@@ -528,30 +440,118 @@
 						<LateArtDefineTag>ART_DEF_UNIT_ITALIAN_SHIP_OF_THE_LINE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-				<!--StyleUnit>
-					<UnitType>UNIT_EARLY_FIGHTER</UnitType>
+				<StyleUnit>
+					<UnitType>UNIT_AZTEC_JAGUAR</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPAD_XIII_ITALIAN2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPAD_XIII_ITALIAN2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPAD_XIII_ITALIAN2</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_REAL_JAGUAR_AZTEC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_REAL_JAGUAR_AZTEC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_REAL_JAGUAR_AZTEC</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_EARLY_BOMBER</UnitType>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CELTIC_GALLIC_WARRIOR</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CAPRONI_CA3_ITALY2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CAPRONI_CA3_ITALY2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CAPRONI_CA3_ITALY2</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit-->
-				<!--StyleUnit>
-					<UnitType>UNIT_SUPERSONIC_JET_FIGHTER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SUPERSONIC_JET_ITALIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SUPERSONIC_JET_ITALIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SUPERSONIC_JET_ITALIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</LateArtDefineTag>
 					</UnitMeshGroup>
-				</StyleUnit-->
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_GREEK_HOPLITE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PHALANX_ATHENIAN_GREEK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PHALANX_ATHENIAN_GREEK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PHALANX_ATHENIAN_GREEK</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PHALANX_CORINTHIAN_GREEK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PHALANX_CORINTHIAN_GREEK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PHALANX_CORINTHIAN_GREEK</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PHALANX_SPARTAN_GREEK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PHALANX_SPARTAN_GREEK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PHALANX_SPARTAN_GREEK</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_INCAN_AUCAC</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_JAPANESE_SAMURAI</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SAMURAI_JAPANESE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SAMURAI_JAPANESE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SAMURAI_JAPANESE</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CATAPHRACT_BYZANTINE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CATAPHRACT_BYZANTINE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CATAPHRACT_BYZANTINE</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_GERMAN_PANZER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_TIGER_TANK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_TIGER_TANK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_TIGER_TANK</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_DUTCH_EAST_INDIAMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
 <!--________________________________________________________________________________________________________________________________________________-->
