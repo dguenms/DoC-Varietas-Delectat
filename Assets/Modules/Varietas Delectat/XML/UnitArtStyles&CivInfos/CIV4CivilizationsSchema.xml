@@ -427,6 +427,24 @@
 	<ElementType name="Leaders" content="eltOnly">
 		<element type="Leader" maxOccurs="*"/>
 	</ElementType>
+	<ElementType name="Identifier" content="textOnly"/>
+	<ElementType name="StartingYear" content="textOnly" dt:type="int"/>
+	<ElementType name="LoadingTime" content="textOnly" dt:type="int"/>
+	<ElementType name="LoadingTimes" content="eltOnly">
+		<element type="LoadingTime"/>
+	</ElementType>
+	<ElementType name="Trade" content="textOnly" dt:type="int"/>
+	<ElementType name="Production" content="textOnly" dt:type="int"/>
+	<ElementType name="Culture" content="textOnly" dt:type="int"/>
+	<ElementType name="Growth" content="textOnly" dt:type="int"/>
+	<ElementType name="Start" content="textOnly" dt:type="int"/>
+	<ElementType name="Rating" content="eltOnly">
+		<element type="Trade"/>
+		<element type="Production"/>
+		<element type="Culture"/>
+		<element type="Growth"/>
+		<element type="Start"/>
+	</ElementType>
 	<ElementType name="CivilizationSelectionSound" content="textOnly"/>
 	<ElementType name="CivilizationActionSound" content="textOnly"/>
 	<ElementType name="UnitArtStyleType" content="textOnly"/>
@@ -440,6 +458,10 @@
 		<element type="ArtDefineTag"/>
 		<element type="ArtStyleType"/>
 		<element type="UnitArtStyleType" minOccurs="0" maxOccurs="1"/>
+		<element type="Identifier"/> <!-- Leoreth -->
+		<element type="StartingYear"/> <!-- Leoreth -->
+		<element type="LoadingTimes"/> <!-- Leoreth -->
+		<element type="Rating"/> <!-- Leoreth -->
 		<element type="bPlayable"/>
 		<element type="bAIPlayable"/>
 		<element type="Cities"/>
@@ -473,8 +495,8 @@
 	<ElementType name="MiddleArtDefineTag" content="textOnly"/>
 	<ElementType name="UnitMeshGroup" content="eltOnly">
 		<element type="EarlyArtDefineTag" minOccurs="0"/>
-		<element type="LateArtDefineTag" minOccurs="0"/>
 		<element type="MiddleArtDefineTag" minOccurs="0"/>
+		<element type="LateArtDefineTag" minOccurs="0"/>
 	</ElementType>
 	<ElementType name="StyleUnit" content="eltOnly">
 		<element type="UnitType"/>

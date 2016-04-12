@@ -6,12 +6,10 @@
 <!-- Unit art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<UnitArtInfos>
-
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
 <!-- VD mod BEGIN Italy UnitArt                                                                                                                   -->
 <!--________________________________________________________________________________________________________________________________________________-->
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SETTLER_MALE_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Settler.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,5</Button>
@@ -36,7 +34,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SETTLER_FEMALE_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Settler.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,5</Button>
@@ -61,7 +58,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SETTLER_CHILD_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Settler.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,5</Button>
@@ -86,7 +82,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SETTLER_GREY_CATTLE_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Settler.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,5</Button>
@@ -105,13 +100,12 @@
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
 			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
 			<AudioRunSounds>
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SETTLER_GREY_COW_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Settler.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,5</Button>
@@ -130,13 +124,12 @@
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
 			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
 			<AudioRunSounds>
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_DOG</Type>
 			<Button>,Art/Interface/Buttons/Units/Settler.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,5</Button>
@@ -155,13 +148,12 @@
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
 			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
 			<AudioRunSounds>
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WORKER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Worker.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,5</Button>
@@ -186,7 +178,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SCOUT_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Scout.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,1</Button>
@@ -211,9 +202,8 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_ANCIENT_SPY_ITALIAN</Type>
+			<Type>ART_DEF_UNIT_SPY_ANCIENT_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.40</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
@@ -236,7 +226,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPY_MOD_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,12</Button>
@@ -261,7 +250,6 @@
 			<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-	
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WARRIOR_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Warrior.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,1</Button>
@@ -285,8 +273,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>		
-				
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ARCHER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Archer.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,1</Button>
@@ -310,8 +297,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>			
-
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HORSE_ARCHER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/HorseArcher.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,7</Button>
@@ -336,7 +322,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPEARMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
@@ -361,7 +346,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPEARMAN_MEDIEVAL_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
@@ -386,7 +370,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SWORDSMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Swordsman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,5</Button>
@@ -411,7 +394,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SWORDSMAN_MEDIEVAL_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Swordsman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,5</Button>
@@ -436,7 +418,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CHARIOT_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Chariot.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,7</Button>
@@ -472,7 +453,6 @@
 				<AudioRunTypeEnd>ENDSTEP_WHEELS</AudioRunTypeEnd>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -496,8 +476,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN2_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -521,8 +500,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_MEDIEVAL_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -546,10 +524,9 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MACEMAN_ITALIAN</Type>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Maceman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -571,8 +548,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>		
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_PIKEMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
@@ -596,8 +572,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>				
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_LONGBOWMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Longbowman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,8,7</Button>
@@ -621,8 +596,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>				
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CROSSBOWMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Crossbowman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,8</Button>
@@ -647,7 +621,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_KNIGHT_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Knight.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,8,1</Button>
@@ -671,8 +644,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>							
-
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WAR_ELEPHANT_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/WarElephant.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,2</Button>
@@ -697,7 +669,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MUSKETMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
@@ -721,8 +692,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>			
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_RIFLEMAN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Rifleman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,2</Button>
@@ -746,8 +716,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>			
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GRENADIER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Grenadier.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,6</Button>
@@ -771,8 +740,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>			
-
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_PARATROOPER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,11</Button>
@@ -797,7 +765,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CAVALRY_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Cavalry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,2</Button>
@@ -821,9 +788,8 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>		
-		
-		<UnitArtInfo>		
+		</UnitArtInfo>
+		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MARINE_WW2_ITALIAN</Type>
 			<Button>Art/Buttons/Units/ww2marines.dds</Button>
 			<fScale>0.44</fScale>
@@ -847,7 +813,6 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MODERN_INFANTRY_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
@@ -871,8 +836,7 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>		
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_LANCIA_IZ_ITALIAN</Type>
 			<Button>Art/units/Italian Armoured Car/ButtonLanciaItaly.dds</Button>
@@ -908,7 +872,6 @@
 			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HUMVEE_ITALIAN</Type>
 			<Button>Art/Buttons/Units/Humvee.dds</Button>
@@ -943,8 +906,7 @@
 			</AudioRunSounds>
 			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_LIGHT_TANK_ITALIAN</Type>
 			<Button>Art/Units/Italian light Tank/Tank_Button_Rome.dds</Button>
@@ -979,8 +941,7 @@
 			</AudioRunSounds>
 			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MEDIUM_TANK_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
@@ -1016,7 +977,6 @@
 			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MECHINF_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/MechanizedInfantry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,8,8</Button>
@@ -1050,7 +1010,6 @@
 				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
 			</AudioRunSounds>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SUBMARINE_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Submarine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,9</Button>
@@ -1080,8 +1039,7 @@
 			</AudioRunSounds>
 			<SelectionSound>AS3D_UN_SUBMARINE_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_SUBMARINE_FORT</ActionSound>
-		</UnitArtInfo>				
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPAD_XIII_ITALIAN2</Type>
 			<Button>Art/Buttons/Units/SPADXIII Button.dds</Button>
@@ -1111,8 +1069,7 @@
 			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
 			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>			
-
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CAPRONI_CA3_ITALY2</Type>
 			<Button>Art/Buttons/Units/CaproniCa3 Button.dds</Button>
@@ -1143,7 +1100,6 @@
 			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_FIGHTER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Fighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,10</Button>
@@ -1173,8 +1129,7 @@
 			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
 			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AMBROSINI_SV15</Type>
 			<Button>Art/Units/Italian Early Jet Fighter/button_caproni_campini.dds</Button>
@@ -1205,7 +1160,6 @@
 			<SelectionSound>AS3D_UN_JET_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_JET_COMMAND_PATROL</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_BOMBER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
@@ -1235,8 +1189,7 @@
 			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
 			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>		
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SUPERSONIC_JET_ITALIAN</Type>
 			<Button>Art/Buttons/Units/Tornado.dds</Button>
@@ -1266,8 +1219,7 @@
 			<PatrolSound>AS3D_UN_JET_PATROL</PatrolSound>
 			<SelectionSound>AS3D_UN_JET_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_JET_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>						
-
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_EUROFIGHTER2</Type>
 			<Button>Art/Units/Italian Jet Fighter/ButtonEurofighterItaly.dds</Button>
@@ -1298,7 +1250,6 @@
 			<SelectionSound>AS3D_UN_JET_COMMAND_PATROL</SelectionSound>
 			<ActionSound>AS3D_UN_JET_COMMAND_PATROL</ActionSound>
 		</UnitArtInfo>
-							
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GUNSHIP_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Gunship.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,10</Button>
@@ -1325,8 +1276,7 @@
 			</AudioRunSounds>
 			<SelectionSound>AS3D_UN_GUNSHIP_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_GUNSHIP_FORT</ActionSound>
-		</UnitArtInfo>	
-		
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WARLORD_MODERN_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/GreatEngineer.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,10</Button>
@@ -1350,8 +1300,7 @@
 			<AudioRunTypeLoop/>
 			<AudioRunTypeEnd/>
 			</AudioRunSounds>
-		</UnitArtInfo>	
-
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_WORKBOAT</Type>
 			<Button>,Art/Interface/Buttons/Units/WorkBoat.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,9</Button>
@@ -1389,7 +1338,6 @@
 			<SelectionSound>AS3D_UN_WRK_BOAT_ANC_FORT</SelectionSound>
 			<ActionSound>AS3D_UN_WRK_BOAT_ANC_FORT</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_GALLEY</Type>
 			<Button>Art/Units/Italian Galley/EE2_AncientMerchant_Button.dds</Button>
@@ -1429,7 +1377,6 @@
 			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
 			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_GALLEAS</Type>
 			<Button>Art/Buttons/Units/Galleas.dds</Button>
@@ -1469,7 +1416,6 @@
 			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
 			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_CARAVEL</Type>
 			<Button>,Art/Interface/Buttons/Units/Caravel.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,9</Button>
@@ -1509,7 +1455,6 @@
 			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
 			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_GALLEON</Type>
 			<Button>Art/Units/Italian Galleon/EE2_Carrack_Button.dds</Button>
@@ -1549,7 +1494,6 @@
 			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
 			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
 		</UnitArtInfo>
-
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_FRIGATE</Type>
 			<Button>,Art/Interface/Buttons/Units/Frigate.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,9</Button>
@@ -1589,7 +1533,6 @@
 			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
 			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
 		</UnitArtInfo>
-		
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_SHIP_OF_THE_LINE</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,1,12</Button>
@@ -1629,11 +1572,9 @@
 			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
 			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
 		</UnitArtInfo>
-				
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
 <!-- VD mod END Italy UnitArt                                                                                                                   -->
 <!--________________________________________________________________________________________________________________________________________________-->
-
 	</UnitArtInfos>
 </Civ4ArtDefines>

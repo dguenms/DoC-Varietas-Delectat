@@ -314,7 +314,6 @@
 		<Width>1</Width>
 		<Height>1</Height>
 		<!-- Villages, etc -->
-
 		<!-- 1x1 GENERIC INDUSTRIAL/MODERN/FUTURE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_FUTURE</Attribute>
@@ -373,7 +372,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_eu</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORSE,ARTSTYLE_EUROPE,ARTSTYLE_BARBARIAN</Attribute>
@@ -419,7 +417,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ind_eu</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 GENERIC ANCIENT -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -529,7 +526,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 GENERIC MEDITERRANEAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -576,7 +572,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_mediterranean</Attribute>
 			<Scale>0.28</Scale>
 		</ArtRef>
-
 		<!-- 1x1 AFRO ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -669,7 +664,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_africa</Attribute>
 			<Scale>0.28</Scale>
 		</ArtRef>
-
 		<!-- 1x1 ARAB ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -781,7 +775,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_india</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef> -->
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT,ARTSTYLE_ARABIA</Attribute>
@@ -818,7 +811,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_arabia</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 1x1 ASIAN/JAPANESE ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -921,7 +913,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_asia</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN</Attribute>
@@ -942,7 +933,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_eu</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 JAPANESE RENAISSANCE/INDUSTRIAL/MODERN/FUTURE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
@@ -994,7 +984,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_japan</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 1x1 MONGOL ANCIENT_TO_MODERN -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ALL,!ERA_FUTURE</Attribute>
@@ -1032,7 +1021,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_Mongolia</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 1x1 SOUTH_EAST_ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -1125,7 +1113,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA,ARTSTYLE_MONGOLIA</Attribute>
@@ -1144,7 +1131,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_eu</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 EGYPT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -1164,7 +1150,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT</Attribute>
@@ -1210,7 +1195,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 1x1 CRESCENT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -1293,7 +1277,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
 			<Scale>0.31</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT</Attribute>
@@ -1404,7 +1387,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_eastern</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 ANGLO/EUROPEAN CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -1648,7 +1630,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_colony_euro_late</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 EUROPEAN RENAISSANCE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
@@ -1779,7 +1760,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ind_Anglo_America</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 GRECO_ROMAN CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
@@ -1836,7 +1816,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_India</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef> -->
-
 		<!-- 1x1 IBERIAN CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -2002,7 +1981,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_Iberia</Attribute>
 			<Scale>0.30</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
@@ -2039,7 +2017,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ind_Mediterranean</Attribute>
 			<Scale>0.38</Scale>
 		</ArtRef> 
-
 		<!-- 1x1 NORSE ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -2086,7 +2063,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_clas_norsca</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-
 		<!-- 1x1 RUSSIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -2208,7 +2184,6 @@
 			<Rotate>90</Rotate>
 			<Scale>0.27</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -2245,7 +2220,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ind_russia</Attribute>
 			<Scale>0.27</Scale>
 		</ArtRef>
-
 <!--		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -2292,7 +2266,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_russia</Attribute>
 			<Scale>0.3</Scale>
 		</ArtRef>
-
 		<!-- 1x1 INDIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
@@ -2403,7 +2376,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
 			<Scale>0.31</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -2450,7 +2422,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_eastern</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -2497,7 +2468,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_eastern</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_FUTURE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -2525,7 +2495,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_India</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 1x1 PACIFIC PALMTREES -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -2554,7 +2523,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_palmtrees</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 INCA/PACIFIC ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -2638,7 +2606,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_South_America</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 1x1 MESO ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -2818,7 +2785,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_Meso_America</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 1x1 NATIVE ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -2924,7 +2890,6 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<!-- NATIVE MODERN/FUTURE IS GENERIC -->
-
 		<!-- 1x1 PACIFIC MEDIEVAL_TO_FUTURE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
@@ -2944,7 +2909,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_South_Pacific</Attribute>
 			<Scale>0.27</Scale>
 		</ArtRef>
-
 		<!-- Other stuff -->
 		<ArtRef Name="goal:IMPROVEMENT_COTTAGE">
 			<Attribute Class="Scalar">bPlace:0</Attribute>
@@ -3027,7 +2991,6 @@
 			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>  -->
-
 		<!-- modern workshop -->
 		<ArtRef Name="goal:IMPROVEMENT_WORKSHOP">
 			<Attribute Class="Improvement">IMPROVEMENT_WORKSHOP</Attribute>
@@ -3039,7 +3002,6 @@
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>   
 			<Scale>0.6</Scale>
 		</ArtRef>
-
 		<!-- modern lumbermill -->
 		<ArtRef Name="goal:IMPROVEMENT_LUMBERMILL">
 			<Attribute Class="Improvement">IMPROVEMENT_LUMBERMILL</Attribute>
@@ -3051,7 +3013,6 @@
 			<Attribute Class="Scalar">bCutTrees:0</Attribute>   
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- villages -->
 		<!-- 2x1 GENERIC INDUSTRIAL/MODERN/FUTURE -->
 		<ArtRef Name="art:building">
@@ -3199,7 +3160,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_eu</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NORSE,ARTSTYLE_EUROPE,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_BARBARIAN</Attribute>
@@ -3322,7 +3282,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 2x1 GENERIC MEDITERRANEAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -3414,7 +3373,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_mediterranean</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 2x1 AFRO ANCIENT/CLASSICAL/MEDIEVAL/RENAISSANCE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -3597,7 +3555,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_africa</Attribute>
 			<Scale>0.28</Scale>
 		</ArtRef>
-
 		<!-- 2x1 ARABIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -3771,7 +3728,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_india</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT,ARTSTYLE_ARABIA</Attribute>
@@ -3832,7 +3788,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_arabia</Attribute>
 			<Scale>0.28</Scale>
 		</ArtRef>
-
 		<!-- 2x1 ASIAN/JAPANESE ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -3995,7 +3950,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_asia</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 2x1 JAPANESE MEDIEVAL/RENAISSANCE/INDUSTRIAL/MODERN/FUTURE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
@@ -4077,7 +4031,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_Japan</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 2x1 MONGOL ANCIENT_TO_MODERN -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ALL,!ERA_ANCIENT,!ERA_FUTURE</Attribute>
@@ -4189,7 +4142,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_Mongolia</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-
 		<!-- 2x1 SOUTH_EAST_ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -4342,7 +4294,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 2x1 CRESCENT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -4404,7 +4355,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
 			<Scale>0.31</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT</Attribute>
@@ -4617,7 +4567,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_eastern</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 2x1 EGYPT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -4679,7 +4628,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT</Attribute>
@@ -4770,7 +4718,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 2x1 ANGLO/EUROPEAN CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -5101,7 +5048,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NORSE,ARTSTYLE_BARBARIAN</Attribute>
@@ -5302,7 +5248,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 2x1 EUROPEAN RENAISSANCE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
@@ -5578,7 +5523,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ind_europe</Attribute>
 			<Scale>0.41</Scale>
 		</ArtRef>
-
 		<!-- 2x1 GRECO_ROMAN CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
@@ -5660,7 +5604,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_greco_roman</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 2x1 IBERIAN CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -5924,7 +5867,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_Iberia</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
@@ -6018,7 +5960,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ind_mediterranean</Attribute>
 			<Scale>0.41</Scale>
 		</ArtRef>
-
 		<!-- 2x1 NORSE ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -6110,7 +6051,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_clas_norsca</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-
 		<!-- 2x1 RUSSIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -6303,7 +6243,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -6405,7 +6344,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -6476,7 +6414,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ind_Europe</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 2x1 INDIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
@@ -6579,7 +6516,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
 			<Scale>0.31</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -6661,7 +6597,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_eastern</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -6733,7 +6668,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_ren_eastern</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_FUTURE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -6754,7 +6688,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_India</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 2x1 INCA/PACIFIC ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -6806,7 +6739,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_South_America</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- 2x1 INCA CLASSICAL_TO_INDUSTRIAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -6894,7 +6826,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 2x1 MESO ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -7197,7 +7128,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_mod_Meso_America</Attribute>
 			<Scale>0.41</Scale>
 		</ArtRef>
-
 		<!-- 2x1 NATIVE ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -7565,7 +7495,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- 2x1 PACIFIC MEDIEVAL_TO_FUTURE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
@@ -7627,7 +7556,6 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_South_Pacific</Attribute>
 			<Scale>0.27</Scale>
 		</ArtRef>
-
 		<!-- corn -->
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::2x1_01</Attribute>
@@ -8554,7 +8482,6 @@
 			<Rotate>-45</Rotate>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- SILK -->
 		<ArtRef Name="art:silk_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Silk/Silk_LSystem.nif::2x2_01_Silk_Normal</Attribute>
@@ -9329,7 +9256,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-
 		<!-- Dye -->
 		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
 			<!-- worked ancient dye plantation -->
@@ -10110,7 +10036,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-
 		<!-- Spices -->
 		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
 			<!-- worked ancient spices plantation -->
@@ -10935,7 +10860,6 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-
 		<!-- Olives -->
 		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
 			<!-- worked ancient olives plantation -->
@@ -11234,7 +11158,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
 			<!-- unworked ancient sugar plantation -->
 			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
@@ -12049,7 +11972,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-
 		<!-- Wine -->
 		<ArtRef Name="art:grapes">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Wine/Wine_L_System.nif::3x2_01_Worked</Attribute>
@@ -12332,7 +12254,6 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<!-- FUTURE AFRO FARMHOUSES -->
-
 		<!-- ANCIENT/CLASSICAL ARABIAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_Arabia.nif::1x1x1_01</Attribute>
@@ -12473,7 +12394,6 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<!-- FUTURE ARABIAN FARMHOUSES -->
-
 		<!-- ANCIENT/CLASSICAL ASIAN/JAPANESE/SOUTH_EAST_ASIAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_asia.nif::1x1_05</Attribute>
@@ -12544,7 +12464,6 @@
 			<Rotate>-45</Rotate>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- RENAISSANCE/INDUSTRIAL/MODERN ASIAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_asia.nif::1x1_01</Attribute>
@@ -12598,7 +12517,6 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<!-- FUTURE ASIAN FARMHOUSES IN FUTURE GENERIC FARMHOUSES -->
-
 		<!-- RENAISSANCE/INDUSTRIAL/MODERN JAPANESE FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_japan.nif::1x1_01</Attribute>
@@ -12652,7 +12570,6 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<!-- FUTURE JAPANESE FARMHOUSES IN GENERIC FUTURE FARMHOUSES -->
-
 		<!-- ANCIENT/CLASSICAL MONGOL FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_Mongolia.nif::1x1x2_02</Attribute>
@@ -12776,7 +12693,6 @@
 			<Scale>0.41</Scale>
 		</ArtRef>
 		<!-- FUTURE MONGOL FARMHOUSES IN GENERIC FUTURE FARMHOUSES -->
-
 		<!-- RENAISSANCE/INDUSTRIAL/MODERN SOUTHEASTASIAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_southeastasia.nif::1x1_05</Attribute>
@@ -12830,7 +12746,6 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<!-- FUTURE SOUTHEASTASIAN FARMHOUSES IN GENERIC FUTURE FARMHOUSES-->
-
 		<!-- ANCIENT CRESCENT/EGYPTIAN/INDIAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_04</Attribute>
@@ -13007,7 +12922,6 @@
 			<Scale>0.38</Scale>
 		</ArtRef>
 		<!-- FUTURE ARABIAN/CRESCENT/EGYPTIAN/INDIAN FARMHOUSES IN GENERIC FARMHOUSES -->
-
 		<!-- EUROPEAN INDUSTRIAL FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ind_eu.nif::1x1_02</Attribute>
@@ -13043,7 +12957,6 @@
 			<Rotate>-45</Rotate>
 			<Scale>0.44</Scale>
 		</ArtRef>
-
 		<!-- ANCIENT GRECO_ROMAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x1_06</Attribute>
@@ -13155,7 +13068,6 @@
 			<Rotate>-45</Rotate> 
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- ANCIENT IBERIAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::2x2_01</Attribute>
@@ -13384,7 +13296,6 @@
 			<Rotate>-45</Rotate> 
 			<Scale>0.29</Scale>
 		</ArtRef>
-
 		<!-- RENAISSANCE RUSSIAN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_russia.nif::1x2_01</Attribute>
@@ -13478,7 +13389,6 @@
 			<Rotate>-45</Rotate> 
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- ANCIENT/CLASSICAL INCA FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_South_America.nif::1x1_03</Attribute>
@@ -13584,7 +13494,6 @@
 			<Rotate>-45</Rotate> 
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- ANCIENT/CLASSICAL NATIVE FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_Native_American.nif::1x1_01</Attribute>
@@ -13656,7 +13565,6 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<!-- INDUSTRIAL/MODERN/FUTURE NATIVE FARMHOUSES IN GENERIC FARMHOUSES-->
-
 		<!-- ANCIENT/CLASSICAL MESO FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_Meso_America.nif::1x1_02</Attribute>
@@ -13833,7 +13741,6 @@
 			<Rotate>-45</Rotate>
 			<Scale>0.41</Scale>
 		</ArtRef>
-
 		<!-- MEDIEVAL/RENAISSANCE/INDUSTRIAL/MODERN PACIFIC FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/South_Pacific.nif::1x1x1_01</Attribute>
@@ -13886,7 +13793,6 @@
 			<Rotate>-45</Rotate> 
 			<Scale>0.28</Scale>
 		</ArtRef>
-
 		<!-- GENERIC ANCIENT FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/an_eu_farm02.nif</Attribute>
@@ -14019,7 +13925,6 @@
 			<Rotate>-45</Rotate>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- GENERIC INDUSTRIAL FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_anglo_farm_1x1.nif</Attribute>
@@ -14055,7 +13960,6 @@
 			<Rotate>-45</Rotate>
 			<Scale>0.32</Scale>
 		</ArtRef>
-
 		<!-- GENERIC MODERN FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm02.nif</Attribute>
@@ -14108,7 +14012,6 @@
 			<Rotate>-45</Rotate> 
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- GENERIC FUTURE FARMHOUSES -->
 		<ArtRef Name="art:IMPROVEMENT_FARM1">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm02.nif</Attribute>
@@ -14546,7 +14449,6 @@
 			<Rotate>-45</Rotate> 
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- ANCIENT/CLASSICAL AFRO/ARABIAN/INCA/MESO/MONGOL/NATIVE FARMS -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -14687,7 +14589,6 @@
 			<Scale>0.5</Scale>
 			<Rotate>-45</Rotate>
 		</ArtRef>
-
 		<!-- INDUSTRIAL/MODERN AFRO/INCA/MESO/MONGOL FARMS -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -14742,7 +14643,6 @@
 			<Rotate>-45</Rotate>
 		</ArtRef>
 		<!-- FUTURE AFRO FARMS IN GENERIC FARMS -->
-
 		<!-- MEDIEVAL/RENAISSANCE PACIFIC FARMS -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
@@ -14886,7 +14786,6 @@
 			<Scale>0.5</Scale>
 			<Rotate>-45</Rotate>
 		</ArtRef>
-
 		<!-- MEDIEVAL/RENAISSANCE/INDUSTRIAL ARABIAN FARMS -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -14939,7 +14838,6 @@
 		</ArtRef>
 		<!-- MODERN ARABIAN FARMS IN CRESCENT MODERN FARMS -->
 		<!-- FUTURE ARABIAN FARMS IN GENERIC FUTURE FARMS -->
-
 		<!-- ASIAN/JAPANESE/SOUTH_EAST_ASIAN ANCIENT FARMS IN GENERIC ANCIENT FARMS -->
 		<!-- ASIAN/JAPANESE/SOUTH_EAST_ASIAN CLASSICAL/MEDIEVAL FARMS -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
@@ -15036,7 +14934,6 @@
 			<Scale>0.5</Scale>
 			<Rotate>-45</Rotate>
 		</ArtRef>
-
 		<!-- CLASSICAL/MEDIEVAL CRESCENT/EGYPTIAN/INDIAN FARMS -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -15222,7 +15119,6 @@
 			<Rotate>-45</Rotate>
 			<Scale>0.25</Scale>
 		</ArtRef>
-
 		<!-- CLASSICAL/MEDIEVAL GRECO_ROMAN FARMS -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -15429,9 +15325,7 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 		</ArtRef>
 	</LNode>
-
 <!--- ERA WATERWORKED START -->
-
 	<LNode Name="Leaf_Water_Worked_4x4">
 		<Width>4</Width>
 		<Height>4</Height>
@@ -15476,7 +15370,6 @@
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Waterworked/Waterworked.kfm</Attribute>
 		</ArtRef>
 	</LNode>
-
 	<LNode Name="Leaf_Water_Improvement_4x4">
 		<Width>4</Width>
 		<Height>4</Height>
@@ -15537,7 +15430,6 @@
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Whalingboat_Modern/WhalingBoat_Modern.kfm</Attribute>
 		</ArtRef>
 	</LNode>
-
 	<!--- ERA WATERWORKED END -->
 	
 	<LNode Name="Leaf_LandImprovement_4x4">
@@ -15575,7 +15467,6 @@
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 		</ArtRef>
-
 		<!-- PACIFIC FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15590,7 +15481,6 @@
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 		</ArtRef>
-
 		<!-- AFRO FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15632,7 +15522,6 @@
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 			<Scale>0.85</Scale>
 		</ArtRef>
-
 		<!-- NATIVE FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15661,7 +15550,6 @@
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- MESO FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15690,7 +15578,6 @@
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-
 		<!-- CRESCENT FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15720,7 +15607,6 @@
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- EUROPEAN FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15792,7 +15678,6 @@
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- MEDITERRANEAN FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15808,7 +15693,6 @@
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- NORTH_EUROPEAN FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15824,7 +15708,6 @@
 			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- ASIAN FORT -->
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
@@ -15937,7 +15820,6 @@
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/WindMill/WindMill_mod.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/WindMill/WindMill_mod.kfm</Attribute>
 		</ArtRef>
-
 		<!-- Watermill -->
 		<ArtRef Name="goal:IMPROVEMENT_WATERMILL"> 
 			<Attribute Class="Improvement">IMPROVEMENT_WATERMILL</Attribute>
@@ -15955,7 +15837,6 @@
 			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute> 
 		</ArtRef> -->
 	</LNode>
-
 	<!-- *************************************************************************** -->
 	<!-- *************************************************************************** -->
 	<!-- *************************************************************************** -->
@@ -15970,9 +15851,7 @@
 	<!-- *************************************************************************** -->
 	<!-- *************************************************************************** -->
 	<!-- *************************************************************************** -->
-
 	<!-- ERA WATERWORKED START -->
-
 	<LProduction From="PLOT_ROOT">
 		<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_WATER_WORKED,!IMPROVEMENT_MINE,!IMPROVEMENT_PASTURE,!IMPROVEMENT_QUARRY,!IMPROVEMENT_WHALING_BOATS,!IMPROVEMENT_WINDMILL,!IMPROVEMENT_WATERMILL,!IMPROVEMENT_FORT</Attribute>
 		<To Name="Node_12x12"/>
@@ -16005,9 +15884,7 @@
 			<Translate>0,0</Translate>
 		</To>
 	</LProduction>
-
 	<!-- ERA WATERWORKED END -->
-
 	<LProduction From="PLOT_ROOT" Name="WaterWorkedProd">
 		<Attribute Class="Improvement">IMPROVEMENT_WATER_WORKED</Attribute>
 		<Attribute Class="Scalar">bNotBFS:1</Attribute>

@@ -3,7 +3,6 @@
 <!-- Copyright Firaxis Games 2005 -->
 <!-- -->
 <!-- CityLSystem -->
-<!-- CityLSystem -->
 <!-- -->
 <!-- When debugging LSystems, refer to Civ4/Logs/LSystem.log for help -->
 <!-- CityLSystems use the following ArtRef attributes:
@@ -27,7 +26,7 @@
   
 		You can add the following items to a node or production...
 			<Attribute Class="ScalarList">szWithCityNameNotEqualTo:CityName1,CityName2</Attribute> : inhibits the production/node when a city is in the list
-			<Attribute Class="ScalarList">szWithCityNameEqualTo:CityName1,CityName2</Attribute>    : inhibits the production/node when a city not is in the list			
+			<Attribute Class="ScalarList">szWithCityNameEqualTo:CityName1,CityName2</Attribute>    : inhibits the production/node when a city not is in the list
 		
   -->
 <LSystemInfos xmlns="x-schema:CIV4LSystemSchema.xml">
@@ -41,7 +40,6 @@
 		<Width>1</Width>
 		<Height>1</Height>
 		<!-- LEAF 1x1 GENERICS -->
-
 		<!-- 1x1 GENERIC INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:mod_eu.nif::1x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -49,7 +47,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ind_eu.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NORSE,ARTSTYLE_EUROPE,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_BARBARIAN</Attribute>
@@ -80,7 +77,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 GENERIC ANCIENT -->
 		<ArtRef Name="generic:an_eu_farm02.nif">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -147,7 +143,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-
 		<!-- 1x1 GENERIC MEDITERRANEAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:ren_mediterranean.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -179,7 +174,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
@@ -224,7 +218,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:med_africa.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
@@ -286,7 +279,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
@@ -299,7 +291,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 ARAB ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_arabia.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -382,7 +373,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ren_arabia.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT,ARTSTYLE_ARABIA</Attribute>
@@ -407,7 +397,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 1x1 ASIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_asia.nif::1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -464,7 +453,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef>
-
 		<!-- JAPANESE MEDIEVAL/RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:med_japan.nif::1x1_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -493,7 +481,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_JAPAN</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef> 
-
 		<!-- 1x1 ASIAN/JAPANESE INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:ind_eu.nif::1x1_01">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
@@ -513,7 +500,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 MONGOL ANCIENT_TO_MODERN -->
 		<ArtRef Name="generic:an_Mongolia.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_ALL,!ERA_FUTURE</Attribute>
@@ -543,7 +529,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>0.85</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:an_asia.nif::1x1_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MONGOLIA</Attribute>
@@ -571,7 +556,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_MONGOLIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MONGOLIA</Attribute>
@@ -584,7 +568,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 SOUTH_EAST_ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_asia.nif::1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -646,7 +629,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef>
-
 		<ArtRef Name="generic:ind_eu.nif::1x1_03">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
@@ -665,7 +647,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- EGYPT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_egypt.nif::1x1_05">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -679,7 +660,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:med_egypt.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL><!--,ERA_MEDIEVAL--></Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT</Attribute>
@@ -723,7 +703,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 CRESCENT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_egypt.nif::1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -779,7 +758,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!--ArtRef Name="generic:med_egypt.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT</Attribute>
@@ -827,7 +805,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef>
-
 		<!-- 1x1 ANGLO/EUROPEAN CLASSICAL -->
 		<ArtRef Name="generic:an_eu.nif::1x1_01">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -967,7 +944,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.3</Scale>
 		</ArtRef>
-
 		<!-- 1x1 EUROPEAN RENAISSANCE -->
 		<ArtRef Name="generic:ren_europe.nif::1x1_01">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
@@ -1058,7 +1034,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-
 		<!-- 1x1 RUSSIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:clas_norsca.nif::1x1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -1117,7 +1092,6 @@
 			<Rotate>90</Rotate>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ind_russia.nif::1x1_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -1149,7 +1123,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -1162,7 +1135,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 GRECO_ROMAN CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:greco_roman.nif::1x1_01">
 			<Attribute Class="Era">ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
@@ -1184,7 +1156,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef>
-
 		<!-- 1x1 GRECO_ROMAN MODERN -->
 		<ArtRef Name="generic:mod_India.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -1307,7 +1278,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="generic:ind_Mediterranean.nif::park_1x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
@@ -1334,7 +1304,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.1</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="generic:mod_India.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
@@ -1347,7 +1316,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 INDIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_egypt.nif::1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
@@ -1422,7 +1390,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:med_SouthEastAsia.nif::1x1_02">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -1445,7 +1412,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x1_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -1475,7 +1441,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef> 
-
 		<!-- 1x1 INCA/PACIFIC ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_South_America.nif::1x1_03">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -1535,14 +1500,12 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ind_eu.nif::1x1_03">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_AMERICA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 1x1 MESO ANCIENT -->
 		<ArtRef Name="generic:an_Meso_America.nif::1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
@@ -1672,7 +1635,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 1x1 NATIVE ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:An_Native_American.nif::1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -1800,7 +1762,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- 1x1 GENERIC FUTURE -->
 		<ArtRef Name="generic:mod_eu.nif::1x1_01">
 			<Attribute Class="Era">ERA_FUTURE</Attribute>
@@ -1822,7 +1783,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- LEAF 1x1 BUILDINGS -->
 		<ArtRef Name="building:LSYSTEM_HEROIC_EPIC">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/HeroicEpic/HeroicEpic.nif</Attribute>
@@ -2053,7 +2013,6 @@
 		<Width>2</Width>
 		<Height>1</Height>
 		<!-- LEAF 2x1 GENERICS -->
-
 		<!-- 2x1 GENERIC INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:mod_eu.nif::1x2_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -2095,7 +2054,6 @@
 			<Rotate>90</Rotate>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ind_eu.nif::1x2_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NORSE,ARTSTYLE_EUROPE,ARTSTYLE_BARBARIAN</Attribute>
@@ -2145,7 +2103,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 GENERIC ANCIENT -->
 		<ArtRef Name="generic:an_eu.nif::1x2_01">
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2171,7 +2128,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA,ARTSTYLE_GRECO_ROMAN</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-
 		<!-- 2x1 GENERIC MEDITERRANEAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:ren_mediterranean.nif::1x2x2_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -2236,7 +2192,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
@@ -2272,7 +2227,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 AFRO ANCIENT/CLASSICAL/MEDIEVAL/RENAISSANCE -->
 		<ArtRef Name="generic:an_africa.nif::1x2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -2337,7 +2291,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:med_africa.nif::1x2x2_01">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
@@ -2465,7 +2418,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
@@ -2501,7 +2453,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 ARABIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_arabia.nif::1x1x2_03">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -2617,7 +2568,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ren_arabia.nif::1x1x2_03">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT,ARTSTYLE_ARABIA</Attribute>
@@ -2660,7 +2610,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-
 		<!-- 2x1 ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_asia.nif::2x1_01">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -2775,7 +2724,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x1 JAPANESE ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_asia.nif::2x1_01">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -2890,7 +2838,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x1 ASIAN/JAPANESE MODERN -->
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -2927,7 +2874,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 MONGOL ANCIENT_TO_MODERN -->
 		<ArtRef Name="generic:an_Mongolia.nif::1x1x1_02">
 			<Attribute Class="Era">ERA_ALL,!ERA_ANCIENT,!ERA_FUTURE</Attribute>
@@ -3017,7 +2963,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.7</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:an_asia.nif::1x2_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MONGOLIA</Attribute>
@@ -3025,7 +2970,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x1 MONGOL MODERN -->
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -3062,7 +3006,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 SOUTH_EAST_ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:med_SouthEastAsia.nif::2x1_02">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -3163,7 +3106,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
@@ -3199,7 +3141,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 CRESCENT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_egypt.nif::2x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -3243,7 +3184,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!--ArtRef Name="generic:med_egypt.nif::1x2x2_01">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT</Attribute>
@@ -3333,7 +3273,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x1 EGYPT/CRESCENT MODERN -->
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -3370,7 +3309,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 EGYPT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_egypt.nif::1x2_01">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -3414,7 +3352,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:med_egypt.nif::1x2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT</Attribute>
@@ -3478,7 +3415,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x1 ANGLO/EUROPEAN CLASSICAL -->
 		<ArtRef Name="generic:an_eu.nif::1x2_01">
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -3870,7 +3806,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1.2</Scale>
 		</ArtRef>
-
 		<!-- 2x1 GRECO_ROMAN CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:greco_roman.nif::2x1_01">
 			<Attribute Class="Era">ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
@@ -3920,7 +3855,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
-
 		<!-- 2x1 GRECO_ROMAN MODERN -->
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -4137,7 +4071,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="generic:ind_mediterranean.nif::park_2x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
@@ -4206,7 +4139,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1.2</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
@@ -4242,7 +4174,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 NORSE ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:clas_norsca.nif::1x2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -4307,7 +4238,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-
 		<!-- 2x1 RUSSIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:clas_norsca.nif::1x2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -4422,7 +4352,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ind_russia.nif::1x2_02">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -4487,7 +4416,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -4523,7 +4451,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 INDIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_egypt.nif::2x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -4596,7 +4523,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:med_SouthEastAsia.nif::2x1_02">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -4645,7 +4571,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -4693,7 +4618,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-
 		<!-- 2x1 INCA ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_South_America.nif::1x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -5008,7 +4932,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1.2</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::2x1_03">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA,ARTSTYLE_SOUTH_AMERICA</Attribute>
@@ -5037,7 +4960,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 NATIVE ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:An_Native_American.nif::2x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -5241,7 +5163,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x1 PACIFIC MEDIEVAL/RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:South_Pacific.nif::1x1x2_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -5335,7 +5256,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-
 		<!-- 2x1 GENERIC FUTURE -->
 		<ArtRef Name="generic:mod_eu.nif::1x2_01">
 			<Attribute Class="Era">ERA_FUTURE</Attribute>
@@ -5390,7 +5310,6 @@
 			<Rotate>90</Rotate>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- LEAF 2x1 BUILDINGS -->
 		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/NationalEpic.nif</Attribute>
@@ -5662,7 +5581,6 @@
 	<LNode Name="Leaf_3x1">
 		<Width>3</Width>
 		<Height>1</Height>
-
 		<!-- 3x1 GENERIC ANCIENT -->
 		<ArtRef Name="generic:an_eu.nif::3x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -5676,7 +5594,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-
 		<!-- 3x1 ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_asia.nif::3x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -5735,7 +5652,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 3x1 JAPANESE MEDIEVAL/RENAISSANCE/INDUSTRIAL/MODERN/FUTURE -->
 		<ArtRef Name="generic:med_japan.nif::3x1_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
@@ -5765,7 +5681,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 3x1 MONGOL RENAISSANCE/INDUSTRIAL -->
 		<ArtRef Name="generic:an_asia.nif::3x1_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -5788,7 +5703,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 3x1 SOUTH_EAST_ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_asia.nif::3x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -5825,7 +5739,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.85</Scale>
 		</ArtRef>
-
 		<!-- 3x1 CRESCENT RENAISSANCE/INDUSTRIAL/MODERN/FUTURE Leoreth: also medieval -->
 		<ArtRef Name="generic:ren_eastern.nif::3x1_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
@@ -5852,7 +5765,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
-
 		<!-- 3x1 EGYPT ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_egypt.nif::3x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -5868,7 +5780,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 3x1 ANGLO/EUROPEAN CLASSICAL -->
 		<ArtRef Name="generic:an_eu.nif::1x3_01">
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -5915,7 +5826,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>1.1</Scale>
 		</ArtRef>
-
 		<!-- 3x1 EUROPEAN RENAISSANCE -->
 		<ArtRef Name="generic:ren_europe.nif::3x1_01">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
@@ -5945,7 +5855,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.85</Scale>
 		</ArtRef>
-
 		<!-- 3x1 GRECO_ROMAN CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:greco_roman.nif::3x1_01">
 			<Attribute Class="Era">ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
@@ -5971,7 +5880,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
-
 		<!-- 3x1 IBERIAN CLASSICAL -->
 		<ArtRef Name="generic:clas_Iberia.nif::1x3_01">
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -5985,7 +5893,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-
 		<!-- 3x1 INDIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_egypt.nif::3x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -6028,7 +5935,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
-
 		<!-- 3x1 INCA ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_South_America.nif::1x3_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -6073,7 +5979,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 3x1 MESO ANCIENT -->
 		<ArtRef Name="generic:an_Meso_America.nif::3x1_01">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -6091,7 +5996,6 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 3x1 NATIVE ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:An_Native_American.nif::3x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -6183,7 +6087,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 3x1 PACIFIC RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:South_Pacific.nif::2x1x2_03">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -6214,7 +6117,6 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-
 		<!-- LEAF 3x1 BUILDINGS -->
 		<ArtRef Name="building:LSYSTEM_3x1">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -6294,7 +6196,6 @@
 	<LNode Name="Leaf_2x2">
 		<Width>2</Width>
 		<Height>2</Height>
-
 		<!-- 2x2 GENERIC INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:mod_eu.nif::2x2_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -6302,7 +6203,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ind_eu.nif::2x2x3_01">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NORSE,ARTSTYLE_EUROPE,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_BARBARIAN</Attribute>
@@ -6321,7 +6221,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x2 GENERIC MEDITERRANEAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:ren_mediterranean.nif::2x2x2_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -6335,7 +6234,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.7</Scale>
 		</ArtRef>
-
 		<!-- AFRO ANCIENT/CLASSICAL/MEDIEVAL/RENAISSANCE -->
 		<ArtRef Name="generic:an_africa.nif::2x2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -6349,7 +6247,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:med_africa.nif::2x2x2_01">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
@@ -6362,7 +6259,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- AFRO INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:med_africa.nif::2x2x2_01">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -6376,7 +6272,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
@@ -6391,7 +6286,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 ARAB ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_arabia.nif::1x2x2_03">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -6432,7 +6326,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:ren_arabia.nif::1x1x2_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT,ARTSTYLE_ARABIA</Attribute>
@@ -6451,7 +6344,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-
 		<!-- 2x2 ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_asia.nif::2x2_01">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -6502,7 +6394,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA</Attribute>
@@ -6523,7 +6414,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 JAPANESE ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_asia.nif::2x2_01">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -6549,7 +6439,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x2 JAPANESE MEDIEVAL/RENAISSANCE/INDUSTRIAL/MODERN/FUTURE -->
 		<ArtRef Name="generic:med_japan.nif::2x2_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
@@ -6575,7 +6464,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_JAPAN</Attribute>
@@ -6595,7 +6483,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 MONGOL ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_Mongolia.nif::2x2x2_02">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -6620,7 +6507,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 SOUTH_EAST_ASIAN ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:med_SouthEastAsia.nif::1x2_02">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -6644,7 +6530,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-
 		<!-- 2x2 SOUTH_EAST_ASIAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:med_SouthEastAsia.nif::1x2_02">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -6673,7 +6558,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
@@ -6694,7 +6578,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 CRESCENT RENAISSANCE/INDUSTRIAL/MODERN/FUTURE Leoreth: also medieval -->
 		<ArtRef Name="generic:ren_eastern.nif::2x2_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -6711,7 +6594,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 		</ArtRef>
-
 		<!-- 2x2 EGYPT ANCIENT -->
 		<ArtRef Name="generic:an_egypt.nif::2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -6732,7 +6614,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x2 EGYPT/CRESCENT MODERN -->
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -6747,7 +6628,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 GENERIC ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_eu.nif::1x2_02">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -6824,7 +6704,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.1</Scale>
 		</ArtRef>
-
 		<!-- 2x2 EUROPEAN RENAISSANCE -->
 		<ArtRef Name="generic:ren_europe.nif::2x2_01">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
@@ -6838,7 +6717,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.85</Scale>
 		</ArtRef>
-
 		<!-- 2x2 GRECO_ROMAN MEDIEVAL -->
 		<ArtRef Name="generic:greco_roman.nif::2x2_01">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
@@ -6855,7 +6733,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-
 		<!-- 2x2 GRECO_ROMAN MODERN -->
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
@@ -6904,7 +6781,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
@@ -6930,7 +6806,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.2</Scale>
 		</ArtRef>
-
 		<!-- 2x2 IBERIAN CLASSICAL -->
 		<ArtRef Name="generic:clas_Iberia.nif::2x2_01">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -6963,14 +6838,12 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="generic:ind_Mediterranean.nif::2x2_02">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.1</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
@@ -6985,7 +6858,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 NORSE CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:clas_norsca.nif::2x2x2_01">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -6999,7 +6871,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x2 RUSSIAN CLASSICAL -->
 		<ArtRef Name="generic:clas_norsca.nif::2x2x2_01">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
@@ -7032,7 +6903,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef> 
-
 		<ArtRef Name="generic:ind_russia.nif::2x2x4_02">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -7058,7 +6928,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.1</Scale>
 		</ArtRef>
-
 		<ArtRef Name="generic:mod_India.nif::1x2_04">
 			<Attribute Class="Era">ERA_MODERN</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
@@ -7066,7 +6935,6 @@
 			<Rotate>270</Rotate>
 			<Scale>1.3</Scale>
 		</ArtRef>
-
 		<!-- 2x2 INCA/PACIFIC ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_South_America.nif::2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -7093,7 +6961,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x2 MESO RENAISSANCE/INDUSTRIAL -->
 		<ArtRef Name="generic:ren_Meso_America.nif::2x2x3_01">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -7132,7 +6999,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 CRESCENT ANCIENT/CLASSICAL/MEDIEVAL -->
 		<ArtRef Name="generic:an_egypt.nif::2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL<!--,ERA_MEDIEVAL--></Attribute>
@@ -7146,7 +7012,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef-->
-
 		<!-- 2x2 NATIVE ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:An_Native_American.nif::2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -7227,7 +7092,6 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- 2x2 PACIFIC MEDIEVAL/RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="generic:South_Pacific.nif::1x1x2_02">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
@@ -7248,7 +7112,6 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-
 		<!-- 2x2 GENERIC FUTURE -->
 		<ArtRef Name="generic:mod_eu.nif::2x2_02">
 			<Attribute Class="Era">ERA_FUTURE</Attribute>
@@ -7265,7 +7128,6 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-
 		<!-- LEAF 2x2 BUILDINGS -->
 		<!-- GENERIC ANCIENT PALACE -->
 		<ArtRef Name="building:LSYSTEM_PALACE">
@@ -9488,7 +9350,6 @@
 			<Attribute Class="Scalar">szWallArtFile:Art/Structures/Buildings/Walls/wall%1_maginot.nif</Attribute>
 			<Rotate>45</Rotate>
 		</ArtRef> -->
-
 		<ArtRef Name="building:LSYSTEM_CELTIC_DUN">
 			<Attribute Class="Scalar">szSpecialLayout:CityCenter</Attribute>
 			<Attribute Class="Scalar">szBuilder:WallBuilder</Attribute>
@@ -10233,7 +10094,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::3x2">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::3x2">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
@@ -10320,7 +10180,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::4x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::4x1">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
@@ -10414,7 +10273,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::3x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::3x1">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
@@ -10462,7 +10320,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::3x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::3x1">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
@@ -10508,7 +10365,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::2x2">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::2x2">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
@@ -10602,7 +10458,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::2x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::2x1">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
@@ -10647,7 +10502,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::2x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::2x1">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
@@ -10693,7 +10547,6 @@
 		<ArtRef Name="decoration:mod_city_lot.nif::2x1">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
 		</ArtRef> -->
-
 		<ArtRef Name="decoration:native_lot.nif::2x1">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
