@@ -447,19 +447,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_INCAN_AUCAC</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_2</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_2</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_2</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_2</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_1</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_1</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_QUECHUA_3</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_3</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_3</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_3</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
