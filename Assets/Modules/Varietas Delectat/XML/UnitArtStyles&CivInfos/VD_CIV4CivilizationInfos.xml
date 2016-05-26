@@ -195,7 +195,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_VERY_LIGHT_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_ARGENTINA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_SUMERIA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_SPAIN</UnitArtStyleType>
 			<Identifier>ARG</Identifier>
 			<StartingYear>1810</StartingYear>
 			<LoadingTimes>
@@ -491,7 +491,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BRAZIL</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_BARBARIAN</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_PORTUGAL</UnitArtStyleType>
 			<Identifier>BRA</Identifier>
 			<StartingYear>1822</StartingYear>
 			<LoadingTimes>
@@ -4663,7 +4663,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_SELJUK</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_SELJUK</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_NATIVE_AMERICA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_PERSIA</UnitArtStyleType>
 			<Identifier>SEL</Identifier>
 			<StartingYear>0</StartingYear>
 			<LoadingTimes>
