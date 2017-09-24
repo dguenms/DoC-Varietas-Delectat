@@ -18,7 +18,7 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_PIRATE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_PIRATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -126,7 +126,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KNIGHT</UnitType>
+					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_BARBARIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_BARBARIAN</MiddleArtDefineTag>
@@ -166,7 +166,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ARTILLERY</UnitType>
+					<UnitType>UNIT_HOWITZER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_ALTERNATE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_ALTERNATE</MiddleArtDefineTag>

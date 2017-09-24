@@ -209,7 +209,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KNIGHT</UnitType>
+					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_EGYPTIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_EGYPTIAN</MiddleArtDefineTag>
@@ -305,7 +305,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ARTILLERY</UnitType>
+					<UnitType>UNIT_HOWITZER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_RUSSIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_RUSSIAN</MiddleArtDefineTag>

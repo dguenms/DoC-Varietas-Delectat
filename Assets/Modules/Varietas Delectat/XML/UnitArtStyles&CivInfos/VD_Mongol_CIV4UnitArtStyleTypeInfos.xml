@@ -51,6 +51,14 @@
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_MONGOLIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WORKERMEDIEVAL_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKERMEDIEVAL_ASIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_LABOURER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_MODERN_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_MODERN_ASIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MODERN_ASIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
@@ -212,7 +220,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KNIGHT</UnitType>
+					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_MONGOLIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_MONGOLIAN</MiddleArtDefineTag>
@@ -292,7 +300,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ARTILLERY</UnitType>
+					<UnitType>UNIT_HOWITZER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_RUSSIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_RUSSIAN</MiddleArtDefineTag>

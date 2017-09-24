@@ -74,12 +74,12 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_INDIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_INDIAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				<UnitMeshGroup>
+					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_2_INDIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_2_INDIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_2_INDIAN</LateArtDefineTag>
 					</UnitMeshGroup>
-				<UnitMeshGroup>
+					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_3_INDIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_3_INDIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_3_INDIAN</LateArtDefineTag>
@@ -209,7 +209,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KNIGHT</UnitType>
+					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_INDIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_INDIAN</MiddleArtDefineTag>
