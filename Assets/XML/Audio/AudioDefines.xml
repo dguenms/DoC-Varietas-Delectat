@@ -8470,7 +8470,7 @@
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_TECH_MASS_MEDIA</SoundID>
+			<SoundID>SND_TECH_TELEVISION</SoundID>
 			<Filename>Sounds/Tech/Tech_MassMedia</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
@@ -8491,7 +8491,7 @@
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_TECH_THE_WHEEL</SoundID>
+			<SoundID>SND_TECH_LEVERAGE</SoundID>
 			<Filename>Sounds/Tech/Tech_Wheel</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
@@ -8645,7 +8645,7 @@
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_TECH_COMBUSTION</SoundID>
+			<SoundID>SND_TECH_ENGINE</SoundID>
 			<Filename>Sounds/Tech/Tech_Combustion</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
@@ -8666,7 +8666,7 @@
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
-			<SoundID>SND_TECH_PLASTICS</SoundID>
+			<SoundID>SND_TECH_SYNTHETICS</SoundID>
 			<Filename>Sounds/Tech/Tech_Plastics</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
