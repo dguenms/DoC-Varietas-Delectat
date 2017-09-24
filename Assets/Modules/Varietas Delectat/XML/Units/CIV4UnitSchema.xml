@@ -54,11 +54,11 @@
 		<element type="RouteType" minOccurs="0"/>
 		<element type="EntityEvent" minOccurs="0"/>
 		<element type="FeatureStructs" minOccurs="0"/>
-		<element type="HotKey" minOccurs="0"/>
-		<element type="bAltDown" minOccurs="0"/>
-		<element type="bShiftDown" minOccurs="0"/>
-		<element type="bCtrlDown" minOccurs="0"/>
-		<element type="iHotKeyPriority" minOccurs="0"/>
+		<element type="HotKey"/>
+		<element type="bAltDown"/>
+		<element type="bShiftDown"/>
+		<element type="bCtrlDown"/>
+		<element type="iHotKeyPriority"/>
 		<element type="Button" maxOccurs="*"/>
 		<element type="iOrderPriority" minOccurs="0"/>
 		<element type="bGraphicalOnly" minOccurs="0"/>
@@ -115,6 +115,7 @@
 	<ElementType name="bMilitarySupport" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bMilitaryProduction" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bPillage" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bSlave" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bSpy" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bSabotage" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bDestroy" content="textOnly" dt:type="boolean"/>
@@ -126,6 +127,7 @@
 	<ElementType name="bResolveCrisis" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bReformGovernment" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bDiplomaticMission" content="textOnly" dt:type="boolean"/>
+	<ElementType name="bGreatMission" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bInvisible" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bPersecute" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bFirstStrikeImmune" content="textOnly" dt:type="boolean"/>
@@ -365,6 +367,8 @@
 	<ElementType name="iAnimalCombat" content="textOnly" dt:type="int"/>
 	<ElementType name="iHillsAttack" content="textOnly" dt:type="int"/>
 	<ElementType name="iHillsDefense" content="textOnly" dt:type="int"/>
+	<ElementType name="iPlainsAttack" content="textOnly" dt:type="int"/>
+	<ElementType name="iPlainsDefense" content="textOnly" dt:type="int"/>
 	<ElementType name="iKamikazePercent" content="textOnly" dt:type="int"/>
 	<ElementType name="iRevoltProtection" content="textOnly" dt:type="int"/>
 	<ElementType name="iCollateralDamageProtection" content="textOnly" dt:type="int"/>
@@ -543,6 +547,7 @@
 		<element type="bMilitarySupport" minOccurs="0"/>
 		<element type="bMilitaryProduction" minOccurs="0"/>
 		<element type="bPillage" minOccurs="0"/>
+		<element type="bSlave" minOccurs="0"/>
 		<element type="bSpy" minOccurs="0"/>
 		<element type="bSabotage" minOccurs="0"/>
 		<element type="bDestroy" minOccurs="0"/>
@@ -554,6 +559,7 @@
 		<element type="bReformGovernment" minOccurs="0"/>
 		<element type="bResolveCrisis" minOccurs="0"/>
 		<element type="bDiplomaticMission" minOccurs="0"/>
+		<element type="bGreatMission" minOccurs="0"/>
 		<element type="bPersecute" minOccurs="0"/>
 		<element type="bInvisible" minOccurs="0"/>
 		<element type="bFirstStrikeImmune" minOccurs="0"/>
@@ -644,6 +650,8 @@
 		<element type="iAnimalCombat" minOccurs="0"/>
 		<element type="iHillsAttack" minOccurs="0"/>
 		<element type="iHillsDefense" minOccurs="0"/>
+		<element type="iPlainsAttack" minOccurs="0"/>
+		<element type="iPlainsDefense" minOccurs="0"/>
 		<element type="TerrainNatives" minOccurs="0"/>
 		<element type="FeatureNatives" minOccurs="0"/>
 		<element type="TerrainAttacks" minOccurs="0"/>
@@ -883,6 +891,8 @@
 		<element type="iCityDefense" minOccurs="0"/>
 		<element type="iHillsAttack" minOccurs="0"/>
 		<element type="iHillsDefense" minOccurs="0"/>
+		<element type="iPlainsAttack" minOccurs="0"/>
+		<element type="iPlainsDefense" minOccurs="0"/>
 		<element type="iKamikazePercent" minOccurs="0"/>
 		<element type="iRevoltProtection" minOccurs="0"/>
 		<element type="iCollateralDamageProtection" minOccurs="0"/>
