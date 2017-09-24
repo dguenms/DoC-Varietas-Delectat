@@ -273,7 +273,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_TRIREME</UnitType>
+					<UnitType>UNIT_WAR_GALLEY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_TRIREME_BYZANTINE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_TRIREME_BYZANTINE</MiddleArtDefineTag>

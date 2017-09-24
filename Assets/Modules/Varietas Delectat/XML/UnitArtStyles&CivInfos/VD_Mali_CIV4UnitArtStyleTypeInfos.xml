@@ -481,7 +481,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_TRIREME</UnitType>
+					<UnitType>UNIT_WAR_GALLEY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_TRIREME_AFRICAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_TRIREME_AFRICAN</MiddleArtDefineTag>
