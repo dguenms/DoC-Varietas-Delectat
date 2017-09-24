@@ -7777,7 +7777,6 @@
 		</ArtRef>
 		<!-- SPICE crops -->
 		<ArtRef Name="art:spice_crop">
-			<!-- when worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::2x2_01_Spice_Worked</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
@@ -7789,7 +7788,6 @@
 			<Rotate>+45</Rotate>
 		</ArtRef>
 		<ArtRef Name="art:Spice_crop">
-			<!-- when improved but not worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::2x2_01_Spice_NotWorked</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
@@ -7802,7 +7800,6 @@
 			<Rotate>+45</Rotate>
 		</ArtRef>
 		<ArtRef Name="art:Spice_crop">
-			<!-- when in the rough ... there's anotehr in 3x2 for farms -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::2x2_01_Spice_Normal</Attribute>
 			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
@@ -7813,7 +7810,6 @@
 			<Scale>0.8</Scale>
 			<Rotate>+45</Rotate>
 		</ArtRef>
-		<!-- Spice improvement crap -->
 		<ArtRef Name="art:SPICE_ORCHARD_RACK">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::1x3_01_Rack_NotWorked</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
@@ -7831,7 +7827,6 @@
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="art:SPICE_ORCHARD_GRINDER">
-			<!-- worked pool -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_Grinder_Worked.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Terrain/Resources/Spices/Spices_Grinder_Worked.kfm</Attribute>
 			<Attribute Class="Scalar">iPlayAnimationID:0</Attribute>
@@ -7841,22 +7836,10 @@
 			<Attribute Class="Scalar">szForceContourGeometry:Shadow</Attribute>
 		</ArtRef>
 		<ArtRef Name="art:SPICE_ORCHARD_GRINDER">
-			<!-- unworked pool -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::1x2_01_Grinder_NotWorked</Attribute>
 			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
 			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
-		</ArtRef>
-		<ArtRef Name="goal:BONUS_SPICES">
-			<!-- unworked spice -->
-			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
-			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Scalar">bGoalOnly:1</Attribute>
-			<Attribute Class="Scalar">bPlace:0</Attribute>
-			<Attribute Class="Scalar">iCropArea:12</Attribute>
-			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
-			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
-			<Scale>0.6</Scale>
 		</ArtRef>
 		<!-- OLIVES crops -->
 		<ArtRef Name="art:olives_crop">
@@ -10192,13 +10175,13 @@
 			<Scale>0.26</Scale>
 		</ArtRef>
 		<!-- Spices -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- worked ancient spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_MONGOLIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation_Plain/Plantation.nif</Attribute>
@@ -10210,13 +10193,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- worked modern spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="Era">ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation_Plain/Plantation_Modern.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation_Plain/plantation_modern.kfm</Attribute>
@@ -10227,13 +10210,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- unworked ancient spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_MONGOLIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation_Plain/Plantation.nif</Attribute>
@@ -10245,13 +10228,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- unworked modern spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="Era">ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation_Plain/Plantation_Modern.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation_Plain/plantation_modern.kfm</Attribute>
@@ -10276,7 +10259,7 @@
 		<ArtRef Name="art:Spice_crop">
 			<!-- when in the rough -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::2x2_01_Spice_Normal</Attribute>
-			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_PLANTATION,!IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
@@ -10286,13 +10269,13 @@
 			<Rotate>+45</Rotate>
 		</ArtRef>
 		<!-- Afro spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_early.nif</Attribute>
@@ -10304,13 +10287,13 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_renaissance.nif</Attribute>
@@ -10322,13 +10305,13 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.23</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_early_off.nif</Attribute>
@@ -10340,13 +10323,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_renaissance.nif</Attribute>
@@ -10359,13 +10342,13 @@
 			<Scale>0.23</Scale>
 		</ArtRef>
 		<!-- Khmer spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Khmer/Plantation_renaissance.nif</Attribute>
@@ -10377,13 +10360,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.23</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Khmer/Plantation_renaissance.nif</Attribute>
@@ -10396,13 +10379,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
 		<!-- Mediterranean spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation_early.nif</Attribute>
@@ -10414,13 +10397,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.44</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
@@ -10432,13 +10415,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation_early.nif</Attribute>
@@ -10450,13 +10433,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
@@ -10469,13 +10452,13 @@
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<!-- Meso spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_early.nif</Attribute>
@@ -10487,13 +10470,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_renaissance.nif</Attribute>
@@ -10505,13 +10488,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_early.nif</Attribute>
@@ -10523,13 +10506,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_renaissance.nif</Attribute>
@@ -10542,14 +10525,14 @@
 			<Scale>0.29</Scale>
 		</ArtRef>
 		<!-- Middle East spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_MESOPOTAMIA,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_early.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
@@ -10560,13 +10543,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_Renaissance.nif</Attribute>
@@ -10578,13 +10561,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_early.nif</Attribute>
@@ -10596,13 +10579,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_Renaissance.nif</Attribute>
@@ -10615,13 +10598,13 @@
 			<Scale>0.32</Scale>
 		</ArtRef>
 		<!-- Native spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
@@ -10633,13 +10616,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- medieval worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_medieval.nif</Attribute>
@@ -10651,13 +10634,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
@@ -10669,13 +10652,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- medieval unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
@@ -10688,13 +10671,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
 		<!-- Inca spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Inca/Plantation_early.nif</Attribute>
@@ -10706,13 +10689,13 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Inca/Plantation_early.nif</Attribute>
@@ -10725,13 +10708,13 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
 		<!-- Pacific spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Pacific/Plantation_early.nif</Attribute>
@@ -10743,13 +10726,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.25</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Pacific/Plantation_early.nif</Attribute>
@@ -10762,13 +10745,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
 		<!-- European spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_early.nif</Attribute>
@@ -10780,13 +10763,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.29</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- medieval worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
@@ -10798,13 +10781,13 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- industrial worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_industrial.nif</Attribute>
@@ -10816,13 +10799,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- industrial worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_NORSE</Attribute>
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Anglo/Plantation_industrial.nif</Attribute>
@@ -10834,13 +10817,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_early.nif</Attribute>
@@ -10852,13 +10835,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- medieval unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
@@ -10870,13 +10853,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- industrial unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_industrial.nif</Attribute>
@@ -10888,13 +10871,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.32</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- industrial unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_NORSE</Attribute>
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Anglo/Plantation_industrial.nif</Attribute>
@@ -10907,13 +10890,13 @@
 			<Scale>0.26</Scale>
 		</ArtRef>
 		<!-- Norse/Russian spices plantation -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Norse/Plantation_early.nif</Attribute>
@@ -10925,13 +10908,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORSE</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
@@ -10943,13 +10926,13 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance worked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Russia/Plantation_renaissance.nif</Attribute>
@@ -10961,13 +10944,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.26</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Norse/Plantation_early.nif</Attribute>
@@ -10979,13 +10962,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORSE</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
@@ -10997,13 +10980,13 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- renaissance unworked spices plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_GRINDER</Attribute>
-			<Attribute Class="Scalar">szExtra:art:SPICE_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Russia/Plantation_renaissance.nif</Attribute>
