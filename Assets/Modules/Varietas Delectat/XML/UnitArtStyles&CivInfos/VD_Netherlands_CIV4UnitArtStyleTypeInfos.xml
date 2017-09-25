@@ -199,7 +199,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KNIGHT</UnitType>
+					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_HOLLAND</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_HOLLAND</MiddleArtDefineTag>
