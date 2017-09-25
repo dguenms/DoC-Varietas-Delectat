@@ -385,7 +385,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ATTACK_SUBMARINE</UnitType>
+					<UnitType>UNIT_NUCLEAR_SUBMARINE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_212A_ATTACK_SUB_GERMANY</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_212A_ATTACK_SUB_GERMANY</MiddleArtDefineTag>

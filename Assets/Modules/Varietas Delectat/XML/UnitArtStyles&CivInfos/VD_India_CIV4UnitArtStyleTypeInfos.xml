@@ -361,7 +361,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ATTACK_SUBMARINE</UnitType>
+					<UnitType>UNIT_NUCLEAR_SUBMARINE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KILO_ATTACK_SUB</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_KILO_ATTACK_SUB</MiddleArtDefineTag>

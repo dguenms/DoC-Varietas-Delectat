@@ -375,7 +375,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ATTACK_SUBMARINE</UnitType>
+					<UnitType>UNIT_NUCLEAR_SUBMARINE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_LA_ATTACK_SUBMARINE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_LA_ATTACK_SUBMARINE</MiddleArtDefineTag>
