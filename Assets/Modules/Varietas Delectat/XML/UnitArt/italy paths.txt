@@ -1,0 +1,112 @@
+Art/Units/Italian Settler/Male/settler_male.nif
+Art/Units/Italian Settler/Male/settler_male.kfm
+Art/Units/Italian Settler/Female/settler_female.nif
+Art/Units/Italian Settler/Female/settler_female.kfm
+Art/Units/Italian Settler/Child/settler_child.nif
+Art/Units/Italian Settler/Child/settler_child.kfm
+Art/Units/Italian Settler/Cattle/Ox.nif
+Art/Units/Italian Settler/Cattle/SupplyTrain.kfm
+Art/Units/Italian Settler/Cow/Ox.nif
+Art/Units/Italian Settler/Cow/SupplyTrain.kfm
+Art/Units/Italian Settler/Wolf/wolf.nif
+Art/Units/Italian Settler/Wolf/wolf.kfm
+Art/Units/Italian Worker/worker.nif
+Art/Units/Italian Worker/anim/Worker.kfm
+Art/Units/Italian Scout/scout.nif
+Art/Units/Italian Scout/anim/scout.kfm
+Art/Units/Italian Spy ancient/ancient_spy.nif
+Art/Units/Italian Spy ancient/anim/ancient_spy.kfm
+Art/Units/Italian Spy modern/Great_Spy_Modern_FX.nif
+Art/Units/Great_Spy_Modern/Great_Spy_Modern.kfm
+Art/Units/Italian warrior/warrior.nif
+Art/Units/Italian warrior/anim/warrior.kfm
+Art/Units/Italian Archer/archer.nif
+Art/Units/Italian Archer/anim/archer.kfm
+Art/Units/Italian Horsearcher/horsearcher.nif
+Art/Units/Italian Horsearcher/anim/horsearcher_2.kfm
+Art/Units/Italian Spearman/spearman.nif
+Art/Units/Italian Spearman/anim/spearman.kfm
+Art/Units/Italian Spearman medieval/spearman_caucasian.nif
+Art/Units/Spearman/Spearman.kfm
+Art/Units/Italian Swordsman/Militia.nif
+Art/Units/Warrior/Warrior.kfm
+Art/Units/Italian Swordsman medieval/Medieval_Militia_Swordsman.nif
+Art/Units/Scenario/Knigts_templar/knightstemplar.kfm
+Art/Units/Italian Chariot/chariot.nif
+Art/Units/Italian Chariot/anim_gr/chariot.kfm
+Art/Units/Italian Axeman/axeman.nif
+Art/Units/Italian Axeman/anim_berserk/axeman.kfm
+Art/Units/Italian Axeman 2/Militia_axeman.nif
+Art/Units/Swordsman/Swordsman.kfm
+Art/Units/Italian Axeman medieval/Medieval_Militia_Axeman.nif
+Art/Units/Swordsman/Swordsman.kfm
+Art/Units/Italian Heavy Footman/ItalyHeavyFootfinal.nif
+Art/Units/Swordsman/Swordsman.kfm
+Art/Units/Italian Pikeman/italypikemanx_fx.nif
+Art/Units/Pikeman/Pikeman.kfm
+Art/Units/Italian Longbowman/italylongbowman.nif
+Art/Units/Longbowman/Longbowman.kfm
+Art/Units/Italian Crossbowman/italycrossbowmanfinal.nif
+Art/Units/Crossbowman/Crossbowman.kfm
+Art/Units/Italian Knight/italyknightfinal_fx.nif
+Art/Units/Knight/Knight.kfm
+Art/Units/Italian War Elephant/WarElephant_African.nif
+Art/Units/WarElephant_Greco_Roman/WarElephant_Carthage.kfm
+Art/Units/Italian Musketman/gun.nif
+Art/Units/Unique/England/Redcoat/redcoat.kfm
+Art/Units/Italian Rifleman/alpinirifleman.nif
+Art/Units/Rifleman/Rifleman.kfm
+Art/Units/Italian Grenadier/italiangrenadierblackuniformnew.nif
+Art/Units/Grenadier/Grenadier.kfm
+Art/Units/Italian Paratrooper/Paratrooper.nif
+Art/Units/Italian Paratrooper/Paratrooper.kfm
+Art/Units/Italian Cavalry/Italiancavalry.nif
+Art/Units/Cavalry/Cavalry.kfm
+Art/Units/Italian Marine/marines.nif
+Art/Units/Marine/Marines.kfm
+Art/Units/Italian Modern Infantry/marines.nif
+Art/Units/Marine/Marines.kfm
+Art/units/Italian Armoured Car/LanciaIZ/Lancia1Z.nif
+Art/units/Italian Armoured Car/LanciaIZ/Lancia1Z.kfm
+Art/Units/Italian HUMVEE/HUMVEE.nif
+Art/Units/Italian HUMVEE/HUMVEE.kfm
+Art/Units/Italian light Tank/l640.nif
+Art/Units/Italian light Tank/l640.kfm
+Art/Units/Italian medium Tank/Fiat.nif
+Art/Units/Italian medium Tank/Fiat.kfm
+Art/Units/Italian Mechanized Infantry/mechanizedinfantry.nif
+Art/Units/Mechanizedinfantry/Mechanizedinfantry.kfm
+Art/Units/Italian Submarine/Marconi.nif
+Art/Units/Submarine/Submarine.kfm
+Art/Units/Italian Early Fighter/spadxiii.nif
+Art/Units/Fighter/Fighter.kfm
+Art/Units/Italian Early Bomber/Capronica3.nif
+Art/Units/Bomber/Bomber.kfm
+Art/Units/Italian Fighter/G55.nif
+Art/Units/Fighter/Fighter.kfm
+Art/Units/Italian Early Jet Fighter/Yak_15.nif
+Art/Units/JetFighter/JetFighter.kfm
+Art/Units/Italian Bomber/b17g.nif
+Art/Units/Bomber/Bomber.kfm
+Art/Units/Italian supersonic Jet Fighter/Tornado.nif
+Art/Units/JetFighter/JetFighter.kfm
+Art/Units/Italian Jet Fighter/Eurofighter.nif
+Art/Units/JetFighter/JetFighter.kfm
+Art/Units/Italian Gunship/tiger.nif
+Art/Units/Italian Gunship/tiger.kfm
+Art/Units/Italian Warlord modern/Mannerheim.nif
+Art/Units/Warlord_Modern/Warlord_Modern.kfm
+Art/Units/Italian Workboat/EE2_WhalingBoat.nif
+Art/Units/Italian Workboat/EE2_WhalingBoat.kfm
+Art/Units/Italian Galley/EE2_AncientMerchant.nif
+Art/Units/Italian Galley/EE2_AncientMerchant.kfm
+Art/Units/Italian Galleas/ee2_galleas.nif
+Art/Units/Italian Galleas/ee2_galleas.kfm
+Art/Units/Italian Caravel/EE2_Caravel.nif
+Art/Units/Italian Caravel/EE2_Caravel.kfm
+Art/Units/Italian Galleon/EE2_Carrack.nif
+Art/Units/Italian Galleon/EE2_Carrack.kfm
+Art/Units/Italian Frigate/frigate.nif
+Art/Units/Italian Frigate/frigate.kfm
+Art/Units/Italian Ship of the Line/Ship_of_the_Line.nif
+Art/Units/Italian Ship of the Line/Ship_of_the_Line.kfm

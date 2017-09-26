@@ -1,0 +1,42 @@
+Modules/Varietas Delectat/Art/Units/Mali/Senegalese Machinegun/senegalesetirailleursmachinegunner.nif
+Modules/Varietas Delectat/Art/Units/Mali/Machinegun/senegalesemachinegunner.nif
+Modules/Varietas Delectat/Art/Units/arab/Berber Andalusian Heavy Spearman/AndalusianHeavySpearman.nif
+Modules/Varietas Delectat/Art/Units/arab/Heavy Spearman/HeavySpearman.nif
+Modules/Varietas Delectat/Art/Units/Persia/Persian Immortal (Armored Dark)/PersianImmortalArmoredDark.nif
+Modules/Varietas Delectat/Art/Units/Persia/Immortal/PersianImmortal.nif
+Modules/Varietas Delectat/Art/Units/Arab/Berber Andalusian Heavy Infantry/BerberAndalusianHeavyInfantry.nif
+Modules/Varietas Delectat/Art/Units/Arab/Heavy Infantry/HeavyInfantry.nif
+Modules/Varietas Delectat/Art/Units/Arab/Berber Crossbowman (Chainmail)/BerberCrossbowmanChainmail.nif
+Modules/Varietas Delectat/Art/Units/Arab/Crossbowman/BerberCrossbowman.nif
+Modules/Varietas Delectat/Art/Units/Arab/Berber North African Heavy Cavalry/NorthAfricanHeavyCavalry.nif
+Modules/Varietas Delectat/Art/Units/Arab/Heavy Cavalry/HeavyCavalry.nif
+Modules/Varietas Delectat/Art/Units/Persia/Sassanid (Cataphract) Heavy Cavalry Fancy Helmet/SassanidCataphractFancyHelmet.nif
+Modules/Varietas Delectat/Art/Units/Persia/Cataphract/SassanidCataphract.nif
+Modules/Varietas Delectat/Art/Units/Native America/sioux crossbowman/Native_American_Crossbowman.nif
+Modules/Varietas Delectat/Art/Units/Native/crossbowman/Crossbowman.nif
+Modules/Varietas Delectat/Art/Units/Native America/Native American Musketman/Native_American_Musketman.nif
+Modules/Varietas Delectat/Art/Units/Native/Musketman/Musketman.nif
+Modules/Varietas Delectat/Art/Units/korea/Korean Longbowman (Joseon Dynasty)/koreanlongbowmanjoseon.nif
+Modules/Varietas Delectat/Art/Units/korea/Joseon Longbowman/longbowmanjoseon.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Longbowman/OttomanJanissaryArcherChainmailHelmet.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Longbowman/JanissaryArcher.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Janissary Musketman (Green)/OttomanJanissaryGreen.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Green Musketman/JanissaryGreen.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Janissary Musketman (Red)/OttomanJanissaryRed.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Red Musketman/JanissaryRed.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Heavy Cavalry (Heavy Armor)/TurkishOttomanHeavyCavalryArmored.nif
+Modules/Varietas Delectat/Art/Units/Ottoman/Heavy Cavalry/Heavy Cavalry.nif
+Modules/Varietas Delectat/Art/Units/greek/Greek Heavyfootman (Hypaspistai Red)/GreekHypaspistaiHeavyfootmanRed.nif
+Modules/Varietas Delectat/Art/Units/greek/Red Hypaspistai/RedHypaspistai.nif
+Modules/Varietas Delectat/Art/Units/Viking/Viking Heavy Cavalry Armored Horse/VikingHvyCavalryArmoredHorse.nif
+Modules/Varietas Delectat/Art/Units/Viking/Heavy Cavalry/HeavyCavalry.nif
+Modules/Varietas Delectat/Art/Units/Carthage/Carthage Spearman (Chainmail)/CarthageHeavySpearman.nif
+Modules/Varietas Delectat/Art/Units/Carthage/Chainmail Spearman/HeavySpearman.nif
+Modules/Varietas Delectat/Art/Units/Carthage/Carthage Spearman (Sacred Band)/CarthageSpearmenSacredBand.nif
+Modules/Varietas Delectat/Art/Units/Carthage/Sacred Band/SacredBand.nif
+Modules/Varietas Delectat/Art/Units/spain/Spanish Spearman (Greek Helmet)/IberianSpearmanGreekHelmet.nif
+Modules/Varietas Delectat/Art/Units/spain/Greek Spearman/Spearman.nif
+Modules/Varietas Delectat/Art/Units/Byzantine/Byzantine Horseman (Unarmored Horse)/ByzantineHorsemanUnarmoredHorse.nif
+Modules/Varietas Delectat/Art/Units/Byzantine/Unarmored Horseman/Horseman.nif
+Modules/Varietas Delectat/Art/Units/Celts/Celtic Swordsman (Cloak)/CelticSwordsmanNoShirtWithCloak.nif
+Modules/Varietas Delectat/Art/Units/Celts/Cloak Swordsman/Swordsman.nif

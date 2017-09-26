@@ -1764,9 +1764,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Mali/Senegalese Machinegun/senegalesetirailleursmachinegunner.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Mali/Machinegun/senegalesemachinegunner.nif</NIF>
 			<KFM>Art/Units/MachineGun/MachineGunner.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mali/Senegalese Machinegun/senegalesetirailleursmachinegunner.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mali/Machinegun/senegalesemachinegunner.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -3874,9 +3874,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/arab/Berber Andalusian Heavy Spearman/AndalusianHeavySpearman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/arab/Heavy Spearman/HeavySpearman.nif</NIF>
 			<KFM>Art/Units/Charlemagne_HeavySpearman/HeavySpearman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/arab/Berber Andalusian Heavy Spearman/AndalusianHeavySpearman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/arab/Heavy Spearman/HeavySpearman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -5061,9 +5061,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Persia/Perisan Immortal (Armored Dark)/PersianImmortalArmoredDark.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Persia/Immortal/PersianImmortal.nif</NIF>
 			<KFM>Art/Units/Charlemagne_HeavySpearman/HeavySpearman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Persia/Perisan Immortal (Armored Dark)/PersianImmortalArmoredDark.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Persia/Immortal/PersianImmortal.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -5109,9 +5109,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Arab/Berber Andalusian Heavy Infantry/BerberAndalusianHeavyInfantry.nif</NIF>
+			<NIF>Modules/Varietas Modules/Varietas Delectat/Art/Units/Arab/Heavy Infantry/HeavyInfantry.nif</NIF>
 			<KFM>Art/Units/Charlemagne_HeavySwordsman/HeavySwordsman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Arab/Berber Andalusian Heavy Infantry/BerberAndalusianHeavyInfantry.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Modules/Varietas Delectat/Art/Units/Arab/Heavy Infantry/HeavyInfantry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -5133,9 +5133,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Arab/Berber Crossbowman (Chainmail)/BerberCrossbowmanChainmail.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Arab/Crossbowman/BerberCrossbowman.nif</NIF>
 			<KFM>Art/Units/Crossbowman/Crossbowman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Arab/Berber Crossbowman (Chainmail)/BerberCrossbowmanChainmail.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Arab/Crossbowman/BerberCrossbowman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -5461,7 +5461,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Arab/Berber North African Heavy Cavalry/NorthAfricanHeavyCavalry.nif</NIF>
+			<NIF>Modules/Varietas Modules/Varietas Delectat/Art/Units/Arab/Heavy Cavalry/HeavyCavalry.nif</NIF>
 			<KFM>Art/Units/Unique_Byzantine_Cataphract/Unique_Byzantine_Cataphract.kfm</KFM>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
@@ -5508,9 +5508,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Persia/Sassanid (Cataphract) Heavy Cavalry Fancy Helmet/SassanidCataphractFancyHelmet.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Persia/Cataphract/SassanidCataphract.nif</NIF>
 			<KFM>Art/Units/Unique_Byzantine_Cataphract/Unique_Byzantine_Cataphract.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Persia/Sassanid (Cataphract) Heavy Cavalry Fancy Helmet/SassanidCataphractFancyHelmet.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Persia/Cataphract/SassanidCataphract.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7143,9 +7143,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Sacagawea/explorer.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Native America/Sacagawea/Explorer.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Sacagawea/explorer.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Sacagawea/explorer.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Native/Sacagawea/Explorer.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Sacagawea/explorer.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7167,9 +7167,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/sioux knight/Sioux_Knight.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/sioux knight/Sioux_Knight.nif</NIF>
 			<KFM>Art/Units/Unique/Mongol/Keshik/MongelKeshik.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/sioux knight/Sioux_Knight.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/sioux knight/Sioux_Knight.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7191,9 +7191,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois swordsman/iroquois_swordsman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/iroquois swordsman/iroquois_swordsman.nif</NIF>
 			<KFM>Art/Units/Swordsman/Swordsman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois swordsman/iroquois_swordsman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/iroquois swordsman/iroquois_swordsman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7215,9 +7215,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois archer/iroquois_archer.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/iroquois archer/iroquois_archer.nif</NIF>
 			<KFM>Art/Units/Archer_South_America/Archer.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois archer/iroquois_archer.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/iroquois archer/iroquois_archer.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7239,9 +7239,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Chariot/Chariot_Celtic_FX.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Native American Chariot/Chariot_Celtic_FX.nif</NIF>
 			<KFM>Art/Units/Chariot_Celtic/Chariot_Celtic.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Chariot/Chariot_Celtic_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Native American Chariot/Chariot_Celtic_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/ChariotShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7274,9 +7274,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois horseman/iroquois_horseman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/iroquois horseman/iroquois_horseman.nif</NIF>
 			<KFM>Art/Units/HorseArcher/HorseArcher.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois horseman/iroquois_horseman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/iroquois horseman/iroquois_horseman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7298,9 +7298,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/native american Spearman/sioux_spearman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/native american Spearman/sioux_spearman.nif</NIF>
 			<KFM>Art/Units/Spearman/Spearman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/native american Spearman/sioux_spearman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/native american Spearman/sioux_spearman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7322,9 +7322,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/native american pikeman/Sioux_Pikeman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/native american pikeman/Sioux_Pikeman.nif</NIF>
 			<KFM>Art/Units/Pikeman/Pikeman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/native american pikeman/Sioux_Pikeman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/native american pikeman/Sioux_Pikeman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7346,9 +7346,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/native american Maceman/Sioux_Footman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/native american Maceman/Sioux_Footman.nif</NIF>
 			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/native american Maceman/Sioux_Footman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/native american Maceman/Sioux_Footman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7726,9 +7726,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/native american longbowman/Sioux_Longbowman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/native american longbowman/Sioux_Longbowman.nif</NIF>
 			<KFM>Art/Units/Longbowman/Longbowman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/native american longbowman/Sioux_Longbowman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/native american longbowman/Sioux_Longbowman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7750,9 +7750,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/sioux crossbowman/Native_American_Crossbowman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Crossbowman/Crossbowman.nif</NIF>
 			<KFM>Art/Units/Crossbowman/Crossbowman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/sioux crossbowman/Native_American_Crossbowman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Crossbowman/Crossbowman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7774,9 +7774,9 @@
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/native american war mammoth/warmammoth.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/native american war mammoth/warmammoth.nif</NIF>
 			<KFM>Art/Units/WarElephant_Carthage/WarElephant_Carthage.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/native american war mammoth/warmammoth.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/native american war mammoth/warmammoth.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/WarElephantShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7798,9 +7798,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Musketman/Native_American_Musketman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Musketman/Musketman.nif</NIF>
 			<KFM>Art/Units/Musketman/Musketman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Musketman/Native_American_Musketman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Musketman/Musketman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7822,9 +7822,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois rifleman/iroquois_rifleman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/iroquois rifleman/iroquois_rifleman.nif</NIF>
 			<KFM>Art/Units/Rifleman/Rifleman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois rifleman/iroquois_rifleman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/iroquois rifleman/iroquois_rifleman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7846,9 +7846,9 @@
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Cannon/cannon_FX.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Native American Cannon/cannon_FX.nif</NIF>
 			<KFM>Art/Units/Cannon/Cannon.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Cannon/cannon_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Native American Cannon/cannon_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CannonShadow.nif</ShadowNIF>
 				<ShadowAttachNode/>
@@ -7878,9 +7878,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Grenadier/sioux_grenadier.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Native American Grenadier/sioux_grenadier.nif</NIF>
 			<KFM>Art/Units/Grenadier/Grenadier.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Grenadier/sioux_grenadier.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Native American Grenadier/sioux_grenadier.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7902,9 +7902,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Cuirassier/Sioux_Cuirassier.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Native American Cuirassier/Sioux_Cuirassier.nif</NIF>
 			<KFM>Art/Units/Cuirassier/Cuirassier.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Cuirassier/Sioux_Cuirassier.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Native American Cuirassier/Sioux_Cuirassier.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -7926,9 +7926,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois cavalry/iroquois_cavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/iroquois cavalry/iroquois_cavalry.nif</NIF>
 			<KFM>Art/Units/Cavalry/Cavalry.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/iroquois cavalry/iroquois_cavalry.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/iroquois cavalry/iroquois_cavalry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -7950,9 +7950,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Infantry/infantry_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Native American Infantry/infantry_fx.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Infantry/infantry_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Native American Infantry/infantry_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7974,9 +7974,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Machinegun/machinegunner.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Native American Machinegun/machinegunner.nif</NIF>
 			<KFM>Art/Units/MachineGun/MachineGunner.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Machinegun/machinegunner.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Native American Machinegun/machinegunner.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7998,9 +7998,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Marine/marines_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/Native American Marine/marines_fx.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/Native American Marine/marines_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/Native American Marine/marines_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8022,9 +8022,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/native america/ancient GG/Warlord_Ancient.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/native america/ancient GG/Warlord_Ancient.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/native america/ancient GG/Warlord_Ancient.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/ancient GG/Warlord_Ancient.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Native/ancient GG/Warlord_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/ancient GG/Warlord_Ancient.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -8046,9 +8046,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/native america/medieval GG/Warlord_Ancient.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/native america/ancient GG/Warlord_Ancient.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/native america/medieval GG/Warlord_Ancient.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/medieval GG/Warlord_Ancient.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Native/ancient GG/Warlord_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/medieval GG/Warlord_Ancient.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -8070,9 +8070,9 @@
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Native America/canoe/Canoe_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Native/canoe/Canoe_fx.nif</NIF>
 			<KFM>Art/Units/Galley/Galley.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native America/canoe/Canoe_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Native/canoe/Canoe_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/GalleyShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8148,9 +8148,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/varietas delectat/Art/Units/Native America/Native Prophet/NativeGreatProphet.nif</NIF>
+			<NIF>Modules/varietas delectat/Art/Units/Native/Native Prophet/NativeGreatProphet.nif</NIF>
 			<KFM>Art/Units/GreatPeople/Prophet/GreatProphet.kfm</KFM>
-			<SHADERNIF>Modules/varietas delectat/Art/Units/Native America/Native Prophet/NativeGreatProphet.nif</SHADERNIF>
+			<SHADERNIF>Modules/varietas delectat/Art/Units/Native/Native Prophet/NativeGreatProphet.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8882,9 +8882,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/korea/Korean Longbowman (Joseon Dynasty)/koreanlongbowmanjoseon.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/korea/Joseon Longbowman/longbowmanjoseon.nif</NIF>
 			<KFM>Art/Units/Longbowman/Longbowman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/korea/Korean Longbowman (Joseon Dynasty)/koreanlongbowmanjoseon.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/korea/Joseon Longbowman/longbowmanjoseon.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -13256,9 +13256,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Longbowman/OttomanJanissaryArcherChainmailHelmet.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Longbowman/JanissaryArcher.nif</NIF>
 			<KFM>Art/Units/Longbowman/Longbowman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Longbowman/OttomanJanissaryArcherChainmailHelmet.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Longbowman/JanissaryArcher.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -13459,9 +13459,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Janissary Musketman (Green)/OttomanJanissaryGreen.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Green Musketman/JanissaryGreen.nif</NIF>
 			<KFM>Art/Units/Janissary/Janissary.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Janissary Musketman (Green)/OttomanJanissaryGreen.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Green Musketman/JanissaryGreen.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -13483,9 +13483,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Janissary Musketman (Red)/OttomanJanissaryRed.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Red Musketman/JanissaryRed.nif</NIF>
 			<KFM>Art/Units/Janissary/Janissary.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Janissary Musketman (Red)/OttomanJanissaryRed.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Red Musketman/JanissaryRed.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -13563,9 +13563,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Heavy Cavalry (Heavy Armor)/TurkishOttomanHeavyCavalryArmored.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Ottoman/Heavy Cavalry/Heavy Cavalry.nif</NIF>
 			<KFM>Art/Units/Knight/Knight.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Ottoman Heavy Cavalry (Heavy Armor)/TurkishOttomanHeavyCavalryArmored.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Ottoman/Heavy Cavalry/Heavy Cavalry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -16708,9 +16708,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/greek/Greek Heavyfootman (Hypaspistai Red)/GreekHypaspistaiHeavyfootmanRed.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/greek/Red Hypaspistai/RedHypaspistai.nif</NIF>
 			<KFM>Art/Units/Charlemagne_HeavySwordsman/HeavySwordsman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/greek/Greek Heavyfootman (Hypaspistai Red)/GreekHypaspistaiHeavyfootmanRed.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/greek/Red Hypaspistai/RedHypaspistai.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -18796,9 +18796,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Viking/Viking Heavy Cavalry Armored Horse/VikingHvyCavalryArmoredHorse.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Viking/Heavy Cavalry/HeavyCavalry.nif</NIF>
 			<KFM>Art/Units/Charlemagne_LightCavalry/LightCavalry.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Viking/Viking Heavy Cavalry Armored Horse/VikingHvyCavalryArmoredHorse.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Viking/Heavy Cavalry/HeavyCavalry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -22111,9 +22111,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Carthage/Carthage Spearman (Chainmail)/CarthageHeavySpearman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Carthage/Chainmail Spearman/HeavySpearman.nif</NIF>
 			<KFM>Art/Units/Unique/Greek/Phalanx/GreekPhalanx.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Carthage/Carthage Spearman (Chainmail)/CarthageHeavySpearman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Carthage/Chainmail Spearman/HeavySpearman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -22159,9 +22159,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Carthage/Carthage Spearman (Sacred Band)/CarthageSpearmenSacredBand.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Carthage/Sacred Band/SacredBand.nif</NIF>
 			<KFM>Art/Units/Unique/Greek/Phalanx/GreekPhalanx.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Carthage/Carthage Spearman (Sacred Band)/CarthageSpearmenSacredBand.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Carthage/Sacred Band/SacredBand.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -22506,9 +22506,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/spain/Spanish Spearman (Greek Helmet)/IberianSpearmanGreekHelmet.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/spain/Greek Spearman/Spearman.nif</NIF>
 			<KFM>Art/Units/Unique/Greek/Phalanx/GreekPhalanx.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/spain/Spanish Spearman (Greek Helmet)/IberianSpearmanGreekHelmet.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/spain/Greek Spearman/Spearman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -23741,9 +23741,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Byzantine/Byzantine Horseman (Unarmored Horse)/ByzantineHorsemanUnarmoredHorse.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Byzantine/Unarmored Horseman/Horseman.nif</NIF>
 			<KFM>Art/Units/Charlemagne_LightCavalry/LightCavalry.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Byzantine/Byzantine Horseman (Unarmored Horse)/ByzantineHorsemanUnarmoredHorse.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Byzantine/Unarmored Horseman/Horseman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -25468,9 +25468,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Celts/Celtic Swordsman (Cloak)/CelticSwordsmanNoShirtWithCloak.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Celts/Cloak Swordsman/Swordsman.nif</NIF>
 			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Celts/Celtic Swordsman (Cloak)/CelticSwordsmanNoShirtWithCloak.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Celts/Cloak Swordsman/Swordsman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
