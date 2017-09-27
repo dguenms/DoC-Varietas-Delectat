@@ -8,10 +8,10 @@
 	<UnitArtStyleTypeInfos>
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
-<!-- VD mod BEGIN Indian ArtStyle                                                                                                                   -->
+<!-- VD mod BEGIN Indonesian ArtStyle                                                                                                                   -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_MALAY</Type>
+			<Type>UNIT_ARTSTYLE_INDONESIA</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -337,7 +337,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GENERAL_SOUTHEAST_ASIAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_GENERAL_MODERN_ORIENTAL</LateArtDefineTag>
@@ -345,7 +345,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ARTIST</UnitType>
+					<UnitType>UNIT_GREAT_ARTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_EUROPEAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ARTIST_MODERN_EUROPEAN</LateArtDefineTag>
@@ -353,7 +353,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ENGINEER</UnitType>
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MODERN_ORIENTAL</LateArtDefineTag>
@@ -361,7 +361,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MERCHANT</UnitType>
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_EUROPEAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_MERCHANT_MODERN_EUROPEAN</LateArtDefineTag>
@@ -369,7 +369,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_PROPHET</UnitType>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_PROPHET_ORIENTAL</LateArtDefineTag>
@@ -377,7 +377,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_SCIENTIST</UnitType>
+					<UnitType>UNIT_GREAT_SCIENTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SCIENTIST_MODERN_EUROPEAN</LateArtDefineTag>
@@ -385,7 +385,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_SPY_GREAT</UnitType>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MODERN_EUROPEAN</LateArtDefineTag>
@@ -396,7 +396,7 @@
 		</UnitArtStyleTypeInfo>
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
-<!-- VD mod END Indian ArtStyle                                                                                                                     -->
+<!-- VD mod END Indonesian ArtStyle                                                                                                                     -->
 <!--________________________________________________________________________________________________________________________________________________-->
 	</UnitArtStyleTypeInfos>
 </Civ4UnitArtStyleTypeInfos>
