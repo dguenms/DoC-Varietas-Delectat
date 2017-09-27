@@ -2475,7 +2475,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_TEAL</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_INDONESIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_KHMER</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_INDONESIA</UnitArtStyleType>
 			<PaganReligionName>TXT_KEY_RELIGION_VEDISM</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Vedism.dds</PaganReligionButton>
 			<Identifier>INO</Identifier>
