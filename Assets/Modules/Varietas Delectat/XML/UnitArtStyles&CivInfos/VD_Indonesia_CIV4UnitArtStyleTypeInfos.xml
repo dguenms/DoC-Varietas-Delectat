@@ -69,15 +69,17 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_SPY</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ORIENTAL</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN_ORIENTAL</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ORIENTAL</MiddleArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
 					<UnitType>UNIT_WARRIOR</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_SE_ASIAN</LateArtDefineTag>
@@ -99,6 +101,16 @@
 						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</MiddleArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_MALAY</MiddleArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
@@ -106,6 +118,42 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MALAY</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_JAVAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_MALAY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_MALAY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_MALAY</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -118,6 +166,11 @@
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CHARIOT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_MALAY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_MALAY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_MALAY</MiddleArtDefineTag>
+					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_MALAY</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_MALAY</LateArtDefineTag>
@@ -240,9 +293,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_MACHINE_GUN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_KHMER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_KHMER</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_KHMER</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_VIETKONG</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_VIETKONG</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_VIETKONG</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -345,27 +398,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREAT_ARTIST</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_EUROPEAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARTIST_MODERN_EUROPEAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_EUROPEAN</MiddleArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
 					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MODERN_ORIENTAL</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_ORIENTAL</MiddleArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_EUROPEAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MERCHANT_MODERN_EUROPEAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_EUROPEAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -382,14 +419,6 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SCIENTIST_MODERN_EUROPEAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_ORIENTAL</MiddleArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_GREAT_SPY</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_ORIENTAL</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MODERN_EUROPEAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_ORIENTAL</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

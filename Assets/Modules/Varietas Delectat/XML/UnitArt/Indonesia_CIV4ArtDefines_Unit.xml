@@ -37,9 +37,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Settler_Asian/Settler_Asian_Female.nif</NIF>
+			<NIF>Art/Units/Settler_Asian/Settler_Asian_Female.nif</NIF>
 			<KFM>Art/Units/Settler_Asian/Settler_Female.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Settler_Asian/Settler_Asian_Female_FX.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Settler_Asian/Settler_Asian_Female_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -297,54 +297,6 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SPY_ORIENTAL</Type>
-			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
-			<fScale>0.46</fScale>
-			<fInterfaceScale>1.1</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient_FX.nif</NIF>
-			<KFM>Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient_FX.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>0.8</fShadowScale>
-			</ShadowDef>
-			<fBattleDistance>0.35</fBattleDistance>
-			<fRangedDeathTime>0.31</fRangedDeathTime>
-			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop/>
-				<AudioRunTypeEnd/>
-			</AudioRunSounds>
-		</UnitArtInfo>
-		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SPY_MODERN_ORIENTAL</Type>
-			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,7</Button>
-			<fScale>0.46</fScale>
-			<fInterfaceScale>1.1</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Oriental/Modern Spy/Great_Spy_Modern_FX.nif</NIF>
-			<KFM>Art/Units/Generic/Great_Spy_Modern/Great_Spy_Modern.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Oriental/Modern Spy/Great_Spy_Modern_FX.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>0.8</fShadowScale>
-			</ShadowDef>
-			<fBattleDistance>0.35</fBattleDistance>
-			<fRangedDeathTime>0.31</fRangedDeathTime>
-			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop/>
-				<AudioRunTypeEnd/>
-			</AudioRunSounds>
-		</UnitArtInfo>
-		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WARRIOR_SE_ASIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Warrior.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,1</Button>
 			<fScale>0.44</fScale>
@@ -353,7 +305,7 @@
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/Oriental/Warrior/JavaneseWarrior.nif</NIF>
 			<KFM>Art/Units/Unique_NativeAmerica_DogSoldier/Dogsoldier.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Oriental/Warrior/SE Asian Warrior/JavaneseWarrior.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Oriental/Warrior/JavaneseWarrior.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -846,7 +798,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEY_ORIENTAL</Type>
 			<Button>,Art/Interface/Buttons/Units/Galley.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,9</Button>
-			<fScale>0.11</fScale>
+			<fScale>0.18</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -885,7 +837,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WAR_GALLEY_ORIENTAL</Type>
 			<Button>,Art/Interface/Buttons/Units/Galley.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,8,8</Button>
-			<fScale>0.1</fScale>
+			<fScale>0.15</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -924,7 +876,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_COG_ORIENTAL</Type>
 			<Button>Art/Interface/Buttons/Units/Cog.dds</Button>
-			<fScale>0.13</fScale>
+			<fScale>0.2</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -962,7 +914,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEASS_ORIENTAL</Type>
 			<Button>Art/Interface/Buttons/Units/Galleass.dds</Button>
-			<fScale>0.14</fScale>
+			<fScale>0.18</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -1001,7 +953,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEON_ORIENTAL</Type>
 			<Button>,Art/Interface/Buttons/Units/Galleon.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,9</Button>
-			<fScale>0.15</fScale>
+			<fScale>0.20</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -1040,7 +992,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_FRIGATE_ORIENTAL</Type>
 			<Button>,Art/Interface/Buttons/Units/Frigate.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,9</Button>
-			<fScale>0.2</fScale>
+			<fScale>0.25</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -1079,7 +1031,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SHIP_OF_THE_LINE_ORIENTAL</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,1,12</Button>
-			<fScale>0.16</fScale>
+			<fScale>0.2</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -1266,9 +1218,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/GreatPeople/Scientist/GreatScientistAncient.nif</NIF>
+			<NIF>Art/Units/GreatPeople/Scientist/GreatScientistAncient.nif</NIF>
 			<KFM>Art/Units/GreatPeople/Scientist/GreatScientistAncient.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/GreatPeople/Scientist/GreatScientistAncient_FX.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/GreatPeople/Scientist/GreatScientistAncient_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1284,19 +1236,43 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SPY_GREAT_ORIENTAL</Type>
-			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,15</Button>
-			<fScale>0.46</fScale>
+			<Type>ART_DEF_UNIT_HEAVY_SWORDSMAN_MALAY</Type>
+			<Button>,Art/Interface/Buttons/Units/Worker.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,2,2</Button>
+			<fScale>0.42</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Oriental/Great Spy/MedievalSpy_FX.nif</NIF>
-			<KFM>Art/Units/Generic/European Great Spy/MedievalSpy.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Oriental/Great Spy/MedievalSpy_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Indonesia/Malay Heavy Footman/MalayPostMelakaHeavyInfantry.nif</NIF>
+			<KFM>Art/Units/Unique/Inca/Quechua/IncanQuechua.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Indonesia/Malay Heavy Footman/MalayPostMelakaHeavyInfantry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>0.9</fShadowScale>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SWORDSMAN_JAVAN</Type>
+			<Button>,Art/Interface/Buttons/Units/Swordsman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,5</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Indonesia/Javan Swordsman/JavaneseSwordsman.nif</NIF>
+			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Indonesia/Javan Swordsman/JavaneseSwordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
 			</ShadowDef>
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
