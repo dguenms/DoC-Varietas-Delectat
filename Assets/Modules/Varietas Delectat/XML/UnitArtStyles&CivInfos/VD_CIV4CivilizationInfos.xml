@@ -5500,7 +5500,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_MAROON</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_TIBET</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_ASIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_CHINA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_TIBET</UnitArtStyleType>
 			<PaganReligionName>TXT_KEY_RELIGION_SHENDAO</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Shendao.dds</PaganReligionButton>
 			<Identifier>TIB</Identifier>
