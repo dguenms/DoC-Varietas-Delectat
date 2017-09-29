@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Tibetan ArtStyle                                                                                                                 -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_TIBETAN</Type>
+			<Type>UNIT_ARTSTYLE_TIBET</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>
@@ -159,9 +159,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_SKIRMISHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SKIRMISHER_MONGOL</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SKIRMISHER_MONGOL</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SKIRMISHER_MONGOL</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SKIRMISHER_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SKIRMISHER_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SKIRMISHER_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -183,9 +183,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_MONGOL</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_MONGOL</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_MONGOL</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ASIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -213,7 +213,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_KNIGHT</UnitType>
+					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_TIBETAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_TIBETAN</LateArtDefineTag>
@@ -239,65 +239,57 @@
 				<StyleUnit>
 					<UnitType>UNIT_CANNON</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CANNON_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_MONGOLIA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_GRENADIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_MONGOLIA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_MONGOLIA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CAVALRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_MONGOLIA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MACHINE_GUN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIA</MiddleArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_AT_INFANTRY</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_MONGOLIA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SAM_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIA</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIA</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIA</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -381,7 +373,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GENERAL</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GENERAL_MONGOLIAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_GENERAL_MODERN_MONGOLIAN</LateArtDefineTag>
@@ -389,7 +381,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_ENGINEER</UnitType>
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MODERN_ORIENTAL</LateArtDefineTag>
@@ -397,7 +389,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_PROPHET</UnitType>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_PROPHET_ORIENTAL</LateArtDefineTag>
@@ -405,14 +397,13 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_SCIENTIST</UnitType>
+					<UnitType>UNIT_GREAT_SCIENTIST</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SCIENTIST_MODERN_EUROPEAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_ORIENTAL</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-			</StyleUnits>
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
 <!--________________________________________________________________________________________________________________________________________________-->

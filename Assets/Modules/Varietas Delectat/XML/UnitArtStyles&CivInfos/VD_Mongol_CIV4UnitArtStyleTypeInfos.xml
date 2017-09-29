@@ -278,17 +278,41 @@
 				<StyleUnit>
 					<UnitType>UNIT_INFANTRY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_CHINESE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_CHINESE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_CHINESE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_MONGOLIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_AT_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_MONGOLIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SAM_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_MONGOLIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_PARATROOPER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PARATROOPER_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PARATROOPER_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PARATROOPER_MONGOLIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_MACHINE_GUN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ASIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ASIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_ASIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_MONGOLIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

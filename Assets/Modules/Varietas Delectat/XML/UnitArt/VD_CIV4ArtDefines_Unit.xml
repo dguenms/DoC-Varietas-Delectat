@@ -33322,7 +33322,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_GENERAL_MODERN_MONGOL</Type>
+			<Type>ART_DEF_UNIT_GENERAL_MODERN_MONGOLIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/GreatEngineer.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,10</Button>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -33339,6 +33339,126 @@
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
 			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_INFANTRY_MONGOLIAN</Type>
+			<Button>,Art/Interface/Buttons/Units/Infantry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,8,3</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Mongol/Mongolian Infantry/infantry2.nif</NIF>
+			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
+			<SHADERNIF>Art/Units/Mongol/Mongolian Infantry/infantry2.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_MACHINE_GUN_MONGOL</Type>
+			<Button>,Art/Interface/Buttons/Units/MachineGun.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,6</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Mongol/Mongolian Machine Gun/machinegunner.nif</NIF>
+			<KFM>Art/Units/MachineGun/MachineGunner.kfm</KFM>
+			<SHADERNIF>Art/Units/Mongolian/Mongol Machine Gun/machinegunner.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_AT_INFANTRY_MONGOL</Type>
+			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,5,11</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Mongol/Mongolian AT Infantry/AT_Infantry.nif</NIF>
+			<KFM>Art/Units/AntiTankInfantry/WWAntiTankInfantry.kfm</KFM>
+			<SHADERNIF>Art/Units/Mongol/Mongolian AT Infantry/AT_Infantry.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SAM_INFANTRY_MONGOL</Type>
+			<Button>,Art/Interface/Buttons/Units/SAM_Infantry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,8</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Mongol/Mongolian SAM Infantry/saminfantry_fx.nif</NIF>
+			<KFM>Art/Units/SAMInfantry/SAMInfantry.kfm</KFM>
+			<SHADERNIF>Art/Units/Mongol/Mongolian SAM Infantry/saminfantry_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PARATROOPER_MONGOLIAN</Type>
+			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,11</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Mongol/Mongolian Paratrooper/paratrooper_fx.nif</NIF>
+			<KFM>Art/Units/Paratrooper/Paratrooper.kfm</KFM>
+			<SHADERNIF>Art/Units/Mongol/Mongolian Paratrooper/paratrooper_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>Bip01 Neck</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
 			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
 			<AudioRunSounds>
 				<AudioRunTypeLoop/>

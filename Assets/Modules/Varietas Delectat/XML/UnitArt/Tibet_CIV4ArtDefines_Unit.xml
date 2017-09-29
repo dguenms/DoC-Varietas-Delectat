@@ -13,9 +13,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Mongol/Mongolian Settler/Mongol_Settler_B_fx.nif</NIF>
-			<KFM>Art/Units/Mongol/Mongolian Settler/Mongol_Settler_B.kfm</KFM>
-			<SHADERNIF>Art/Units/Mongol/Mongolian Settler/Mongol_Settler_B_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Settler/Mongol_Settler_B_fx.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Settler/Mongol_Settler_B.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Settler/Mongol_Settler_B_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -86,9 +86,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Mongol/Mongolian Settler/Mongol_Settler_Horseman_fx.nif</NIF>
-			<KFM>Art/Units/Mongol/Mongolian Settler/Mongol_Settler_Horseman.kfm</KFM>
-			<SHADERNIF>Art/Units/Mongol/Mongolian Settler/Mongol_Settler_Horseman_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Settler/Mongol_Settler_Horseman_fx.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Settler/Mongol_Settler_Horseman.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Settler/Mongol_Settler_Horseman_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -110,9 +110,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Steppe/Worker/HunWorker.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Steppe/Worker/HunWorker.nif</NIF>
 			<KFM>Art/Units/Worker/Worker.kfm</KFM>
-			<SHADERNIF>Art/Units/Steppe/Worker/HunWorker.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Steppe/Worker/HunWorker.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -134,9 +134,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Steppe/Labourer/ushankahatmodernworker.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Steppe/Labourer/ushankahatmodernworker.nif</NIF>
 			<KFM>Art/Units/ModernWorker/ModernWorker.kfm</KFM>
-			<SHADERNIF>Art/Units/Steppe/Labourer/ushankahatmodernworker.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Steppe/Labourer/ushankahatmodernworker.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -158,9 +158,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Generic/Scout_Asian/Scout_Asian_FX.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Scout_Asian/Scout_Asian_FX.nif</NIF>
 			<KFM>Art/Units/Scout/Scout.kfm</KFM>
-			<SHADERNIF>Art/Generic/Scout_Asian/Scout_Asian_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Generic/Scout_Asian/Scout_Asian_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -182,9 +182,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Steppe/Explorer/MongolExplorerfinal.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Steppe/Explorer/MongolExplorerfinal.nif</NIF>
 			<KFM>Art/Units/Explorer/Explorer.kfm</KFM>
-			<SHADERNIF>Art/Units/Steppe/Explorer/MongolExplorerfinal.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Steppe/Explorer/MongolExplorerfinal.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -206,9 +206,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Steppe/Warrior/MongolWarriorfinal.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Steppe/Warrior/MongolWarriorfinal.nif</NIF>
 			<KFM>Art/Units/Warrior/Warrior.kfm</KFM>
-			<SHADERNIF>Art/Units/Steppe/Warrior/MongolWarriorfinal.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Steppe/Warrior/MongolWarriorfinal.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -230,9 +230,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Archer/HunArcher.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Archer/HunArcher.nif</NIF>
 			<KFM>Art/Units/Archer_Eurasian/Archer_Eurasian.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Archer/HunArcher.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Archer/HunArcher.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -254,9 +254,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Spearman/HunSpearman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Spearman/HunSpearman.nif</NIF>
 			<KFM>Art/Units/Unique_Maya_Holkan/Unique_Mayan_Holkan.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Spearman/HunSpearman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Spearman/HunSpearman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -278,9 +278,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Axeman/HunAxeman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Axeman/HunAxeman.nif</NIF>
 			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Axeman/HunAxeman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Axeman/HunAxeman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -302,9 +302,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Swordsman/HunSwordsman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Swordsman/HunSwordsman.nif</NIF>
 			<KFM>Art/Units/Unique_NativeAmerica_DogSoldier/Dogsoldier.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Swordsman/HunSwordsman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Swordsman/HunSwordsman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -326,9 +326,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Chariot/HunChariot.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Chariot/HunChariot.nif</NIF>
 			<KFM>Art/Units/Chariot_Celtic/Chariot_Celtic.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Chariot/HunChariot.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Chariot/HunChariot.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/ChariotShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -361,9 +361,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Horse Archer/HunHorseman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Horse Archer/HunHorseman.nif</NIF>
 			<KFM>Art/Units/HorseArcher/HorseArcher.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Horse Archer/HunHorseman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Horse Archer/HunHorseman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -385,9 +385,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Pikeman/HunPikeman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Pikeman/HunPikeman.nif</NIF>
 			<KFM>Art/Units/Charlemagne_HeavySpearman/HeavySpearman.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Pikeman/HunPikeman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Pikeman/HunPikeman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -409,9 +409,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Longbowman/HunLongbowman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Longbowman/HunLongbowman.nif</NIF>
 			<KFM>Art/Units/Archer_Eurasian/Archer_Eurasian.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Longbowman/HunLongbowman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Longbowman/HunLongbowman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -433,9 +433,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Crossbowman/HunCrossbowman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Crossbowman/HunCrossbowman.nif</NIF>
 			<KFM>Art/Units/Crossbowman/Crossbowman.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Crossbowman/HunCrossbowman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Crossbowman/HunCrossbowman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -457,9 +457,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Knight/HunHeavyCavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Knight/HunHeavyCavalry.nif</NIF>
 			<KFM>Art/Units/Charlemagne_LightCavalry/LightCavalry.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Knight/HunHeavyCavalry.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Knight/HunHeavyCavalry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -481,9 +481,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Viet Musketman/VietnameseMusketman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Viet Musketman/VietnameseMusketman.nif</NIF>
 			<KFM>Art/Units/Musketman/Musketman.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Viet Musketman/VietnameseMusketman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Viet Musketman/VietnameseMusketman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -505,9 +505,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Cuirassier/Hunnic_Cuirassier.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Cuirassier/Hunnic_Cuirassier.nif</NIF>
 			<KFM>Art/Units/Cuirassier/Cuirassier.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Cuirassier/Hunnic_Cuirassier.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Cuirassier/Hunnic_Cuirassier.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -529,9 +529,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tibet/Tibetan Heavy Swordsman/HunHeavyfootman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Heavy Swordsman/HunHeavyfootman.nif</NIF>
 			<KFM>Art/Units/Charlemagne_HeavySwordsman/HeavySwordsman.kfm</KFM>
-			<SHADERNIF>Art/Units/Tibet/Tibetan Heavy Swordsman/HunHeavyfootman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tibet/Tibetan Heavy Swordsman/HunHeavyfootman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
