@@ -364,6 +364,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_CARAVEL</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CARAVEL_ORIENTAL</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CARAVEL_ORIENTAL</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CARAVEL_ORIENTAL</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_GALLEON</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEON_ORIENTAL</EarlyArtDefineTag>
@@ -371,7 +379,6 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEON_ORIENTAL</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_FRIGATE</UnitType>
 					<UnitMeshGroup>
@@ -380,7 +387,6 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_FRIGATE_ORIENTAL</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
 					<UnitType>UNIT_SHIP_OF_THE_LINE</UnitType>
 					<UnitMeshGroup>

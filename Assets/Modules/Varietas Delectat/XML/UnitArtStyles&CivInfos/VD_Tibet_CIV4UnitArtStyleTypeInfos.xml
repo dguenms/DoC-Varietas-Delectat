@@ -171,6 +171,11 @@
 						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_TIBETAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_TIBETAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_TIBETAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_TIBETAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_TIBETAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
