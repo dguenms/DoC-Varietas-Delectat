@@ -762,7 +762,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WAR_GALLEY_MESOAMERICAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Galley.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,8,8</Button>
-			<fScale>0.1</fScale>
+			<fScale>0.13</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -801,7 +801,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CARAVEL_MESOAMERICAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Caravel.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,9</Button>
-			<fScale>0.12</fScale>
+			<fScale>0.16</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -840,7 +840,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEASS_MESOAMERICAN</Type>
 			<Button>Art/Interface/Buttons/Units/Galleass.dds</Button>
-			<fScale>0.1</fScale>
+			<fScale>0.14</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -879,7 +879,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEON_MESOAMERICAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Galleon.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,9</Button>
-			<fScale>0.13</fScale>
+			<fScale>0.19</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -918,7 +918,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_FRIGATE_MESOAMERICAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Frigate.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,9</Button>
-			<fScale>0.12</fScale>
+			<fScale>0.18</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -957,7 +957,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SHIP_OF_THE_LINE_MESOAMERICAN</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,1,12</Button>
-			<fScale>0.13</fScale>
+			<fScale>0.16</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -1179,6 +1179,30 @@
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
 			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SKIRMISHER_POLYNESIAN</Type>
+			<Button>Art/Interface/Buttons/Units/Skirmisher.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Polynesia/Polynesian Skirmisher/polynesia_skirmisher_fx.nif</NIF>
+			<KFM>Art/Units/Unique/Mali/Skirmisher/MaliSkirmisher.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Polynesia/Polynesian Skirmisher/polynesia_skirmisher_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
 			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
 			<AudioRunSounds>
 				<AudioRunTypeLoop/>
