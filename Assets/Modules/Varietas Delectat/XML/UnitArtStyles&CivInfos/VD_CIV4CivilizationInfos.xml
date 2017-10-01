@@ -4441,7 +4441,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_POLYNESIA</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_POLYNESIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_PACIFIC</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_INCA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_POLYNESIA</UnitArtStyleType>
 			<PaganReligionName>TXT_KEY_RELIGION_ATUA</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Atua.dds</PaganReligionButton>
 			<Identifier>PLY</Identifier>

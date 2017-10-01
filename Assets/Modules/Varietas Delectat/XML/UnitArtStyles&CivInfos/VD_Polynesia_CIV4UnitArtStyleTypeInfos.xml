@@ -75,6 +75,16 @@
 						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</MiddleArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_PACIFIC</MiddleArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
@@ -352,9 +362,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_GENERAL_MAYAN</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MAYAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_GENERAL_MODERN_SOUTHERN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_GENERAL_MAYAN</MiddleArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_GENERAL_MAYAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
