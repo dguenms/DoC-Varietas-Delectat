@@ -362,7 +362,7 @@
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/Thailand/Thai Cannon/cannon.nif</NIF>
 			<KFM>Art/Units/Cannon/Cannon.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Thailand/Siam/Thai Cannon/cannon.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Thailand/Thai Cannon/cannon.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CannonShadow.nif</ShadowNIF>
 				<ShadowAttachNode/>
