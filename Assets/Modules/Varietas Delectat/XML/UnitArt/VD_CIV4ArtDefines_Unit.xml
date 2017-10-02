@@ -33585,7 +33585,7 @@
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/India/Indian Paratrooper/Indian_Paratrooper.nif</NIF>
 			<KFM>Art/Units/Paratrooper/Paratrooper.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/UnitsIndia/Indian Paratrooper/Indian_Paratrooper.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/India/Indian Paratrooper/Indian_Paratrooper.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>Bip01 Neck</ShadowAttachNode>

@@ -628,7 +628,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEY_MIDDLE_EASTERN</Type>
 			<Button>,Art/Interface/Buttons/Units/Galley.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,9</Button>
-			<fScale>0.16</fScale>
+			<fScale>0.24</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -667,7 +667,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WAR_GALLEY_MIDDLE_EASTERN</Type>
 			<Button>,Art/Interface/Buttons/Units/Galley.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,8,8</Button>
-			<fScale>0.16</fScale>
+			<fScale>0.21</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -705,7 +705,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_COG_MIDDLE_EASTERN</Type>
 			<Button>Art/Interface/Buttons/Units/Cog.dds</Button>
-			<fScale>0.08</fScale>
+			<fScale>0.16</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -743,7 +743,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEASS_MIDDLE_EASTERN</Type>
 			<Button>Art/Interface/Buttons/Units/Galleass.dds</Button>
-			<fScale>0.21</fScale>
+			<fScale>0.28</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -781,7 +781,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEON_MIDDLE_EASTERN</Type>
 			<Button>,Art/Interface/Buttons/Units/Galleon.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,9</Button>
-			<fScale>0.18</fScale>
+			<fScale>0.24</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -820,7 +820,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_FRIGATE_MIDDLE_EASTERN</Type>
 			<Button>,Art/Interface/Buttons/Units/Frigate.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,9</Button>
-			<fScale>0.18</fScale>
+			<fScale>0.24</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -859,7 +859,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SHIP_OF_THE_LINE_MIDDLE_EASTERN</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,1,12</Button>
-			<fScale>0.20</fScale>
+			<fScale>0.27</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
