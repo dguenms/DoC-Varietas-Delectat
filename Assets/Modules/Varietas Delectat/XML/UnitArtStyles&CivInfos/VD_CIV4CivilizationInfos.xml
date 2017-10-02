@@ -5388,7 +5388,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_THAILAND</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_KHMER</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_THAILAND</UnitArtStyleType>
 			<PaganReligionName>TXT_KEY_RELIGION_VEDISM</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Vedism.dds</PaganReligionButton>
 			<Identifier>THA</Identifier>
