@@ -118,6 +118,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_SKIRMISHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SKIRMISHER_AMORITE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SKIRMISHER_AMORITE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SKIRMISHER_AMORITE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_BABYLONIAN</EarlyArtDefineTag>
@@ -198,6 +206,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_BABYLONIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HORSEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_AMORITE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_AMORITE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_AMORITE</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -411,121 +427,65 @@
 				<StyleUnit>
 					<UnitType>UNIT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ANCIENT_EGYPT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_AZTEC_JAGUAR</UnitType>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_REAL_JAGUAR_AZTEC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_REAL_JAGUAR_AZTEC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_REAL_JAGUAR_AZTEC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GENERAL_MESOPOTAMIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GENERAL_MODERN_ARABIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GENERAL_MESOPOTAMIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_CELTIC_GALLIC_WARRIOR</UnitType>
+					<UnitType>UNIT_GREAT_ARTIST</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_ARMOR_CELTIC</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_NOSHIRT_CELTIC</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_CLOAK_CELTIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTIST_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_GREEK_HOPLITE</UnitType>
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PHALANX_ATHENIAN_GREEK</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PHALANX_ATHENIAN_GREEK</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PHALANX_ATHENIAN_GREEK</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PHALANX_CORINTHIAN_GREEK</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PHALANX_CORINTHIAN_GREEK</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PHALANX_CORINTHIAN_GREEK</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PHALANX_SPARTAN_GREEK</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PHALANX_SPARTAN_GREEK</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PHALANX_SPARTAN_GREEK</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MODERN_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_INCAN_AUCAC</UnitType>
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_2</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_1</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_1</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_1</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_3</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_3</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_INCAN_AUCAC_3</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MERCHANT_MODERN_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_JAPANESE_SAMURAI</UnitType>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SAMURAI_JAPANESE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SAMURAI_JAPANESE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SAMURAI_JAPANESE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PROPHET_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
+					<UnitType>UNIT_GREAT_SCIENTIST</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</LateArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SCIENTIST_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CATAPHRACT_BYZANTINE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CATAPHRACT_BYZANTINE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CATAPHRACT_BYZANTINE</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_GERMAN_PANZER</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_TIGER_TANK</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_TIGER_TANK</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_TIGER_TANK</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_DUTCH_EAST_INDIAMAN</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

@@ -409,6 +409,14 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_ORIENTAL</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_ORIENTAL</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MODERN_EUROPEAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_ORIENTAL</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
 <!--________________________________________________________________________________________________________________________________________________-->

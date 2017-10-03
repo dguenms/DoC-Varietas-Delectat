@@ -388,6 +388,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_NATIVE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN_NATIVE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_NATIVE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_GREAT_GENERAL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GENERAL_DRAVIDIAN</EarlyArtDefineTag>
@@ -433,6 +441,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_INDIAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SCIENTIST_MODERN_INDIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>
