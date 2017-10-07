@@ -193,9 +193,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_GERMAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_GERMAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_GERMAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_FRENCH</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_FRENCH</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_FRENCH</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

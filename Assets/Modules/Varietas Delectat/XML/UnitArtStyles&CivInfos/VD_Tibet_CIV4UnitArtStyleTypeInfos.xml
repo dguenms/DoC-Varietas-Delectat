@@ -178,6 +178,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_HORSEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_MONGOL</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_MONGOL</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_MONGOL</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_TIBETAN</EarlyArtDefineTag>
@@ -375,6 +383,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_ORIENTAL</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_ORIENTAL</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_ORIENTAL</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_ORIENTAL</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN_ORIENTAL</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_ORIENTAL</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

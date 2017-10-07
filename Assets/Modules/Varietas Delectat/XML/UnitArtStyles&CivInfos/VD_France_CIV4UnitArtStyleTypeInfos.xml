@@ -521,7 +521,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_SPY_GREAT</UnitType>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_EUROPEAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MODERN_EUROPEAN</LateArtDefineTag>

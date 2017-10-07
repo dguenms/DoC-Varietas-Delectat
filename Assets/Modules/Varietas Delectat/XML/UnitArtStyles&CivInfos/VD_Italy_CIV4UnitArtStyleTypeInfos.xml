@@ -144,6 +144,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_SKIRMISHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SKIRMISHER_PORTUGUESE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SKIRMISHER_PORTUGUESE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SKIRMISHER_PORTUGUESE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN2_ITALIAN</EarlyArtDefineTag>
@@ -198,6 +206,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_ITALIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_ITALIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_ITALIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_HORSEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_PORTUGUESE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_PORTUGUESE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_PORTUGUESE</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

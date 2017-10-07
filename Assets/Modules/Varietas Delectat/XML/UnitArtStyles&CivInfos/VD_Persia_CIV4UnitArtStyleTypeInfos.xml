@@ -219,9 +219,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_PERSIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_PERSIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_PERSIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_PERSIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_PERSIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_PERSIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -488,9 +488,8 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_MIDDLE_EASTERN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
-
 				<StyleUnit>
-					<UnitType>UNIT_MERCHANT</UnitType>
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_MIDDLE_EASTERN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_MERCHANT_MODERN_MIDDLE_EASTERN</LateArtDefineTag>

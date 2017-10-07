@@ -135,9 +135,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HORSE_ARCHER</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HORSE_ARCHER</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HORSE_ARCHER</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_KONGOLESE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_KONGOLESE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_KONGOLESE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

@@ -214,17 +214,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_TURKIC</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_TURKIC</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_TURKIC</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_OTTOMAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_OTTOMAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_OTTOMAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

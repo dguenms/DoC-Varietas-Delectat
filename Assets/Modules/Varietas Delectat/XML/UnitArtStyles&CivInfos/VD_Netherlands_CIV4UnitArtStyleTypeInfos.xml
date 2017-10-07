@@ -193,17 +193,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_DUTCH</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_DUTCH</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_DUTCH</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_HOLLAND</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_HOLLAND</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_HOLLAND</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_HOLLAND</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_HOLLAND</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_HOLLAND</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_SCANDINAVIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_SCANDINAVIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_SCANDINAVIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

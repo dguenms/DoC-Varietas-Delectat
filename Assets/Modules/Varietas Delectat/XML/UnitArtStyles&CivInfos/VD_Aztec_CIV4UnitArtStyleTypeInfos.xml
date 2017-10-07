@@ -219,9 +219,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_AZTEC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_AZTEC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_AZTEC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_AZTEC</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_AZTEC</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_AZTEC</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
