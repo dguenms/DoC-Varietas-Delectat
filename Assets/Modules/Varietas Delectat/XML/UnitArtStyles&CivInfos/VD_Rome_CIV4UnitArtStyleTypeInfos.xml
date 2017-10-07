@@ -385,6 +385,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_COG</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_WAR_GALLEY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_QUINQUEREME_ROMAN</EarlyArtDefineTag>

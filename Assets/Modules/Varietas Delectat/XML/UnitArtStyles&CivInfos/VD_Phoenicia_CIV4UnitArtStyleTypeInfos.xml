@@ -209,6 +209,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_HORSE_ARCHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_BABYLONIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_BABYLONIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_BABYLONIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PHOENICIAN_WAR_ELEPHANT</EarlyArtDefineTag>
@@ -318,6 +326,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEY_CARTHAGE</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEY_CARTHAGE</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_GALLEY_CARTHAGE</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_COG</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

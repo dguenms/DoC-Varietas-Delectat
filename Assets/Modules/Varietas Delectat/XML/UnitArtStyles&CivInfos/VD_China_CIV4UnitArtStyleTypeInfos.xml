@@ -393,6 +393,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_COG</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_COG_ORIENTAL</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_COG_ORIENTAL</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_COG_ORIENTAL</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_FRIGATE</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_FRIGATE_ASIAN</EarlyArtDefineTag>

@@ -297,6 +297,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_COG</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_COG_MEDITERRANEAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_JET_FIGHTER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_F16_BYZANTIUM</EarlyArtDefineTag>
