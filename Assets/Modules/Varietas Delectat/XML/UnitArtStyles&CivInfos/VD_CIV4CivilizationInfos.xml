@@ -2577,7 +2577,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_ORANGE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_IRAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_PERSIA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_IRAN</UnitArtStyleType>
 			<PaganReligionName>TXT_KEY_RELIGION_MAZDAISM</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Mazdaism.dds</PaganReligionButton>
 			<Identifier>IRA</Identifier>
@@ -3751,7 +3751,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_ROT_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_MUGHALS</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_PERSIA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_MUGHAL</UnitArtStyleType>
 			<PaganReligionName>TXT_KEY_RELIGION_TENGRI</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Tengri.dds</PaganReligionButton>
 			<Identifier>MUG</Identifier>
