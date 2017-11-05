@@ -369,6 +369,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_GALLEASS</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEASS_MESOAMERICAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GALLEASS_MESOAMERICAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEASS_MESOAMERICAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_CARAVEL</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CARAVEL_MESO</EarlyArtDefineTag>
