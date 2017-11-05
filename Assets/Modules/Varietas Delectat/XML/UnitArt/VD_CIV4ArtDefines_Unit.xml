@@ -37899,7 +37899,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_COG_MEDITERRANEAN</Type>
 			<Button>Art/Interface/Buttons/Units/Cog.dds</Button>
-			<fScale>0.11</fScale>
+			<fScale>0.18</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -37937,7 +37937,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_COG_MIDDLE_EASTERN</Type>
 			<Button>Art/Interface/Buttons/Units/Cog.dds</Button>
-			<fScale>0.08</fScale>
+			<fScale>0.14</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
@@ -37975,7 +37975,7 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_COG_ORIENTAL</Type>
 			<Button>Art/Interface/Buttons/Units/Cog.dds</Button>
-			<fScale>0.13</fScale>
+			<fScale>0.2</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
