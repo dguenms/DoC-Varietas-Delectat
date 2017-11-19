@@ -2428,16 +2428,6 @@
 			<Button>Art/Structures/Wonders/Blue_Mosque/blue_mosque.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
-			<Type>ART_DEF_BUILDING_RED_FORT</Type>
-			<LSystem>LSYSTEM_3x3</LSystem>
-			<bAnimated>0</bAnimated>
-			<fScale>2.5</fScale>
-			<fInterfaceScale>0.4</fInterfaceScale>
-			<NIF>Art/Structures/Wonders/RedFort/palace.nif</NIF>
-			<KFM/>
-			<Button>Art/Structures/Wonders/RedFort/RedFort.dds</Button>
-		</BuildingArtInfo>
-		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_IRANIAN_CARAVANSERAI</Type>
 			<LSystem>LSYSTEM_3x1</LSystem>
 			<bAnimated>0</bAnimated>
