@@ -5389,7 +5389,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Modules/Varietas Delectat/Art/Units/Arab/Heavy Cavalry/HeavyCavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Arab/Heavy Cavalry/HeavyCavalry.nif</NIF>
 			<KFM>Art/Units/Unique_Byzantine_Cataphract/Unique_Byzantine_Cataphract.kfm</KFM>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
@@ -33847,9 +33847,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/European Spy/MedievalSpy.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Spy/MedievalSpy.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/European Spy/MedievalSpy_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -37807,9 +37807,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/India/Indian Horse Archer/RajputHorsearcher.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/India/HA/RajputHorsearcher.nif</NIF>
 			<KFM>Art/Units/HorseArcher/HorseArcher.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/India/Indian Horse Archer/RajputHorsearcher.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/India/HA/RajputHorsearcher.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -38164,6 +38164,30 @@
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
 				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_GENERAL_MEDIEVAL_ENGLISH</Type>
+			<Button>,Art/Interface/Buttons/Units/GreatEngineer.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,10</Button>
+			<fScale>0.5</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/English/English General (Medieval)/warlord_ancient_fx.nif</NIF>
+			<KFM>Art/Units/Warlord_Ancient/Warlord_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/English/English General (Medieval)/warlord_ancient_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
 			</ShadowDef>
 			<fBattleDistance>0.35</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>

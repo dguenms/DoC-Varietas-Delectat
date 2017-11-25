@@ -4538,9 +4538,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Assault Gun]/Sturmgeschutz_III_Ausf_E/Sturmgeschutz_III_Ausf_E.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/[tanks]/[Assault Gun]/Sturmgeschutz_III_Ausf_E/Sturmgeschutz_III_Ausf_E.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Assault Gun]/Sturmgeschutz_III_Ausf_E/Sturmgeschutz_III_Ausf_E.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/[tanks]/Sturmgeschutz/Sturmgeschutz_III_Ausf_E.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/[tanks]/Sturmgeschutz/Sturmgeschutz_III_Ausf_E.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[tanks]/Sturmgeschutz/Sturmgeschutz_III_Ausf_E.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>

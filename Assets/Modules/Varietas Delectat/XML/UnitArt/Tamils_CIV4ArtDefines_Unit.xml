@@ -264,9 +264,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Tamils/Dravidian Horse Archer/DravidianHorsearcher.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Tamils/HA/DravidianHorsearcher.nif</NIF>
 			<KFM>Art/Units/HorseArcher/HorseArcher.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tamils/Dravidian Horse Archer/DravidianHorsearcher.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Tamils/HA/DravidianHorsearcher.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
