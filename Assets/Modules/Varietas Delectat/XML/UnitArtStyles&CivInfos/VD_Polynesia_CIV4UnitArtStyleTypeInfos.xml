@@ -87,6 +87,24 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_MILITIA</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_INDONESIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_POLYNESIAN</EarlyArtDefineTag>
