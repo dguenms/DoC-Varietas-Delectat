@@ -48,7 +48,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_AXEMAN</UnitType>
+					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_AXEMAN</MiddleArtDefineTag>

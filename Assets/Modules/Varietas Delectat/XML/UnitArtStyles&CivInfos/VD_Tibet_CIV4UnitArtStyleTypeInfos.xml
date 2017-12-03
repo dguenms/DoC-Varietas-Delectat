@@ -105,6 +105,24 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_ASIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_TIBETAN</EarlyArtDefineTag>
@@ -114,24 +132,6 @@
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</MiddleArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</MiddleArtDefineTag>
-					</UnitMeshGroup>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</MiddleArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
-					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</LateArtDefineTag>

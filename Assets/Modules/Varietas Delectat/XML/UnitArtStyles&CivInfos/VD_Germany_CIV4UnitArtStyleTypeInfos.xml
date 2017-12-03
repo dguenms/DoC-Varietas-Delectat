@@ -96,19 +96,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_MILITIA</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN2</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN3</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN3</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_GERMAN3</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MILITIA_FRENCH</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -127,6 +127,24 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_GERMAN_3</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_GERMAN_3</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_GERMAN_3</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN1</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN2</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN2</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_EUROPEAN2</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

@@ -173,7 +173,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_AXEMAN</UnitType>
+					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MONGOLIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MONGOLIAN</MiddleArtDefineTag>

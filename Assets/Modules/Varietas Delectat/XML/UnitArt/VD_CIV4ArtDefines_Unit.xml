@@ -32938,7 +32938,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_AT_INFANTRY_MONGOL</Type>
+			<Type>ART_DEF_UNIT_AT_INFANTRY_MONGOLIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,5,11</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -38184,6 +38184,30 @@
 			<NIF>Modules/Varietas Delectat/Art/Units/English/English General (Medieval)/warlord_ancient_fx.nif</NIF>
 			<KFM>Art/Units/Warlord_Ancient/Warlord_Ancient.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/English/English General (Medieval)/warlord_ancient_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_GENERAL_MAYAN</Type>
+			<Button>,Art/Interface/Buttons/Units/GreatEngineer.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,10</Button>
+			<fScale>0.5</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Maya/Mayan General/warlord_ancient_fx.nif</NIF>
+			<KFM>Art/Units/Warlord_Ancient/Warlord_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Maya/Mayan General/warlord_ancient_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
