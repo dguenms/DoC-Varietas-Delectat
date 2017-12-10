@@ -301,19 +301,27 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_PERSIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_PERSIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_PERSIA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PERSIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_PERSIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_PERSIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_PERSIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_PERSIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_PERSIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_PERSIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

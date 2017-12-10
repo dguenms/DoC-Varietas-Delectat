@@ -285,11 +285,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPTIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_EGYPTIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_EGYPTIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_EGYPTIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -306,6 +306,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_EGYPTIAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_EGYPTIAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_EGYPTIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPT_EARLY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPT_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPT_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

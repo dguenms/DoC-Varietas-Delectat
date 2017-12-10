@@ -206,7 +206,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_FRENCH_MUSKETEER</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_FRENCH_MUSKETEER</MiddleArtDefineTag>
@@ -314,6 +314,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_75MM_FRENCH</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_75MM_FRENCH</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_75MM_FRENCH</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_FRANCE_EARLY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_FRANCE_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_FRANCE_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

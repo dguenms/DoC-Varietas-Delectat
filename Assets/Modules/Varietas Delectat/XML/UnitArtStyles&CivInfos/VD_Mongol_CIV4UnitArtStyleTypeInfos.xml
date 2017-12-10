@@ -286,11 +286,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MONGOLIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MONGOLIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MONGOLIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MONGOLIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MONGOL</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MONGOL</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MONGOL</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

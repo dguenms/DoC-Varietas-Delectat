@@ -301,11 +301,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_ROMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_ROMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_ROMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ROMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ROMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ROMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_GREECE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_GREECE</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_GREECE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

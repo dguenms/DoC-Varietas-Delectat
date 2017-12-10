@@ -309,11 +309,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_KOREAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_KOREAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_KOREAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KOREAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KOREAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KOREAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KOREA_EARLY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KOREA_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KOREA_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

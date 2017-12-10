@@ -309,6 +309,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_CHINA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_CHINA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_CHINA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_CHINESE</EarlyArtDefineTag>
@@ -319,9 +327,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CHINESE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CHINESE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CHINESE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CHINA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CHINA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_CHINA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

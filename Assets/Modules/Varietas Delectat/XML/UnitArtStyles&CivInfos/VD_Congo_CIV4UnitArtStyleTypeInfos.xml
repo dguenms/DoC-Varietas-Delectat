@@ -207,11 +207,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARQUEBUSIER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARQUEBUSIER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARQUEBUSIER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -228,6 +228,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_AFRICAN_EARLY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_AFRICAN_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_AFRICAN_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

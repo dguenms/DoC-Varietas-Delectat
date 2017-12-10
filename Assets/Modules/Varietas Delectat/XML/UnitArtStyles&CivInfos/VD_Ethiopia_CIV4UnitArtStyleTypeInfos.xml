@@ -172,11 +172,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_AFRICAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_AFRICAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_AFRICAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALI</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALI</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALI</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_AFRICAN_EARLY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_AFRICAN_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_AFRICAN_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -303,9 +311,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_ETHIOPIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_ETHIOPIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_ETHIOPIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_ETHIOPIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_ETHIOPIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_ETHIOPIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

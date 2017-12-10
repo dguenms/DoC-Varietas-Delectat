@@ -271,11 +271,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALAY</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALAY</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MALAY</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MALAY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MALAY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MALAY</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -303,11 +303,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_EARLY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_EARLY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_LATE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_JAVAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_JAVAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_JAVAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_INDONESIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_INDONESIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_INDONESIA</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

@@ -161,9 +161,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_MUSKETMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_OTTOMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_OTTOMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_OTTOMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

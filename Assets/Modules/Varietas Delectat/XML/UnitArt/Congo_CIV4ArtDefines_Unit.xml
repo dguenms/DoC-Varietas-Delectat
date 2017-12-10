@@ -458,7 +458,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SOUTHERN_AFRICAN_MUSKETMAN</Type>
+			<Type>ART_DEF_UNIT_SOUTHERN_AFRICAN_ARQUEBUSIER</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

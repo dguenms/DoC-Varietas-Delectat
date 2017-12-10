@@ -670,7 +670,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_ITALIAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

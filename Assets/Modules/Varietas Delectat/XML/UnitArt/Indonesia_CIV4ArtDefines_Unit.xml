@@ -620,7 +620,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MALAY</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_MALAY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

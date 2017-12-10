@@ -1638,7 +1638,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MALI</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_MALI</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -1662,7 +1662,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_RIFLEMAN_MALI</Type>
+			<Type>ART_DEF_UNIT_RIFLEMAN_MALI_OLD</Type>
 			<Button>,Art/Interface/Buttons/Units/Rifleman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -1862,7 +1862,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_RIFLEMAN_ZULU</Type>
+			<Type>ART_DEF_UNIT_RIFLEMAN_ZULU_OLD</Type>
 			<Button>,Art/Interface/Buttons/Units/Rifleman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,2</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -3177,7 +3177,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_EGYPTIAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_EGYPTIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -4553,8 +4553,8 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_RIFLEMAN_BABYLONIAN</Type>
-			<Button>,Art/Interface/Buttons/Units/Rifleman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,2</Button>
+			<Type>ART_DEF_UNIT_MUSKETMAN_BABYLONIAN</Type>
+			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -5199,7 +5199,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_PERSIAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_BABYLONIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -5295,7 +5295,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_ARABIAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_ARABIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -6464,7 +6464,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_INCAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_INCAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -6712,7 +6712,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MAYA</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_MAYA</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -9295,7 +9295,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_KOREAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_KOREAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -9655,8 +9655,8 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_RIFLEMAN_CHINESE</Type>
-			<Button>,Art/Interface/Buttons/Units/Rifleman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,2</Button>
+			<Type>ART_DEF_UNIT_MUSKETMAN_CHINESE</Type>
+			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -10561,7 +10561,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_JAPANESE</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_JAPANESE</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -11381,7 +11381,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_KHMER</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_KHMER</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -11919,7 +11919,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MONGOLIAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_MONGOLIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -16590,8 +16590,8 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_RIFLEMAN_GREEK</Type>
-			<Button>,Art/Interface/Buttons/Units/Rifleman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,2</Button>
+			<Type>ART_DEF_UNIT_MUSKETMAN_GREEK</Type>
+			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -18478,7 +18478,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_SWEDISH</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_SWEDISH</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -20010,7 +20010,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_PORTUGAL</Type>
+			<Type>ART_DEF_UNIT_MUSKETMAN_PORTUGAL_OLD</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -20114,7 +20114,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_RIFLEMAN_PORTUGAL</Type>
+			<Type>ART_DEF_UNIT_RIFLEMAN_PORTUGAL_OLD</Type>
 			<Button>,Art/Interface/Buttons/Units/Rifleman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,2</Button>
 			<fScale>0.43</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -20837,7 +20837,7 @@
 			<ActionSound>AS3D_UN_MOD_ARMOUR_HEAL</ActionSound>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_HOLY_ROMAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_GERMAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -21248,7 +21248,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_ROMAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_ROMAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -21924,7 +21924,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_CARTHAGE</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_CARTHAGE</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -24007,7 +24007,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MUSKETMAN_USA</Type>
-			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,1</Button>
+			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -32064,7 +32064,7 @@
 <!-- CULTURAL DIVERSITY -  Musketmen                                                                                                              -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MEXICAN</Type>
+			<Type>ART_DEF_UNIT_ARQUEBUSIER_AZTEC</Type>
 			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,3,10</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

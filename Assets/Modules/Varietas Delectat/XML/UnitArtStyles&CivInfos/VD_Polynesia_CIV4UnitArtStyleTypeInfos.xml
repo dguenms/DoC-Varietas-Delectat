@@ -252,11 +252,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_POLYNESIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_POLYNESIAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_POLYNESIAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_POLYNESIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_POLYNESIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_POLYNESIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -281,6 +281,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_POLYNESIAN</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_POLYNESIAN</LateArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_POLYNESIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_EARLY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_EARLY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_LATE</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
