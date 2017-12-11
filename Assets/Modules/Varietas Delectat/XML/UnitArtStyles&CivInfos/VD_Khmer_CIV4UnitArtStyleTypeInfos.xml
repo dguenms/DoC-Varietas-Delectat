@@ -285,6 +285,32 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_PISTOLIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_INDONESIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_DRAGOON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_KHMER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_KHMER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_KHMER</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_CAVALRY</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_KHMER</EarlyArtDefineTag>

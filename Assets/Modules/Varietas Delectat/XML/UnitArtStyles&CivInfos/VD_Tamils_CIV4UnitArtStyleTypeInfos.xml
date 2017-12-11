@@ -296,6 +296,32 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_PISTOLIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_DRAVIDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_DRAGOON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_DRAVIDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_DRAVIDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_DRAVIDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_GRENADIER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_DRAVIDIAN</EarlyArtDefineTag>
