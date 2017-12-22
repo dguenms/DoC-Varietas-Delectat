@@ -14,7 +14,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/Hussar/American/Light_Dragoon.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Hussar/MountedSwordsman_Mongol/Mounted_Swordsman_Mongol.kfm</KFM>
+			<KFM>Modules/Varietas Delectat/Art/Units/Hussar/Russian_Knight/Mounted_Swordsman_Mongol.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Hussar/American/Light_Dragoon.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
