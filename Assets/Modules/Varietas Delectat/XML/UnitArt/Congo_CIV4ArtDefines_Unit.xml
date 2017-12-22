@@ -506,7 +506,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</Type>
+			<Type>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

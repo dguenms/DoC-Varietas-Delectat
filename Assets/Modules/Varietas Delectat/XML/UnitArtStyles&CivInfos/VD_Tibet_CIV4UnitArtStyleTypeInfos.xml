@@ -133,19 +133,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_TIBETAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_TIBETAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -220,11 +220,39 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_TIBETAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_PIKEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_TIBETAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_TIBETAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_TIBETAN</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_MONGOLIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

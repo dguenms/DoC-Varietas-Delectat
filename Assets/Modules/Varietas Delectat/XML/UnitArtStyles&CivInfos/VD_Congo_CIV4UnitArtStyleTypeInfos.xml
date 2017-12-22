@@ -74,6 +74,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_ARTILLERY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICA</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_DRAGOON</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_ZULU</EarlyArtDefineTag>
@@ -257,11 +265,39 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_HEAVY_SPEARMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_PIKEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_PIKEMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

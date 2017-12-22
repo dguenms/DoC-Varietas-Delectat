@@ -126,6 +126,16 @@
 						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
@@ -324,6 +334,14 @@
 						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_ZULU</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_ZULU</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CANNON_ZULU</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_ARTILLERY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTILLERY_AFRICA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
