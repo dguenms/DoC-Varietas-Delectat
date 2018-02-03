@@ -36632,7 +36632,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Oriental Spy/MedievalSpy_FX.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Spy/MedievalSpy.kfm</KFM>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Oriental Spy/MedievalSpy_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
