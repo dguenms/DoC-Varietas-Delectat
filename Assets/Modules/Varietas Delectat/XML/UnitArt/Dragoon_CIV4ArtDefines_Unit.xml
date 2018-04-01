@@ -127,7 +127,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_DRAGOON_ENGLAND</Type>
+			<Type>ART_DEF_UNIT_CAVALRY_ENGLISH</Type>
 			<Button>Art/Interface/Buttons/Units/Dragoon.dds</Button>
 			<fScale>0.42</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
