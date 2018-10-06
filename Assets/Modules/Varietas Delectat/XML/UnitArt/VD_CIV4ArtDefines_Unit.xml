@@ -36487,9 +36487,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongol General (Medieval)/TamerlanewCape.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian General (Medieval)/TamerlanewCape.nif</NIF>
 			<KFM>Art/Units/Warlord_Ancient/Warlord_Ancient.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongol General (Medieval)/TamerlanewCape.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian General (Medieval)/TamerlanewCape.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -36511,9 +36511,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongol General (Modern)/warlord_modern_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian General (Modern)/warlord_modern_fx.nif</NIF>
 			<KFM>Art/Units/Warlord_Modern/Warlord_Modern.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongol General (Modern)/warlord_modern_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian General (Modern)/warlord_modern_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
