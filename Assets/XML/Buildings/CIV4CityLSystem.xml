@@ -8952,6 +8952,21 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>7</Scale>
 		</ArtRef>
+		
+		<!-- HAGIA SOPHIA -->
+		<ArtRef Name="building:LSYSTEM_HAGIA_SOPHIA">
+			<Attribute Class="Scalar">szNIF:Art/Structures/Wonders/HagiaSophia/HagiaSophia.nif</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT</Attribute>
+			<Scale>1.12</Scale>
+		</ArtRef>
+		<ArtRef Name="building:LSYSTEM_HAGIA_SOPHIA">
+			<Attribute Class="Scalar">szNIF:Art/Structures/Wonders/HagiaSophia/HagiaSophia_Proper.nif</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_ARABIA,!ARTSTYLE_CRESCENT,!ARTSTYLE_EGYPT</Attribute>
+			<Scale>1.12</Scale>
+		</ArtRef>
+		
 		<ArtRef Name="building:LSYSTEM_3x3">
 			<Scale>1.0</Scale>
 		</ArtRef>
