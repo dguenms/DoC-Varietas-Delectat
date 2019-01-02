@@ -374,7 +374,7 @@
 					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_EGYPT_EARLY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_MAMLUK</MiddleArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_EGYPT_EARLY</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_EGYPT_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
