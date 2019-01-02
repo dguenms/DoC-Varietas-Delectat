@@ -7777,6 +7777,7 @@
 		</ArtRef>
 		<!-- SPICE crops -->
 		<ArtRef Name="art:spice_crop">
+			<!-- when worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::2x2_01_Spice_Worked</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
@@ -7788,6 +7789,7 @@
 			<Rotate>+45</Rotate>
 		</ArtRef>
 		<ArtRef Name="art:Spice_crop">
+			<!-- when improved but not worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::2x2_01_Spice_NotWorked</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
@@ -7800,6 +7802,7 @@
 			<Rotate>+45</Rotate>
 		</ArtRef>
 		<ArtRef Name="art:Spice_crop">
+			<!-- when in the rough ... there's anotehr in 3x2 for farms -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::2x2_01_Spice_Normal</Attribute>
 			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_SPICES</Attribute>
@@ -7810,6 +7813,7 @@
 			<Scale>0.8</Scale>
 			<Rotate>+45</Rotate>
 		</ArtRef>
+		<!-- Spice improvement crap -->
 		<ArtRef Name="art:SPICE_ORCHARD_RACK">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Spices/Spices_LSystem.nif::1x3_01_Rack_NotWorked</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
@@ -7845,7 +7849,7 @@
 		<ArtRef Name="art:olives_crop">
 			<!-- when worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Olives/Olives.nif::2x2_01_Olives_Worked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_OLIVES</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
@@ -7857,7 +7861,7 @@
 		<ArtRef Name="art:Olives_crop">
 			<!-- when improved but not worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Olives/Olives.nif::2x2_01_Olives_NotWorked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_OLIVES</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -10532,7 +10536,7 @@
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
 			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_GRINDER</Attribute>
 			<Attribute Class="Scalar">szExtra:art:SPICE_ORCHARD_RACK</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_MESOPOTAMIA,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_early.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
@@ -10999,9 +11003,9 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
 		<!-- Olives -->
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- worked ancient olives plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_OLIVES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
 			<Attribute Class="Scalar">szExtra:art:OLIVES_PLANTATION_PRESS</Attribute>
@@ -11015,9 +11019,9 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- worked modern olives plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_OLIVES</Attribute>
 			<Attribute Class="Scalar">iCropArea:16</Attribute>
 			<Attribute Class="Scalar">szExtra:art:OLIVES_PLANTATION_PRESS</Attribute>
@@ -11031,9 +11035,9 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- unworked ancient olives plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_OLIVES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
 			<Attribute Class="Scalar">szExtra:art:OLIVES_PLANTATION_PRESS</Attribute>
@@ -11047,9 +11051,9 @@
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		</ArtRef>
-		<ArtRef Name="goal:IMPROVEMENT_PLANTATION">
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- unworked modern olives plantation -->
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
 			<Attribute Class="Bonus">BONUS_OLIVES</Attribute>
 			<Attribute Class="Scalar">iCropArea:8</Attribute>
 			<Attribute Class="Scalar">szExtra:art:OLIVES_PLANTATION_PRESS</Attribute>

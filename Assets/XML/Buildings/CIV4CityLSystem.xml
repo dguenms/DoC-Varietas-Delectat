@@ -5311,23 +5311,23 @@
 			<Scale>1.0</Scale>
 		</ArtRef>
 		<!-- LEAF 2x1 BUILDINGS -->
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/NationalEpic.nif</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.66</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/Crescent_NationalEpic/ishtargate.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA,ARTSTYLE_CRESCENT</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 		<Scale>0.66</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/Asia_NationalEpic/NationalEpic.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_MONGOLIA,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>0.08</Scale>
+			<Scale>0.22</Scale>
 		</ArtRef>
 		<ArtRef Name="building:LSYSTEM_MT_RUSHMORE">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/MtRushmore/Japan_MtRushmore/torii.nif</Attribute>
@@ -5335,13 +5335,13 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.55</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/Meso_NationalEpic/Olmec.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA,ARTSTYLE_SOUTH_AMERICA</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1.5</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Empty.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -6131,7 +6131,7 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/Arabia_NationalEpic/NationalEpic.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -6171,7 +6171,7 @@
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/Egypt_NationalEpic/Sphinx_only.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -7240,12 +7240,12 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA,ARTSTYLE_SOUTH_AMERICA</Attribute>
 			<Scale>3.0</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/Native_NationalEpic/Shrine_Enlil.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Scale>0.5</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_NATIONAL_EPIC">
+		<ArtRef Name="building:LSYSTEM_NATIONAL_MONUMENT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/NationalEpic/Afro_NationalEpic/NationalEpic.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
 			<Scale>5.0</Scale>
@@ -7626,7 +7626,7 @@
 			<Attribute Class="Era">ERA_ALL,!ERA_INDUSTRIAL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
 			<Scale>0.75</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_GROCER">
+		<ArtRef Name="building:LSYSTEM_PHARMACY">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Grocer/Middle_East_Grocer/jewller.nif</Attribute>
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_EGYPT,ARTSTYLE_CRESCENT</Attribute>
@@ -7755,13 +7755,13 @@
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>0.45</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_GROCER">
+		<ArtRef Name="building:LSYSTEM_PHARMACY">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Grocer/Grocer.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_ARABIA,!ARTSTYLE_EGYPT,!ARTSTYLE_NATIVE_AMERICA,!ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_GROCER">
+		<ArtRef Name="building:LSYSTEM_PHARMACY">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Grocer/Native_Grocer/Native_Grocer.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
@@ -8227,14 +8227,14 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_GROCER">
+		<ArtRef Name="building:LSYSTEM_PHARMACY">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Grocer/Asia_Grocer/Grocer.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_MONGOLIA,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.35</Scale>
 		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_GROCER">
+		<ArtRef Name="building:LSYSTEM_PHARMACY">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Grocer/Pacific_Grocer/voodoomarket.nif</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
@@ -8462,7 +8462,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_EGYPT,ARTSTYLE_AFRICA</Attribute>
 			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.25</Scale>
+			<Scale>0.75</Scale>
 		</ArtRef>
 		<ArtRef Name="building:LSYSTEM_GLOBE_THEATRE">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/GlobeTheater/Africa_GlobeTheatre/Asuan.nif</Attribute>
