@@ -5444,7 +5444,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_GREYISH_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_TURKS</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_OTTOMAN</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_TURKIC</UnitArtStyleType>
 			<PaganReligionName>TXT_KEY_RELIGION_TENGRI</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Tengri.dds</PaganReligionButton>
 			<Identifier>TUR</Identifier>
