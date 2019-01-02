@@ -7,7 +7,7 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<UnitArtInfos>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_AZTEC</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_AZTEC</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -31,7 +31,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_AMERICA_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_AMERICA_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -55,7 +55,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_AMERICA_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_AMERICA_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -79,7 +79,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_ARABIA</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_ARABIA</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -103,7 +103,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_INDONESIAN_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -127,7 +127,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_INDONESIAN_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_INDONESIAN_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -151,7 +151,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_PHOENICIAN</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_PHOENICIAN</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -175,7 +175,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_CELT</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_CELT</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -199,7 +199,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_DRAVIDIAN_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_DRAVIDIAN_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -223,7 +223,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_DRAVIDAN_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_DRAVIDAN_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -247,7 +247,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_EGYPT_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_EGYPT_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -271,7 +271,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_EGYPT_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_EGYPT_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -295,7 +295,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_ENGLAND_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_ENGLAND_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -319,7 +319,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_AFRICAN_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_AFRICAN_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -343,7 +343,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_AFRICAN_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_AFRICAN_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -367,7 +367,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_FRANCE_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_FRANCE_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -391,7 +391,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_FRANCE_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_FRANCE_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -415,7 +415,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_GERMAN_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_GERMAN_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -439,7 +439,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_GERMAN_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_GERMAN_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -463,7 +463,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_GREECE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_GREECE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -487,7 +487,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_INDIA_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_INDIA_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -511,7 +511,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_INDIA_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_INDIA_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -535,7 +535,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_JAPAN</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_JAPAN</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -559,7 +559,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_KOREA_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_KOREA_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -583,7 +583,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_KOREA_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_KOREA_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -607,7 +607,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MONGOL</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_MONGOL</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -631,7 +631,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_OTTOMAN</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_OTTOMAN</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -655,7 +655,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_PERSIA</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_PERSIA</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -679,7 +679,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_POLAND_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_POLAND_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.42</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -703,7 +703,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_POLAND_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_POLAND_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.42</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -727,7 +727,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_RUSSIAN_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_RUSSIAN_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -751,7 +751,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_RUSSIAN_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_RUSSIAN_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -775,7 +775,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_SPAIN_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_SPAIN_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -799,7 +799,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_SPAIN_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_SPAIN_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -823,7 +823,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_VIKING</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_VIKING</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -847,7 +847,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_HOLY_ROMAN_EARLY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_HOLY_ROMAN_EARLY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -871,7 +871,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_HOLY_ROMAN_LATE</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_HOLY_ROMAN_LATE</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -895,7 +895,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_DUTCH</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_DUTCH</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -919,7 +919,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_PORTUGAL</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_PORTUGAL</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -943,7 +943,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_KHMER</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_KHMER</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -967,7 +967,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_INCAN</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_INCAN</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -991,7 +991,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_ITALY</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_ITALY</Type>
 			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

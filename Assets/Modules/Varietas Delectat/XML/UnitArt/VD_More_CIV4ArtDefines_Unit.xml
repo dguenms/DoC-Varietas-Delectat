@@ -350,7 +350,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_IRANIAN</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_IRANIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,2,10</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -780,7 +780,7 @@
 			<ActionSound>AS3D_INDIA_ORDER</ActionSound>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MUGHAL</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_MUGHAL</Type>
 			<Button>,Art/Interface/Buttons/Units/Arquebusier.dds,Art/Interface/Buttons/mem_units_atlas.dds,1,15</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -1136,7 +1136,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_ARABIAN_SOI</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_ARABIAN_SOI</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,2,10</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -1539,7 +1539,7 @@
 			<ActionSound>AS3D_MALI_ORDER</ActionSound>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETMAN_MAMLUK</Type>
+			<Type>ART_DEF_UNIT_MUSKETEER_MAMLUK</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,2,10</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>

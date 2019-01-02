@@ -152,10 +152,10 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PIRATE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_PIRATE</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_PIRATE</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_PIRATE</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUS_BARBARIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>

@@ -306,11 +306,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KHMER</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KHMER</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_KHMER</MiddleArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_KHMER</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_KHMER</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_KHMER</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
