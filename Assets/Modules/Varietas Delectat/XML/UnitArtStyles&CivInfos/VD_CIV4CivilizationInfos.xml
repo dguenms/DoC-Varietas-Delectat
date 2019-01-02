@@ -420,7 +420,7 @@
 			<ShortDescription>TXT_KEY_CIV_BABYLONIA_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_BABYLONIA_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_BABYLONIA_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_BLUE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_PURPLE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BABYLON</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_BABYLON</UnitArtStyleType>
@@ -1925,7 +1925,7 @@
 			<ShortDescription>TXT_KEY_CIV_GREECE_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_GREECE_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_CYAN</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_SILVER</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_GREECE</UnitArtStyleType>
@@ -2623,7 +2623,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_POST_OFFICE</BuildingClassType>
 					<BuildingType>BUILDING_IRANIAN_CARAVANSERAI</BuildingType>
 				</Building>
 				<Building>
@@ -3212,7 +3212,7 @@
 			<PaganReligionName>TXT_KEY_RELIGION_YORUBA</PaganReligionName>
 			<PaganReligionButton>Art/Interface/Buttons/Religions/Yoruba.dds</PaganReligionButton>
 			<Identifier>MAL</Identifier>
-			<StartingYear>980</StartingYear>
+			<StartingYear>989</StartingYear>
 			<LoadingTimes>
 				<LoadingTime>35</LoadingTime>
 				<LoadingTime>15</LoadingTime>
@@ -4256,7 +4256,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_PHARMACY</BuildingClassType>
 					<BuildingType>BUILDING_PERSIAN_APOTHECARY</BuildingType>
 				</Building>
 				<Building>
@@ -4299,6 +4299,10 @@
 				</Leader>
 				<Leader>
 					<LeaderName>LEADER_DARIUS</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_KHOSROW</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
