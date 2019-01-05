@@ -312,9 +312,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_OTTOMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_OTTOMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_OTTOMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

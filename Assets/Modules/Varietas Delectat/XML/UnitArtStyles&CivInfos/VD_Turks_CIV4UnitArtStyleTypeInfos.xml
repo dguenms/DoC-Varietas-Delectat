@@ -300,14 +300,6 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_TURKIC_OGHUZ</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_TRIBAL_CAVALRY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_TRIBAL_CAVALRY</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_TRIBAL_CAVALRY</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_OTTOMAN</EarlyArtDefineTag>
