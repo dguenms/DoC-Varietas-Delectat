@@ -107,36 +107,36 @@
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_AYYUBID</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_AYYUBID</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT1</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT1</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT1</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_AYYUBID</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_AYYUBID</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_EGYPT2</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_AYYUBID</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_AYYUBID</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HEAVY_SPEARMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -161,42 +161,42 @@
 					<UnitType>UNIT_PIKEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_FATIMID</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_FATIMID</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_LONGBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CROSSBOWMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -211,44 +211,44 @@
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_AYYUBID</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_AYYUBID</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_AYYUBID</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_AYYUBID</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_AYYUBID</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_AYYUBID</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORUS_KNIGHT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORUS_KNIGHT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORUS_KNIGHT</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACEMAN_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACEMAN_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -268,16 +268,16 @@
 					<UnitType>UNIT_HORSEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_EGYPTIAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_EGYPTIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSEMAN_FATIMID</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSEMAN_FATIMID</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -292,34 +292,34 @@
 					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LANCER_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LANCER_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_CUIRASSIER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CUIRASSIER_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CUIRASSIER_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CUIRASSIER_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CUIRASSIER_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CUIRASSIER_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_PISTOLIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -342,16 +342,16 @@
 					<UnitType>UNIT_CANNON</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CANNON_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_ARQUEBUSIER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_EGYPTIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MAMLUK</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARQUEBUSIER_MAMLUK</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -371,11 +371,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPT_EARLY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPT_EARLY</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_EGYPT_LATE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_EGYPT_EARLY</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_EGYPT_EARLY</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_EGYPT_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

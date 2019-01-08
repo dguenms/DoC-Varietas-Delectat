@@ -337,11 +337,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_ENGLISH_REDCOAT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ENGLISH_REDCOAT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ENGLAND_LATE</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_ENGLAND_LATE</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

@@ -163,19 +163,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_PIKEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_OTTOMAN_SOI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -187,11 +187,37 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_ARQUEBUSIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_EARLY_JANISSARY_RED</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_EARLY_JANISSARY_RED</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_LATE_JANISSARY_RED</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_EARLY_JANISSARY_GREEN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_EARLY_JANISSARY_GREEN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_LATE_JANISSARY_GREEN</LateArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_EARLY_JANISSARY_RED</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_EARLY_JANISSARY_RED</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_LATE_JANISSARY_RED</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETEER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_OTTOMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_OTTOMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_OTTOMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -257,9 +283,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_OTTOMAN_SOI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_OTTOMAN_SOI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_OTTOMAN_SOI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -286,9 +312,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SIPAHI_TURKIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_OTTOMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_OTTOMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_OTTOMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -302,9 +328,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LANCER_OTTOMAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LANCER_OTTOMAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LANCER_OTTOMAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -336,9 +362,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_DRAGOON</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_OTTOMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_OTTOMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_OTTOMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DRAGOON_OTTOMAN_SOI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_DRAGOON_OTTOMAN_SOI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_DRAGOON_OTTOMAN_SOI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -350,11 +376,19 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_CANNON</UnitType>
+					<UnitType>UNIT_BOMBARD</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN</MiddleArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN</LateArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_CANNON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN_NEW</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN_NEW</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_OTTOMAN_NEW</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

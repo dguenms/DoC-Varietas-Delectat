@@ -291,9 +291,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_LANCER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_KNIGHT_MALI</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_KNIGHT_MALI</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_KNIGHT_MALI</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LANCER_ARABIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LANCER_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LANCER_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -307,27 +307,27 @@
 				<StyleUnit>
 					<UnitType>UNIT_CUIRASSIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_HORSEMAN_ARABIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_HORSEMAN_ARABIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_HORSEMAN_ARABIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CUIRASSIER_ARABIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CUIRASSIER_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CUIRASSIER_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
 					<UnitType>UNIT_PISTOLIER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_MIDDLE_EAST</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PISTOLIER_ARABIAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -371,11 +371,11 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_MUSKETMAN</UnitType>
+					<UnitType>UNIT_MUSKETEER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ARABIA</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ARABIA</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETMAN_ARABIA</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_ARABIA</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_ARABIA</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_ARABIA</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
