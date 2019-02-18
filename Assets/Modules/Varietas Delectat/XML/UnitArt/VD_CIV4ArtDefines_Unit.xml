@@ -24033,12 +24033,12 @@
 			<Type>ART_DEF_UNIT_CANNON_USA</Type>
 			<Button>,Art/Interface/Buttons/Units/Cannon.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,8</Button>
 			<fScale>0.53</fScale>
-			<fInterfaceScale>0.8</fInterfaceScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/USA/Union Cannon/Cannon_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/USA/American Foot Artillery/American Foot.nif</NIF>
 			<KFM>Art/Units/Cannon/Cannon.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/USA/Union Cannon/Cannon_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/USA/American Foot Artillery/American Foot.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CannonShadow.nif</ShadowNIF>
 				<ShadowAttachNode/>
