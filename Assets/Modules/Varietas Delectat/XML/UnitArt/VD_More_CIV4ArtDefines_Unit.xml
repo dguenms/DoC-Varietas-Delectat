@@ -704,9 +704,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Mughals/Mughal Cuirassier (Chainmail and Plate)/MughalCuirassierChainmailandPlate.nif</NIF>
+			<NIF>Art/Units/Mughals/Cuirassier/MughalCuirassierChainmailandPlate.nif</NIF>
 			<KFM>Art/Units/[anim]/Cuirassier/Cuirassier.kfm</KFM>
-			<SHADERNIF>Art/Units/Mughals/Mughal Cuirassier (Chainmail and Plate)/MughalCuirassierChainmailandPlate.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Mughals/Cuirassier/MughalCuirassierChainmailandPlate.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>

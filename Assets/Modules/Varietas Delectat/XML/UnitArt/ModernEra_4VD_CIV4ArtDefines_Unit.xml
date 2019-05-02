@@ -1102,9 +1102,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Heavy]/PzKpfW_VII_Koenigstiger/kingtiger.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/[tanks]/[Heavy]/PzKpfW_VII_Koenigstiger/kingtiger.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Heavy]/PzKpfW_VII_Koenigstiger/kingtiger.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Heavy]/Kingtiger/kingtiger.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/[tanks]/[Heavy]/Kingtiger/kingtiger.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Heavy]/Kingtiger/kingtiger.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6116,9 +6116,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Recon]/RollsRoyce ArmoredCar/RollsRoyce.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/[tanks]/[Recon]/RollsRoyce ArmoredCar/RollsRoyce.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Recon]/RollsRoyce ArmoredCar/RollsRoyce_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Recon]/RollsRoyce/RollsRoyce.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/[tanks]/[Recon]/RollsRoyce/RollsRoyce.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[tanks]/[Recon]/RollsRoyce/RollsRoyce_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6917,14 +6917,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GRAF_SPEE_POCKETBATTLESHIP</Type>
-			<Button>Modules/Varietas Delectat/Art/Units/[naval]/Graf Spee PocketBattleship/GrafSpee_Button.dds</Button>
+			<Button>Modules/Varietas Delectat/Art/Units/[naval]/Spee/GrafSpee_Button.dds</Button>
 			<fScale>1.17</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/[naval]/Graf Spee PocketBattleship/Graf_Spee.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/[naval]/Graf Spee PocketBattleship/Graf_Spee.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[naval]/Graf Spee PocketBattleship/Graf_Spee.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/[naval]/Spee/Graf_Spee.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/[naval]/Spee/Graf_Spee.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/[naval]/Spee/Graf_Spee.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
