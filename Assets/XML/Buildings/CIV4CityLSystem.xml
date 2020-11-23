@@ -8185,11 +8185,11 @@
 			<Scale>1.0</Scale>
 		</ArtRef>
 		<ArtRef Name="building:LSYSTEM_MARKET">
-			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Market/Market.nif</Attribute>
+			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Souk/arab_col.nif</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
-			<Scale>0.95</Scale>
+			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="building:LSYSTEM_MARKET">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Market/India_Market/Market.nif</Attribute>
