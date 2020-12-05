@@ -5449,6 +5449,12 @@
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.23</Scale>
 		</ArtRef>
+		<ArtRef Name="building:LSYSTEM_AQUEDUCT">
+			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Aqueduct/Ab_Anbar.nif</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT</Attribute>
+			<Scale>1.75</Scale>
+		</ArtRef>
 		<ArtRef Name="building:LSYSTEM_2x1">
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1.0</Scale>
@@ -7575,12 +7581,6 @@
 			<Attribute Class="Era">ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
 			<Scale>1.5</Scale>
-		</ArtRef>
-		<ArtRef Name="building:LSYSTEM_AQUEDUCT">
-			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Aqueduct/Ab_Anbar.nif</Attribute>
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT</Attribute>
-			<Scale>1.75</Scale>
 		</ArtRef>
 		<ArtRef Name="building:LSYSTEM_AQUEDUCT">
 			<Attribute Class="Scalar">szNIF:Art/Structures/Buildings/Aqueduct/Inca_Aqueduct/Shrine_Water.nif</Attribute>
