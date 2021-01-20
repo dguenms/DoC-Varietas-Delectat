@@ -8,7 +8,7 @@
 	<UnitArtInfos>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_JUDGE_SOUTH_AMERICA</Type>
-			<Button>Art/Interface/Buttons/Units/sparth/judge.dds</Button>
+			<Button>Art/Interface/Buttons/Units/Statesman.dds</Button>
 			<fScale>0.42</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
