@@ -163,9 +163,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WAR_ELEPHANT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WAR_ELEPHANT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SOUTHERN_AFRICAN_WAR_ELEPHANT</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ZULU</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ZULU</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ZULU</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
