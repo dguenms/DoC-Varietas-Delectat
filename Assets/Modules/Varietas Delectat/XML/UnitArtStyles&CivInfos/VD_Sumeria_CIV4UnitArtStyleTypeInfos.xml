@@ -551,7 +551,7 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_DUTCH_EAST_INDIAMAN</UnitType>
+					<UnitType>UNIT_DUTCH_FLUYT</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_NETHERLANDS_EAST_INDIAMAN</MiddleArtDefineTag>
