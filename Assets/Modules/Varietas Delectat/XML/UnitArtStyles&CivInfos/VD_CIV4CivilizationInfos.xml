@@ -66,8 +66,12 @@
 					<UnitType>UNIT_AMERICAN_PIONEER</UnitType>
 				</Unit>
 				<Unit>
-					<UnitClassType>UNITCLASS_MUSKETEER</UnitClassType>
-					<UnitType>UNIT_AMERICAN_MINUTEMAN</UnitType>
+					<UnitClassType>UNITCLASS_CARRIER</UnitClassType>
+					<UnitType>UNIT_AMERICAN_SUPERCARRIER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_BOMBER</UnitClassType>
+					<UnitType>UNIT_AMERICAN_FLYING_FORTRESS</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -86,11 +90,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -186,11 +190,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -212,7 +216,7 @@
 			<ShortDescription>TXT_KEY_CIV_ARGENTINA_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_ARGENTINA_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_ARGENTINA_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_VERY_LIGHT_BLUE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_GREYISH_CYAN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_ARGENTINA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_SPAIN</UnitArtStyleType>
@@ -250,7 +254,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_SUPERMARKET</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_ABATTOIR</BuildingClassType>
 					<BuildingType>BUILDING_ARGENTINE_REFRIGERATION_PLANT</BuildingType>
 				</Building>
 				<Building>
@@ -284,11 +288,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -303,6 +307,89 @@
 			<DerivativeCiv>CIVILIZATION_SPAIN</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_SPAIN_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_SPAIN_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_ASSYRIA</Type>
+			<Description>TXT_KEY_CIV_ASSYRIA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_ASSYRIA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_ASSYRIA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_ASSYRIA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_EBONY_CLAY</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_ASSYRIA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_BABYLON</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_ANUNNAKI</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>ASS</Identifier>
+			<StartingYear>-2600</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>1</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>2</Trade>
+				<Production>3</Production>
+				<Culture>5</Culture>
+				<Growth>4</Growth>
+				<Start>4</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Nimrud</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+					<BuildingType>BUILDING_ASSYRIAN_KALLIU</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_BABYLONIAN_ZIGGURAT</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
+					<UnitType>UNIT_ASSYRIAN_AZMARU</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CATAPULT</UnitClassType>
+					<UnitType>UNIT_ASSYRIAN_SIEGE_RAM</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_ASHURBANIPAL</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_BABYLONIA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_BABYLON_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_BABYLON_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_AZTEC</Type>
@@ -372,8 +459,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_JAIL</BuildingClassType>
-					<BuildingType>BUILDING_AZTEC_SACRIFICIAL_ALTAR</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+					<BuildingType>BUILDING_AZTEC_CALMECAC</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -406,11 +493,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -504,11 +591,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -568,8 +655,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_ESTATE</BuildingClassType>
-					<BuildingType>BUILDING_BRAZILIAN_FAZENDA</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_ARENA</BuildingClassType>
+					<BuildingType>BUILDING_BRAZILIAN_SAMBADROME</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -598,11 +685,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -617,6 +704,93 @@
 			<DerivativeCiv>CIVILIZATION_PORTUGAL</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_PORTUGAL_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_PORTUGAL_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_BURMA</Type>
+			<Description>TXT_KEY_CIV_BURMA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_BURMA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_BURMA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_BURMA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_DARK_EMERALD</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_BURMA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_KHMER</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>BUR</Identifier>
+			<StartingYear>849</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>12</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>4</Trade>
+				<Production>3</Production>
+				<Culture>3</Culture>
+				<Growth>3</Growth>
+				<Start>2</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Bagan</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+					<BuildingType>BUILDING_BURMESE_KYAUNG</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_VEDIC_TEMPLE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_SPEARMAN</UnitClassType>
+					<UnitType>UNIT_BURMESE_KYUNDAW</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_DRAGOON</UnitClassType>
+					<UnitType>UNIT_BURMESE_CASSAY</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_ANAWRAHTA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_BAYINNAUNG</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_KHMER</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_KHMER_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_KHMER_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_BYZANTIUM</Type>
@@ -705,11 +879,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -815,11 +989,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -891,7 +1065,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_JEWELLER</BuildingClassType>
 					<BuildingType>BUILDING_PHOENICIAN_GLASSMAKER</BuildingType>
 				</Building>
 				<Building>
@@ -925,11 +1099,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -951,25 +1125,27 @@
 			<ShortDescription>TXT_KEY_CIV_CELT_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_CELT_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_CELT_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY_GREEN</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_BROWNISH_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_CELT</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_EUROPE</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_CELT</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_DRUIDISM</PaganReligion>
+			<Impact>IMPACT_LIMITED</Impact>
 			<Identifier>CEL</Identifier>
-			<StartingYear>0</StartingYear>
+			<StartingYear>-600</StartingYear>
 			<LoadingTimes>
-				<LoadingTime>0</LoadingTime>
+				<LoadingTime>2</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 			</LoadingTimes>
 			<Rating>
-				<Trade>0</Trade>
-				<Production>0</Production>
-				<Culture>0</Culture>
-				<Growth>0</Growth>
-				<Start>0</Start>
+				<Trade>2</Trade>
+				<Production>3</Production>
+				<Culture>3</Culture>
+				<Growth>2</Growth>
+				<Start>3</Start>
 			</Rating>
-			<bPlayable>0</bPlayable>
+			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
 				<City>Bibracte</City>
@@ -1004,139 +1180,41 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
-					<BuildingType>BUILDING_CELTIC_DUN</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+					<BuildingType>BUILDING_CELTIC_MENHIR</BuildingType>
 				</Building>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_SECURITY_BUREAU</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_ADMINISTRATIVE_CENTER</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_TRIUMPHAL_ARCH</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_NATIONAL_THEATRE</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_TRADING_COMPANY</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_STOCK_EXCHANGE</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_NATIONAL_GALLERY</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_IRONWORKS</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_SECRET_SERVICE</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_NATIONAL_PARK</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_RED_CROSS</BuildingClassType>
-					<BuildingType>NONE</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_DRUIDIC_NEMETON</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
-					<UnitType>UNIT_CELTIC_GALLIC_WARRIOR</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_SCOUT</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_EXPLORER</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_SPY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_PROTESTANT_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CATHOLIC_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_ORTHODOX_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_ISLAMIC_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_HINDU_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_BUDDHIST_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CONFUCIAN_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_TAOIST_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_ZOROASTRIAN_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_JEWISH_MISSIONARY</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_RELIGIOUS_PERSECUTOR</UnitClassType>
-					<UnitType>NONE</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_GREAT_SPY</UnitClassType>
-					<UnitType>NONE</UnitType>
+					<UnitClassType>UNITCLASS_LIGHT_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_CELTIC_OATHSWORN</UnitType>
 				</Unit>
 			</Units>
-			<FreeUnitClasses/>
-			<FreeBuildingClasses/>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1242,11 +1320,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1344,11 +1422,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1359,6 +1437,120 @@
 			<DerivativeCiv>CIVILIZATION_SPAIN</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_SPAIN_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_SPAIN_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_DRAVIDIA</Type>
+			<Description>TXT_KEY_CIV_DRAVIDIA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_DRAVIDIA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_DRAVIDIA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_DRAVIDIA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_BLUE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_DRAVIDIA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_INDIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_TAMILS</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>DRA</Identifier>
+			<StartingYear>-300</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>2</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>5</Trade>
+				<Production>1</Production>
+				<Culture>4</Culture>
+				<Growth>3</Growth>
+				<Start>2</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Cholapuram</City>
+				<City>Pazhaiyaarai</City>
+				<City>Poompuhar</City>
+				<City>Vengi</City>
+				<City>Nagapattinam</City>
+				<City>Urayur</City>
+				<City>Mabappalam</City>
+				<City>Polonaruwa</City>
+				<City>Korkai</City>
+				<City>Kandai</City>
+				<City>Panni</City>
+				<City>Rohana</City>
+				<City>Koppam</City>
+				<City>Kudai Sangamam</City>
+				<City>Belur</City>
+				<City>Sendamangalam</City>
+				<City>Chidambaram</City>
+				<City>Darasuram</City>
+				<City>Mamallapuram</City>
+				<City>Sravana</City>
+				<City>Balligave</City>
+				<City>Bhubaneswar</City>
+				<City>Ratnagiri</City>
+				<City>Malkhed</City>
+				<City>Sringeri</City>
+				<City>Warangal</City>
+				<City>Kotte</City>
+				<City>Polonnaruva</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_CIVIC_SQUARE</BuildingClassType>
+					<BuildingType>BUILDING_DRAVIDIAN_GOPURAM</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_VEDIC_TEMPLE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_COG</UnitClassType>
+					<UnitType>UNIT_DRAVIDIAN_DHARANI</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_GRENADIER</UnitClassType>
+					<UnitType>UNIT_DRAVIDIAN_ROCKETEER</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_RAJENDRA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_KRISHNA_DEVA_RAYA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_INDIA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_INDIA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_INDIA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_EGYPT</Type>
@@ -1460,11 +1652,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1540,8 +1732,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
-					<BuildingType>BUILDING_ENGLISH_ROYAL_EXCHANGE</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+					<BuildingType>BUILDING_ENGLISH_EXCHEQUER</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -1574,11 +1766,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1700,11 +1892,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1737,10 +1929,10 @@
 			<PaganReligion>PAGAN_RELIGION_DRUIDISM</PaganReligion>
 			<Impact>IMPACT_CRITICAL</Impact>
 			<Identifier>FRA</Identifier>
-			<StartingYear>750</StartingYear>
+			<StartingYear>496</StartingYear>
 			<LoadingTimes>
-				<LoadingTime>6</LoadingTime>
-				<LoadingTime>1</LoadingTime>
+				<LoadingTime>5</LoadingTime>
+				<LoadingTime>0</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 			</LoadingTimes>
 			<Rating>
@@ -1787,8 +1979,8 @@
 					<UnitType>UNIT_FRENCH_GENDARME</UnitType>
 				</Unit>
 				<Unit>
-					<UnitClassType>UNITCLASS_DRAGOON</UnitClassType>
-					<UnitType>UNIT_FRENCH_GUARD</UnitType>
+					<UnitClassType>UNITCLASS_CANNON</UnitClassType>
+					<UnitType>UNIT_FRENCH_GRIBEAUVAL</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -1807,11 +1999,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1939,11 +2131,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2073,11 +2265,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2103,7 +2295,7 @@
 			<ShortDescription>TXT_KEY_CIV_HARAPPANS_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_HARAPPANS_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_HARAPPANS_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_PURPLE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_APPLE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_HARAPPANS</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_INDIA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_INDIA</UnitArtStyleType>
@@ -2184,21 +2376,100 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_VATAVELLI</LeaderName>
+					<LeaderName>LEADER_WENT_ANTU</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
 			<DerivativeCiv>CIVILIZATION_INDIA</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_INDIA_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_INDIA_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_HITTITES</Type>
+			<Description>TXT_KEY_CIV_HITTITES_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_HITTITES_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_HITTITES_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_HITTITES_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_CRIMSON</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_HITTITES</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_BABYLON</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_ANUNNAKI</PaganReligion>
+			<Impact>IMPACT_LIMITED</Impact>
+			<Identifier>HIT</Identifier>
+			<StartingYear>-1800</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>1</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>1</Trade>
+				<Production>4</Production>
+				<Culture>3</Culture>
+				<Growth>2</Growth>
+				<Start>2</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Kanesh</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_FORGE</BuildingClassType>
+					<BuildingType>BUILDING_HITTITE_BLOOMERY</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_BABYLONIAN_ZIGGURAT</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
+					<UnitType>UNIT_HITTITE_HULUGANNI</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_MURSILI</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_GREECE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_HOLY_ROMAN</Type>
@@ -2286,11 +2557,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2316,7 +2587,7 @@
 			<ShortDescription>TXT_KEY_CIV_INCA_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_INCA_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_INCA_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_DARK_CYAN</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_OCHRE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_INCA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_INCA</UnitArtStyleType>
@@ -2383,11 +2654,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2494,11 +2765,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2521,108 +2792,6 @@
 			<DerivativeCiv>CIVILIZATION_HARAPPANS</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_INDIA_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_INDIA_ORDER</CivilizationActionSound>
-		</CivilizationInfo>
-		<CivilizationInfo>
-			<Type>CIVILIZATION_INDONESIA</Type>
-			<Description>TXT_KEY_CIV_INDONESIA_DESC</Description>
-			<ShortDescription>TXT_KEY_CIV_INDONESIA_SHORT_DESC</ShortDescription>
-			<Adjective>TXT_KEY_CIV_INDONESIA_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_CIV_INDONESIA_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_TEAL</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_INDONESIA</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_INDONESIA</UnitArtStyleType>
-			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
-			<Impact>IMPACT_SIGNIFICANT</Impact>
-			<Identifier>INO</Identifier>
-			<StartingYear>650</StartingYear>
-			<LoadingTimes>
-				<LoadingTime>5</LoadingTime>
-				<LoadingTime>1</LoadingTime>
-				<LoadingTime>0</LoadingTime>
-			</LoadingTimes>
-			<Rating>
-				<Trade>4</Trade>
-				<Production>1</Production>
-				<Culture>3</Culture>
-				<Growth>5</Growth>
-				<Start>2</Start>
-			</Rating>
-			<bPlayable>1</bPlayable>
-			<bAIPlayable>1</bAIPlayable>
-			<Cities>
-				<City>Trowulan</City>
-				<City>Borobudur</City>
-				<City>Chaiya</City>
-				<City>Prambanan</City>
-				<City>Kota Gede</City>
-				<City>Malang</City>
-				<City>Surakarta</City>
-				<City>Bojonegoro</City>
-				<City>Ratu Boko</City>
-				<City>Cirebon</City>
-				<City>Bandar</City>
-				<City>Penataran</City>
-				<City>Pajang</City>
-				<City>Demak</City>
-				<City>Plaosan</City>
-				<City>Bantam</City>
-			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
-					<BuildingType>BUILDING_INDONESIAN_CANDI</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
-					<BuildingType>BUILDING_VEDIC_TEMPLE</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_GALLEASS</UnitClassType>
-					<UnitType>UNIT_INDONESIAN_DJONG</UnitType>
-				</Unit>
-			</Units>
-			<FreeUnitClasses>
-				<FreeUnitClass>
-					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<iFreeUnits>1</iFreeUnits>
-				</FreeUnitClass>
-			</FreeUnitClasses>
-			<FreeBuildingClasses>
-				<FreeBuildingClass>
-					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
-					<bFreeBuildingClass>1</bFreeBuildingClass>
-				</FreeBuildingClass>
-			</FreeBuildingClasses>
-			<FreeTechs/>
-			<DisableTechs/>
-			<InitialCivics>
-				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
-				<CivicType>CIVIC_TRADITIONALISM</CivicType>
-				<CivicType>CIVIC_RECIPROCITY</CivicType>
-				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
-			</InitialCivics>
-			<Leaders>
-				<Leader>
-					<LeaderName>LEADER_DHARMASETU</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
-				</Leader>
-				<Leader>
-					<LeaderName>LEADER_HAYAM_WURUK</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
-				</Leader>
-				<Leader>
-					<LeaderName>LEADER_SUHARTO</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
-				</Leader>
-			</Leaders>
-			<DerivativeCiv>CIVILIZATION_KHMER</DerivativeCiv>
-			<CivilizationSelectionSound>AS3D_KHMER_SELECT</CivilizationSelectionSound>
-			<CivilizationActionSound>AS3D_KHMER_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_IRAN</Type>
@@ -2679,8 +2848,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_POST_OFFICE</BuildingClassType>
-					<BuildingType>BUILDING_IRANIAN_CARAVANSERAI</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_PARK</BuildingClassType>
+					<BuildingType>BUILDING_IRANIAN_BAGH</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -2691,6 +2860,10 @@
 				<Unit>
 					<UnitClassType>UNITCLASS_ARQUEBUSIER</UnitClassType>
 					<UnitType>UNIT_IRANIAN_QIZILBASH</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CAMEL_GUNNER</UnitClassType>
+					<UnitType>UNIT_IRANIAN_ZAMBURAK</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -2709,11 +2882,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2735,7 +2908,7 @@
 			<ShortDescription>TXT_KEY_CIV_ITALY_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_ITALY_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_ITALY_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_ITALY</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_PALE_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_ITALY</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_ITALY</UnitArtStyleType>
@@ -2793,7 +2966,7 @@
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_GALLEASS</UnitClassType>
-					<UnitType>UNIT_ITALIAN_LANTERNAS</UnitType>
+					<UnitType>UNIT_ITALIAN_LANTERNA</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -2812,11 +2985,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2925,11 +3098,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2950,19 +3123,121 @@
 			<CivilizationActionSound>AS3D_JAPAN_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
+			<Type>CIVILIZATION_JAVA</Type>
+			<Description>TXT_KEY_CIV_JAVA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_JAVA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_JAVA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_JAVA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_HIBISCUS</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_JAVA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_INDONESIA</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>JAV</Identifier>
+			<StartingYear>716</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>9</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>4</Trade>
+				<Production>1</Production>
+				<Culture>3</Culture>
+				<Growth>5</Growth>
+				<Start>2</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Trowulan</City>
+				<City>Borobudur</City>
+				<City>Chaiya</City>
+				<City>Prambanan</City>
+				<City>Kota Gede</City>
+				<City>Malang</City>
+				<City>Surakarta</City>
+				<City>Bojonegoro</City>
+				<City>Ratu Boko</City>
+				<City>Cirebon</City>
+				<City>Bandar</City>
+				<City>Penataran</City>
+				<City>Pajang</City>
+				<City>Demak</City>
+				<City>Plaosan</City>
+				<City>Bantam</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+					<BuildingType>BUILDING_JAVANESE_CANDI</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_VEDIC_TEMPLE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_JAVANESE_PENDEKAR</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_BOMBARD</UnitClassType>
+					<UnitType>UNIT_JAVANESE_LANTAKA</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_HAYAM_WURUK</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_SUHARTO</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_MALAYS</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_KHMER_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_KHMER_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
 			<Type>CIVILIZATION_KHMER</Type>
 			<Description>TXT_KEY_CIV_KHMER_DESC</Description>
 			<ShortDescription>TXT_KEY_CIV_KHMER_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_KHMER_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_KHMER_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_BROWNISH_RED</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_KHMER</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_KHMER</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>KHM</Identifier>
-			<StartingYear>800</StartingYear>
+			<StartingYear>50</StartingYear>
 			<LoadingTimes>
 				<LoadingTime>20</LoadingTime>
 				<LoadingTime>2</LoadingTime>
@@ -3041,11 +3316,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3145,11 +3420,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3167,7 +3442,7 @@
 			<ShortDescription>TXT_KEY_CIV_KOREA_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_KOREA_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_KOREA_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_KOREA</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_BLUEISH_PURPLE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_KOREA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_JAPAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_KOREA</UnitArtStyleType>
@@ -3247,11 +3522,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3268,6 +3543,178 @@
 			<CivilizationActionSound>AS3D_KOREA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
+			<Type>CIVILIZATION_KUSHANS</Type>
+			<Description>TXT_KEY_CIV_KUSHANS_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_KUSHANS_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_KUSHANS_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_KUSHANS_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_EMERALD</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_KUSHANS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_MONGOL</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_OLYMPIANISM</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>KUS</Identifier>
+			<StartingYear>-135</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>3</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>5</Trade>
+				<Production>3</Production>
+				<Culture>4</Culture>
+				<Growth>3</Growth>
+				<Start>1</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Kucha</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingType>BUILDING_KUSHAN_CARAVANSERAI</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_OLYMPIAN_TEMPLE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_HORSEMAN</UnitClassType>
+					<UnitType>UNIT_KUSHAN_ASVAKA</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses/>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_KANISHKA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_INDIA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_INDIA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_INDIA_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_MALAYS</Type>
+			<Description>TXT_KEY_CIV_MALAYS_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_MALAYS_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_MALAYS_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_MALAYS_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_BRIGHT_GREEN</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MALAYS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_INDONESIA</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>MAA</Identifier>
+			<StartingYear>500</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>5</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>5</Trade>
+				<Production>1</Production>
+				<Culture>4</Culture>
+				<Growth>3</Growth>
+				<Start>2</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Trowulan</City>
+				<City>Borobudur</City>
+				<City>Chaiya</City>
+				<City>Prambanan</City>
+				<City>Kota Gede</City>
+				<City>Malang</City>
+				<City>Surakarta</City>
+				<City>Bojonegoro</City>
+				<City>Ratu Boko</City>
+				<City>Cirebon</City>
+				<City>Bandar</City>
+				<City>Penataran</City>
+				<City>Pajang</City>
+				<City>Demak</City>
+				<City>Plaosan</City>
+				<City>Bantam</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
+					<BuildingType>BUILDING_MALAY_GUDANG</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_VEDIC_TEMPLE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_GALLEASS</UnitClassType>
+					<UnitType>UNIT_MALAY_DJONG</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_SRI_JAYANASA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_TUN_PERAK</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_JAVA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_KHMER_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_KHMER_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
 			<Type>CIVILIZATION_MALI</Type>
 			<Description>TXT_KEY_CIV_MALI_DESC</Description>
 			<ShortDescription>TXT_KEY_CIV_MALI_SHORT_DESC</ShortDescription>
@@ -3280,10 +3727,10 @@
 			<PaganReligion>PAGAN_RELIGION_YORUBA</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>MAL</Identifier>
-			<StartingYear>989</StartingYear>
+			<StartingYear>300</StartingYear>
 			<LoadingTimes>
-				<LoadingTime>8</LoadingTime>
-				<LoadingTime>2</LoadingTime>
+				<LoadingTime>4</LoadingTime>
+				<LoadingTime>0</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 			</LoadingTimes>
 			<Rating>
@@ -3335,8 +3782,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_FORGE</BuildingClassType>
-					<BuildingType>BUILDING_MANDE_MINT</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingType>BUILDING_MANDE_WANGARA</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -3347,6 +3794,10 @@
 				<Unit>
 					<UnitClassType>UNITCLASS_SKIRMISHER</UnitClassType>
 					<UnitType>UNIT_MANDE_KELEBOLO</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_LANCER</UnitClassType>
+					<UnitType>UNIT_MANDE_FARARI</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -3365,11 +3816,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3387,7 +3838,7 @@
 			<ShortDescription>TXT_KEY_CIV_MAYA_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_MAYA_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_MAYA_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_GREYISH_CYAN</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_VERY_DARK_CYAN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_MAYA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_MESO_AMERICA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_MAYA</UnitArtStyleType>
@@ -3481,11 +3932,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3503,7 +3954,7 @@
 			<ShortDescription>TXT_KEY_CIV_MEXICO_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_MEXICO_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_MEXICO_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_GREEN</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_MEXICO</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_SPAIN</UnitArtStyleType>
@@ -3570,11 +4021,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3644,7 +4095,7 @@
 			<Buildings>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
-					<BuildingType>BUILDING_MONGOLIAN_GER</BuildingType>
+					<BuildingType>BUILDING_MONGOLIAN_ORTEGE</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -3677,11 +4128,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3794,11 +4245,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3884,6 +4335,10 @@
 					<UnitClassType>UNITCLASS_BOMBARD</UnitClassType>
 					<UnitType>UNIT_MUGHAL_SIEGE_ELEPHANT</UnitType>
 				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CUIRASSIER</UnitClassType>
+					<UnitType>UNIT_MUGHAL_SOWAR</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
@@ -3901,11 +4356,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4021,11 +4476,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4107,7 +4562,7 @@
 			<Buildings>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_LEVEE</BuildingClassType>
-					<BuildingType>BUILDING_DUTCH_DIKE</BuildingType>
+					<BuildingType>BUILDING_DUTCH_POLDER</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -4117,7 +4572,7 @@
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_GALLEON</UnitClassType>
-					<UnitType>UNIT_DUTCH_EAST_INDIAMAN</UnitType>
+					<UnitType>UNIT_DUTCH_FLUYT</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -4136,11 +4591,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4157,12 +4612,203 @@
 			<CivilizationActionSound>AS3D_NETHERLANDS_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
+			<Type>CIVILIZATION_NORSE</Type>
+			<Description>TXT_KEY_CIV_NORSE_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_NORSE_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_NORSE_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_NORSE_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_PURPLE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_NORSE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_NORSE</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_VIKING</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_ASATRU</PaganReligion>
+			<Impact>IMPACT_CRITICAL</Impact>
+			<Identifier>NOR</Identifier>
+			<StartingYear>545</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>4</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>2</Trade>
+				<Production>3</Production>
+				<Culture>2</Culture>
+				<Growth>3</Growth>
+				<Start>4</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Birka</City>
+				<City>Sigtuna</City>
+				<City>Odense</City>
+				<City>Ribe</City>
+				<City>Lindholm</City>
+				<City>V&#228;ster&#229;s</City>
+				<City>Lund</City>
+				<City>Kaupang</City>
+				<City>Thingvellir</City>
+				<City>Stamford</City>
+				<City>Vadrefjord</City>
+				<City>Rowane</City>
+				<City>Tynwald</City>
+				<City>Leirvik</City>
+				<City>Tinganes</City>
+				<City>Brattahlid</City>
+				<City>Thunderfall</City>
+				<City>Vorbasse</City>
+				<City>Bj&#248;rgvin</City>
+				<City>T&#248;nsberg</City>
+				<City>Kirkjub&#248;ur</City>
+				<City>L&#246;d&#246;se</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
+					<BuildingType>BUILDING_NORSE_TRADING_POST</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_ASATRU_HOF</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_GALLEY</UnitClassType>
+					<UnitType>UNIT_NORSE_LONGSHIP</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_NORSE_HUSCARL</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_RAGNAR</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_CHRISTIAN</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_GERHARDSEN</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_SWEDEN</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_NORSE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_NORSE_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_NUBIA</Type>
+			<Description>TXT_KEY_CIV_NUBIA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_NUBIA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_NUBIA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_NUBIA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_LILAC</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_NUBIA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EGYPT</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_ETHIOPIA</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_PESEDJET</PaganReligion>
+			<Impact>IMPACT_LIMITED</Impact>
+			<Identifier>NUB</Identifier>
+			<StartingYear>-1650</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>1</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>2</Trade>
+				<Production>1</Production>
+				<Culture>3</Culture>
+				<Growth>4</Growth>
+				<Start>2</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Medewi</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+					<BuildingType>BUILDING_NUBIAN_MUDBRICK_PYRAMID</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_PESEDJET_TEMPLE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
+					<UnitType>UNIT_NUBIAN_MEDJAY</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_TAHARQA</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_EGYPT</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_EGYPT_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_EGYPT_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
 			<Type>CIVILIZATION_OTTOMAN</Type>
 			<Description>TXT_KEY_CIV_OTTOMAN_DESC</Description>
 			<ShortDescription>TXT_KEY_CIV_OTTOMAN_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_OTTOMAN_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_OTTOMAN_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_DARK_ORANGE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_DARK_DARK_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_OTTOMAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_OTTOMAN</UnitArtStyleType>
@@ -4239,11 +4885,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4269,7 +4915,7 @@
 			<ShortDescription>TXT_KEY_CIV_PERSIA_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_PERSIA_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_PERSIA_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_ORANGE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_OCHRE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_PERSIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_PERSIA</UnitArtStyleType>
@@ -4332,8 +4978,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_PHARMACY</BuildingClassType>
-					<BuildingType>BUILDING_PERSIAN_APOTHECARY</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
+					<BuildingType>BUILDING_PERSIAN_QANAT</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -4366,11 +5012,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4488,11 +5134,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4615,11 +5261,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4627,7 +5273,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
-			<DerivativeCiv>CIVILIZATION_INDONESIA</DerivativeCiv>
+			<DerivativeCiv>CIVILIZATION_MALAYS</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_INCA_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_INCA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
@@ -4637,7 +5283,7 @@
 			<ShortDescription>TXT_KEY_CIV_PORTUGAL_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_PORTUGAL_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_PORTUGAL_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_DARK_DARK_GREEN</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_VERY_LIGHT_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_PORTUGAL</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_IBERIA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_PORTUGAL</UnitArtStyleType>
@@ -4732,11 +5378,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4769,7 +5415,7 @@
 			<PaganReligion>PAGAN_RELIGION_OLYMPIANISM</PaganReligion>
 			<Impact>IMPACT_CRITICAL</Impact>
 			<Identifier>ROM</Identifier>
-			<StartingYear>-760</StartingYear>
+			<StartingYear>-509</StartingYear>
 			<LoadingTimes>
 				<LoadingTime>1</LoadingTime>
 				<LoadingTime>0</LoadingTime>
@@ -4858,11 +5504,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4879,6 +5525,89 @@
 			<CivilizationActionSound>AS3D_ROME_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
+			<Type>CIVILIZATION_RUS</Type>
+			<Description>TXT_KEY_CIV_RUS_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_RUS_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_RUS_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_RUS_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_CYAN</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_RUS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_RUSSIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_RUSSIA</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_RODNOVERY</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>UKR</Identifier>
+			<StartingYear>880</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>15</LoadingTime>
+				<LoadingTime>5</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>4</Trade>
+				<Production>2</Production>
+				<Culture>2</Culture>
+				<Growth>3</Growth>
+				<Start>3</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Vladimir</City>
+				<City>Starajarussa</City>
+				<City>Suzdal</City>
+				<City>Jelets</City>
+				<City>Ribinsk</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_WHARF</BuildingClassType>
+					<BuildingType>BUILDING_RUS_VOLOK</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_PERUN_SHRINE</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_RUS_DRUZHINA</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_YAROSLAV</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_RUSSIA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_RUSSIA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_RUSSIA_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
 			<Type>CIVILIZATION_RUSSIA</Type>
 			<Description>TXT_KEY_CIV_RUSSIA_DESC</Description>
 			<ShortDescription>TXT_KEY_CIV_RUSSIA_SHORT_DESC</ShortDescription>
@@ -4891,10 +5620,10 @@
 			<PaganReligion>PAGAN_RELIGION_RODNOVERY</PaganReligion>
 			<Impact>IMPACT_CRITICAL</Impact>
 			<Identifier>RUS</Identifier>
-			<StartingYear>860</StartingYear>
+			<StartingYear>1263</StartingYear>
 			<LoadingTimes>
-				<LoadingTime>6</LoadingTime>
-				<LoadingTime>2</LoadingTime>
+				<LoadingTime>15</LoadingTime>
+				<LoadingTime>5</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 			</LoadingTimes>
 			<Rating>
@@ -4915,8 +5644,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
-					<BuildingType>BUILDING_RUSSIAN_RESEARCH_INSTITUTE</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_JAIL</BuildingClassType>
+					<BuildingType>BUILDING_RUSSIAN_KATORGA</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -4949,11 +5678,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4977,7 +5706,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
-			<DerivativeCiv>CIVILIZATION_POLAND</DerivativeCiv>
+			<DerivativeCiv>CIVILIZATION_RUS</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_RUSSIA_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_RUSSIA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
@@ -5065,11 +5794,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -5161,11 +5890,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -5178,81 +5907,50 @@
 			<CivilizationActionSound>AS3D_SUMERIA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
-			<Type>CIVILIZATION_TAMILS</Type>
-			<Description>TXT_KEY_CIV_TAMILS_DESC</Description>
-			<ShortDescription>TXT_KEY_CIV_TAMILS_SHORT_DESC</ShortDescription>
-			<Adjective>TXT_KEY_CIV_TAMILS_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_CIV_TAMILS_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_BLUE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_TAMILS</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_INDIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_TAMILS</UnitArtStyleType>
-			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
+			<Type>CIVILIZATION_SWAHILI</Type>
+			<Description>TXT_KEY_CIV_SWAHILI_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_SWAHILI_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_SWAHILI_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_SWAHILI_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_CREAM</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_SWAHILI</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ARABIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_ETHIOPIA</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_YORUBA</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
-			<Identifier>TAM</Identifier>
-			<StartingYear>-300</StartingYear>
+			<Identifier>SWA</Identifier>
+			<StartingYear>957</StartingYear>
 			<LoadingTimes>
-				<LoadingTime>2</LoadingTime>
-				<LoadingTime>0</LoadingTime>
+				<LoadingTime>20</LoadingTime>
+				<LoadingTime>4</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 			</LoadingTimes>
 			<Rating>
 				<Trade>5</Trade>
 				<Production>1</Production>
-				<Culture>4</Culture>
-				<Growth>3</Growth>
+				<Culture>3</Culture>
+				<Growth>2</Growth>
 				<Start>2</Start>
 			</Rating>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
-				<City>Cholapuram</City>
-				<City>Pazhaiyaarai</City>
-				<City>Poompuhar</City>
-				<City>Vengi</City>
-				<City>Nagapattinam</City>
-				<City>Urayur</City>
-				<City>Mabappalam</City>
-				<City>Polonaruwa</City>
-				<City>Korkai</City>
-				<City>Kandai</City>
-				<City>Panni</City>
-				<City>Rohana</City>
-				<City>Koppam</City>
-				<City>Kudai Sangamam</City>
-				<City>Belur</City>
-				<City>Sendamangalam</City>
-				<City>Chidambaram</City>
-				<City>Darasuram</City>
-				<City>Mamallapuram</City>
-				<City>Sravana</City>
-				<City>Balligave</City>
-				<City>Bhubaneswar</City>
-				<City>Ratnagiri</City>
-				<City>Malkhed</City>
-				<City>Sringeri</City>
-				<City>Warangal</City>
-				<City>Kotte</City>
-				<City>Polonnaruva</City>
+				<City>Kilwa</City>
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
-					<BuildingType>BUILDING_TAMIL_SANGAM</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+					<BuildingType>BUILDING_SWAHILI_ISLAND_FORT</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
-					<BuildingType>BUILDING_VEDIC_TEMPLE</BuildingType>
+					<BuildingType>BUILDING_YORUBA_TEMPLE</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_COG</UnitClassType>
-					<UnitType>UNIT_TAMIL_DHARANI</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_GRENADIER</UnitClassType>
-					<UnitType>UNIT_TAMIL_ROCKETEER</UnitType>
+					<UnitType>UNIT_SWAHILI_DHOW</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -5271,25 +5969,104 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_RAJENDRA</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
-				</Leader>
-				<Leader>
-					<LeaderName>LEADER_KRISHNA_DEVA_RAYA</LeaderName>
+					<LeaderName>LEADER_DAWUD</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
-			<DerivativeCiv>CIVILIZATION_INDIA</DerivativeCiv>
-			<CivilizationSelectionSound>AS3D_INDIA_SELECT</CivilizationSelectionSound>
-			<CivilizationActionSound>AS3D_INDIA_ORDER</CivilizationActionSound>
+			<DerivativeCiv>CIVILIZATION_ARABIA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_ARABIA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ARABIA_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_SWEDEN</Type>
+			<Description>TXT_KEY_CIV_SWEDEN_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_SWEDEN_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_SWEDEN_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_SWEDEN_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_BLUE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_SWEDEN</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_NORSE</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_VIKING</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_ASATRU</PaganReligion>
+			<Impact>IMPACT_SIGNIFICANT</Impact>
+			<Identifier>SWE</Identifier>
+			<StartingYear>1252</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>20</LoadingTime>
+				<LoadingTime>8</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>2</Trade>
+				<Production>3</Production>
+				<Culture>2</Culture>
+				<Growth>3</Growth>
+				<Start>4</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Birka</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+					<BuildingType>BUILDING_SWEDISH_SOLDATTORP</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_ASATRU_HOF</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_PISTOLIER</UnitClassType>
+					<UnitType>UNIT_SWEDISH_HAKKAPELIITTA</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MUSKETEER</UnitClassType>
+					<UnitType>UNIT_SWEDISH_CAROLEAN</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_GUSTAV</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_NORSE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_NORSE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_NORSE_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_THAILAND</Type>
@@ -5297,14 +6074,14 @@
 			<ShortDescription>TXT_KEY_CIV_THAILAND_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_CIV_THAILAND_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_THAILAND_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_BLUE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_BRIGHT_RED</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_THAILAND</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_THAILAND</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>THA</Identifier>
-			<StartingYear>1350</StartingYear>
+			<StartingYear>1238</StartingYear>
 			<LoadingTimes>
 				<LoadingTime>15</LoadingTime>
 				<LoadingTime>8</LoadingTime>
@@ -5353,8 +6130,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
-					<BuildingType>BUILDING_THAI_HO_TRAI</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingType>BUILDING_THAI_FLOATING_MARKET</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -5383,11 +6160,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -5515,11 +6292,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -5534,6 +6311,85 @@
 			<DerivativeCiv>CIVILIZATION_CHINA</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_CHINA_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_CHINA_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_TOLTECS</Type>
+			<Description>TXT_KEY_CIV_TOLTECS_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_TOLTECS_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_TOLTECS_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_TOLTECS_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_CARMINE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_TOLTECS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MESO_AMERICA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_AZTEC</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_TEOTL_TOLTEC</PaganReligion>
+			<Impact>IMPACT_LIMITED</Impact>
+			<Identifier>TOL</Identifier>
+			<StartingYear>-200</StartingYear>
+			<LoadingTimes>
+				<LoadingTime>3</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+				<LoadingTime>0</LoadingTime>
+			</LoadingTimes>
+			<Rating>
+				<Trade>2</Trade>
+				<Production>2</Production>
+				<Culture>4</Culture>
+				<Growth>4</Growth>
+				<Start>3</Start>
+			</Rating>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Teotihuacan</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_JEWELLER</BuildingClassType>
+					<BuildingType>BUILDING_TOLTEC_OBSIDIAN_WORKSHOP</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
+					<BuildingType>BUILDING_TEOTL_STEP_PYRAMID</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_SKIRMISHER</UnitClassType>
+					<UnitType>UNIT_TOLTEC_ATLATL</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs/>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_CHIEFDOM</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
+				<CivicType>CIVIC_TRADITIONALISM</CivicType>
+				<CivicType>CIVIC_RECIPROCITY</CivicType>
+				<CivicType>CIVIC_ANIMISM</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_TOPILTZIN</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_AZTEC</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_AZTEC_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_AZTEC_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_TURKS</Type>
@@ -5609,11 +6465,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -5634,75 +6490,50 @@
 			<CivilizationActionSound>AS3D_OTTOMAN_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
-			<Type>CIVILIZATION_VIKING</Type>
-			<Description>TXT_KEY_CIV_VIKING_DESC</Description>
-			<ShortDescription>TXT_KEY_CIV_VIKING_SHORT_DESC</ShortDescription>
-			<Adjective>TXT_KEY_CIV_VIKING_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_CIV_VIKING_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_PURPLE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_VIKING</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_NORSE</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_VIKING</UnitArtStyleType>
-			<PaganReligion>PAGAN_RELIGION_ASATRU</PaganReligion>
-			<Impact>IMPACT_CRITICAL</Impact>
-			<Identifier>VIK</Identifier>
-			<StartingYear>545</StartingYear>
+			<Type>CIVILIZATION_VIETNAM</Type>
+			<Description>TXT_KEY_CIV_VIETNAM_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_VIETNAM_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_VIETNAM_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_VIETNAM_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_LEMON</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_VIETNAM</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIA</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_CHINA</UnitArtStyleType>
+			<PaganReligion>PAGAN_RELIGION_SHENDAO</PaganReligion>
+			<Impact>IMPACT_LIMITED</Impact>
+			<Identifier>VIE</Identifier>
+			<StartingYear>938</StartingYear>
 			<LoadingTimes>
-				<LoadingTime>4</LoadingTime>
+				<LoadingTime>15</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 				<LoadingTime>0</LoadingTime>
 			</LoadingTimes>
 			<Rating>
 				<Trade>2</Trade>
-				<Production>3</Production>
-				<Culture>2</Culture>
+				<Production>2</Production>
+				<Culture>5</Culture>
 				<Growth>3</Growth>
-				<Start>4</Start>
+				<Start>2</Start>
 			</Rating>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
-				<City>Birka</City>
-				<City>Sigtuna</City>
-				<City>Odense</City>
-				<City>Ribe</City>
-				<City>Lindholm</City>
-				<City>V&#228;ster&#229;s</City>
-				<City>Lund</City>
-				<City>Kaupang</City>
-				<City>Thingvellir</City>
-				<City>Stamford</City>
-				<City>Vadrefjord</City>
-				<City>Rowane</City>
-				<City>Tynwald</City>
-				<City>Leirvik</City>
-				<City>Tinganes</City>
-				<City>Brattahlid</City>
-				<City>Thunderfall</City>
-				<City>Vorbasse</City>
-				<City>Bj&#248;rgvin</City>
-				<City>T&#248;nsberg</City>
-				<City>Kirkjub&#248;ur</City>
-				<City>L&#246;d&#246;se</City>
+				<City>Dai La</City>
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
-					<BuildingType>BUILDING_VIKING_TRADING_POST</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+					<BuildingType>BUILDING_VIETNAMESE_WATER_PUPPET_THEATRE</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
-					<BuildingType>BUILDING_ASATRU_HOF</BuildingType>
+					<BuildingType>BUILDING_ANCESTOR_SHRINE</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_HEAVY_GALLEY</UnitClassType>
-					<UnitType>UNIT_VIKING_LONGSHIP</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_HEAVY_SWORDSMAN</UnitClassType>
-					<UnitType>UNIT_VIKING_HUSCARL</UnitType>
+					<UnitClassType>UNITCLASS_LONGBOWMAN</UnitClassType>
+					<UnitType>UNIT_VIETNAMESE_RATTAN_ARCHER</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -5721,29 +6552,21 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_RAGNAR</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
-				</Leader>
-				<Leader>
-					<LeaderName>LEADER_GUSTAV</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
-				</Leader>
-				<Leader>
-					<LeaderName>LEADER_GERHARDSEN</LeaderName>
+					<LeaderName>LEADER_LE_LOI</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
-			<DerivativeCiv>CIVILIZATION_AMERICA</DerivativeCiv>
-			<CivilizationSelectionSound>AS3D_VIKING_SELECT</CivilizationSelectionSound>
-			<CivilizationActionSound>AS3D_VIKING_ORDER</CivilizationActionSound>
+			<DerivativeCiv>CIVILIZATION_CHINA</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_CHINA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_CHINA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_ZULU</Type>
@@ -5827,11 +6650,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -6055,11 +6878,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -6284,11 +7107,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -6481,11 +7304,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -6603,11 +7426,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -6892,11 +7715,11 @@
 			<DisableTechs/>
 			<InitialCivics>
 				<CivicType>CIVIC_CHIEFDOM</CivicType>
-				<CivicType>CIVIC_AUTHORITY</CivicType>
+				<CivicType>CIVIC_PERSONALISM</CivicType>
 				<CivicType>CIVIC_TRADITIONALISM</CivicType>
 				<CivicType>CIVIC_RECIPROCITY</CivicType>
 				<CivicType>CIVIC_ANIMISM</CivicType>
-				<CivicType>CIVIC_SOVEREIGNTY</CivicType>
+				<CivicType>CIVIC_KINSHIP</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
