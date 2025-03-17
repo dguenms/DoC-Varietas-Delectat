@@ -1193,6 +1193,10 @@
 					<UnitClassType>UNITCLASS_LIGHT_SWORDSMAN</UnitClassType>
 					<UnitType>UNIT_CELTIC_OATHSWORN</UnitType>
 				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_CELTIC_GALLOWGLASS</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
@@ -1219,6 +1223,10 @@
 			<Leaders>
 				<Leader>
 					<LeaderName>LEADER_BRENNUS</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_BRIAN_BORU</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -1447,7 +1455,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_DRAVIDIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_INDIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_TAMILS</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_INDIA</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>DRA</Identifier>
@@ -3131,7 +3139,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_HIBISCUS</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_JAVA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_INDONESIA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_KHMER</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>JAV</Identifier>
@@ -3551,7 +3559,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_EMERALD</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_KUSHANS</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_MONGOL</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_CRESCENT</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_OLYMPIANISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>KUS</Identifier>
@@ -3625,7 +3633,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_BRIGHT_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_MALAYS</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_SOUTH_EAST_ASIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_INDONESIA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_KHMER</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>MAA</Identifier>
@@ -4273,7 +4281,7 @@
 			<Civilopedia>TXT_KEY_CIV_MUGHALS_PEDIA</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_ROT_GREEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_MUGHALS</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
+			<ArtStyleType>ARTSTYLE_INDIA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_MUGHAL</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_TENGRI</PaganReligion>
 			<Impact>IMPACT_CRITICAL</Impact>
@@ -4323,7 +4331,7 @@
 			<Buildings>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_ESTATE</BuildingClassType>
-					<BuildingType>BUILDING_MUGHAL_MAUSOLEUM</BuildingType>
+					<BuildingType>BUILDING_MUGHAL_DURBAR</BuildingType>
 				</Building>
 				<Building>
 					<BuildingClassType>BUILDINGCLASS_PAGAN_TEMPLE</BuildingClassType>
@@ -4620,7 +4628,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_PURPLE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_NORSE</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_NORSE</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_VIKING</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_NORSE</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_ASATRU</PaganReligion>
 			<Impact>IMPACT_CRITICAL</Impact>
 			<Identifier>NOR</Identifier>
@@ -5994,7 +6002,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_MIDDLE_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_SWEDEN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_NORSE</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_VIKING</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_NORSE</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_ASATRU</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>SWE</Identifier>
@@ -6535,6 +6543,10 @@
 					<UnitClassType>UNITCLASS_LONGBOWMAN</UnitClassType>
 					<UnitType>UNIT_VIETNAMESE_RATTAN_ARCHER</UnitType>
 				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
+					<UnitType>UNIT_VIETNAMESE_VIET_CONG</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
@@ -6561,6 +6573,10 @@
 			<Leaders>
 				<Leader>
 					<LeaderName>LEADER_LE_LOI</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+				<Leader>
+					<LeaderName>LEADER_HO_CHI_MINH</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
