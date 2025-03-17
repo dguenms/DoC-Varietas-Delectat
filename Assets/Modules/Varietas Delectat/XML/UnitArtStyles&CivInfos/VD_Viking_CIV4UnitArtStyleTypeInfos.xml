@@ -11,7 +11,7 @@
 <!-- VD mod BEGIN Viking ArtStyle                                                                                                                   -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtStyleTypeInfo>
-			<Type>UNIT_ARTSTYLE_VIKING</Type>
+			<Type>UNIT_ARTSTYLE_NORSE</Type>
 			<StyleUnits>
 				<StyleUnit>
 					<UnitType>UNIT_SETTLER</UnitType>

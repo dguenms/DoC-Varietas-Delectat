@@ -3559,7 +3559,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_EMERALD</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_KUSHANS</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_CRESCENT</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_CRESCENT</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_TURKIC</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_OLYMPIANISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>KUS</Identifier>
