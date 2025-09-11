@@ -1357,7 +1357,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_BLUE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_DRAVIDIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_INDIA</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_INDIA</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_TAMILS</UnitArtStyleType>
 			<PaganReligion>PAGAN_RELIGION_VEDISM</PaganReligion>
 			<Impact>IMPACT_SIGNIFICANT</Impact>
 			<Identifier>DRA</Identifier>
