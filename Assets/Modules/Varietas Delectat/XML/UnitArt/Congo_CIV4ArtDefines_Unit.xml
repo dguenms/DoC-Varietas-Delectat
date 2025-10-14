@@ -13,9 +13,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluAntiTank/AT_Infantry2.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluAntiTank/AT_Infantry2.nif</NIF>
 			<KFM>Art/Units/AntiTankInfantry/WWAntiTankInfantry.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluAntiTank/AT_Infantry2.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluAntiTank/AT_Infantry2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -37,9 +37,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluArcher/zulu_archer.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluArcher/zulu_archer.nif</NIF>
 			<KFM>Art/Units/Archer/Archer.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluArcher/zulu_archer.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluArcher/zulu_archer.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -61,9 +61,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluAxeman/ibutho2.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluAxeman/ibutho2.nif</NIF>
 			<KFM>Art/Units/Unique/Inca/Quechua/IncanQuechua.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluAxeman/ibutho2.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluAxeman/ibutho2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -85,9 +85,9 @@
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluCannon/malicannon.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCannon/malicannon.nif</NIF>
 			<KFM>Art/Units/Cannon/Cannon.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluCannon/malicannon.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCannon/malicannon.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CannonShadow.nif</ShadowNIF>
 				<ShadowAttachNode/>
@@ -117,9 +117,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluCavalry/mesomoderncavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCavalry/mesomoderncavalry.nif</NIF>
 			<KFM>Art/Units/Cavalry/Cavalry.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluCavalry/mesomoderncavalry_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCavalry/mesomoderncavalry_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -141,9 +141,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluChariot/africanchariot2.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluChariot/africanchariot2.nif</NIF>
 			<KFM>Art/Units/Chariot_European/Chariot_Celtic.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluChariot/africanchariot2_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluChariot/africanchariot2_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/ChariotShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -176,9 +176,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluCrossbow/crossbow.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCrossbow/crossbow.nif</NIF>
 			<KFM>Art/Units/Crossbowman/Crossbowman.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluCrossbow/crossbow.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCrossbow/crossbow.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -200,9 +200,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluCuirass/africanearlycavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCuirass/africanearlycavalry.nif</NIF>
 			<KFM>Art/Units/Unique/Russia/Cossack/RussianCossack.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluCuirass/africanearlycavalry_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluCuirass/africanearlycavalry_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -224,9 +224,9 @@
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluElephant/warelephant_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluElephant/warelephant_fx.nif</NIF>
 			<KFM>Art/Units/ZuluElephant/WarElephant.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluElephant/warelephant_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluElephant/warelephant_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/WarElephantShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -248,9 +248,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluExplorer/ZuluExplore.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluExplorer/ZuluExplore.nif</NIF>
 			<KFM>Art/Units/Warrior/Warrior.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluExplorer/ZuluExplore.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluExplorer/ZuluExplore.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -272,9 +272,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluGrenadier/ethiogrenadierfinal.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluGrenadier/ethiogrenadierfinal.nif</NIF>
 			<KFM>Art/Units/Grenadier/Grenadier.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluGrenadier/ethiogrenadierfinal.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluGrenadier/ethiogrenadierfinal.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -296,9 +296,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluHorseArcher/african_horseman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluHorseArcher/african_horseman.nif</NIF>
 			<KFM>Art/Units/Unique/Persia/Immortal/PersianImmortal.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluHorseArcher/african_horseman_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluHorseArcher/african_horseman_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -320,9 +320,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluInfantry/infantry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluInfantry/infantry.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluInfantry/infantry_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluInfantry/infantry_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -344,9 +344,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluKnight/knight.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluKnight/knight.nif</NIF>
 			<KFM>Art/Units/Charlemagne_HeavyCavalry/HeavyCavalry.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluKnight/knight.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluKnight/knight.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -368,9 +368,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluLongbow/longbow.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluLongbow/longbow.nif</NIF>
 			<KFM>Art/Units/Longbowman/Longbowman.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluLongbow/longbow.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluLongbow/longbow.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -392,9 +392,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluMaceman/zulumace.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMaceman/zulumace.nif</NIF>
 			<KFM>Art/Units/Unique_NativeAmerica_DogSoldier/Dogsoldier.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluMaceman/zulumace.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMaceman/zulumace.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -416,9 +416,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluMachineGun/Machinegunner2.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMachineGun/Machinegunner2.nif</NIF>
 			<KFM>Art/Units/MachineGun/MachineGunner.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluMachineGun/Machinegunner2.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMachineGun/Machinegunner2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -440,9 +440,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluMarine/Marines2.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMarine/Marines2.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluMarine/Marines2.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMarine/Marines2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -464,9 +464,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluMusket/Militia_Musketman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMusket/Militia_Musketman.nif</NIF>
 			<KFM>Art/Units/Musketman/Musketman.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluMusket/Militia_Musketman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluMusket/Militia_Musketman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -488,9 +488,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluParatroop/Paratrooper.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluParatroop/Paratrooper.nif</NIF>
 			<KFM>Art/Units/Paratrooper/Paratrooper.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluParatroop/Paratrooper.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluParatroop/Paratrooper.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>Bip01 Neck</ShadowAttachNode>
@@ -512,9 +512,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluPikeman/zulupike_fx_spearman_animation.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluPikeman/zulupike_fx_spearman_animation.nif</NIF>
 			<KFM>Art/Units/Spearman/Spearman.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluPikeman/zulupike_fx_spearman_animation.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluPikeman/zulupike_fx_spearman_animation.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -536,9 +536,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluRifleman/mesorifleman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluRifleman/mesorifleman.nif</NIF>
 			<KFM>Art/Units/Rifleman/Rifleman.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluRifleman/mesorifleman_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluRifleman/mesorifleman_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -560,9 +560,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluSAM/Saminfantry2.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSAM/Saminfantry2.nif</NIF>
 			<KFM>Art/Units/SAMInfantry/SAMInfantry.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluSAM/Saminfantry2.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSAM/Saminfantry2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -584,9 +584,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluScout/african_scout.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluScout/african_scout.nif</NIF>
 			<KFM>Art/Units/Scout/Scout.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluScout/african_scout.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluScout/african_scout.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -608,9 +608,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluSettler/Settler_Male.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSettler/Settler_Male.nif</NIF>
 			<KFM>Art/Units/Settler/Settler_Male.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluSettler/Settler_Male_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSettler/Settler_Male_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -632,9 +632,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluSettler/Settler_Female.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSettler/Settler_Female.nif</NIF>
 			<KFM>Art/Units/Settler/Settler_Female.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluSettler/Settler_Female_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSettler/Settler_Female_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -656,9 +656,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluSettler/Settler_Child.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSettler/Settler_Child.nif</NIF>
 			<KFM>Art/Units/Settler/Settler_Child.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluSettler/Settler_Child_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSettler/Settler_Child_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -681,9 +681,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluSpearman/real_immortal_nobow.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSpearman/real_immortal_nobow.nif</NIF>
 			<KFM>Art/Units/Unique/Mali/Skirmisher/MaliSkirmisher.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluSpearman/real_immortal_nobow_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSpearman/real_immortal_nobow_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -705,9 +705,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluSwordsman/africansword.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSwordsman/africansword.nif</NIF>
 			<KFM>Art/Units/Scenario/Greek_Hyapist/Greek_Hypaspist.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluSwordsman/africansword_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluSwordsman/africansword_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -729,9 +729,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluWarrior/warrior2.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluWarrior/warrior2.nif</NIF>
 			<KFM>Art/Units/Warrior/Warrior.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluWarrior/warrior2.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluWarrior/warrior2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -753,9 +753,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZuluWorker/worker_african.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluWorker/worker_african.nif</NIF>
 			<KFM>Art/Units/Worker/Worker.kfm</KFM>
-			<SHADERNIF>Art/Units/ZuluWorker/worker_african_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Zulu/ZuluWorker/worker_african_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>

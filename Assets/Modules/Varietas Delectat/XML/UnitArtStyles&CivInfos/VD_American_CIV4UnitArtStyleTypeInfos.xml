@@ -319,14 +319,6 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_AMERICAN_MINUTEMAN</UnitType>
-					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_AMERICA_EARLY</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_AMERICA_EARLY</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_AMERICA_LATE</LateArtDefineTag>
-					</UnitMeshGroup>
-				</StyleUnit>
-				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_AMERICA</EarlyArtDefineTag>

@@ -146,9 +146,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/CEO/Logos/CEO_Cereal.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Cereal.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/CEO/Logos/CEO_Cereal_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Cereal_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -170,9 +170,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/CEO/Logos/CEO_Sushi.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Sushi.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/CEO/Logos/CEO_Sushi_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Sushi_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -194,11 +194,11 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/CEO/Logos/CEO_Ethanol.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Ethanol.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/CEO/Logos/CEO_Ethanol_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Ethanol_FX.nif</SHADERNIF>
 			<ShadowDef>
-			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+			<ShadowNIF>Modules/Varietas Delectat/Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
 			<fShadowScale>1.0</fShadowScale>
 			</ShadowDef>
@@ -218,9 +218,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/CEO/Logos/CEO_Construction.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Construction.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/CEO/Logos/CEO_Construction_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Construction_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -242,9 +242,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/CEO/Logos/CEO_Mining.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Mining.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/CEO/Logos/CEO_Mining_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Mining_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -266,9 +266,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/CEO/Logos/CEO_Aluminum.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Aluminum.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/CEO/Logos/CEO_Aluminum_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Aluminum_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -290,9 +290,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/CEO/Logos/CEO_Jewelry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Jewelry.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/CEO/Logos/CEO_Jewelry_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/CEO/Logos/CEO_Jewelry_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -314,9 +314,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Missionary/Jewish/JewishMissionary.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Jewish/JewishMissionary.nif</NIF>
 			<KFM>Art/Units/Missionary/Jewish/JewishMissionary.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Missionary/Jewish/JewishMissionary_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Jewish/JewishMissionary_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -338,9 +338,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Missionary/Christian/ChristianMissionary.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Christian/ChristianMissionary.nif</NIF>
 			<KFM>Art/Units/Missionary/Christian/ChristianMissionary.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Missionary/Christian/ChristianMissionary_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Christian/ChristianMissionary_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -362,9 +362,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Missionary/Islamic/Islamic_missionary.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Islamic/Islamic_missionary.nif</NIF>
 			<KFM>Art/Units/Missionary/Islamic/Islamic_missionary.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Missionary/Islamic/Islamic_missionary_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Islamic/Islamic_missionary_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -386,9 +386,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Missionary/Hindu/Hindu_Missionary.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Hindu/Hindu_Missionary.nif</NIF>
 			<KFM>Art/Units/Missionary/Hindu/Hindu_Missionary.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Missionary/Hindu/Hindu_Missionary_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Hindu/Hindu_Missionary_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -410,9 +410,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Missionary/Buddhist/Buddhist_missionary.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Buddhist/Buddhist_missionary.nif</NIF>
 			<KFM>Art/Units/Missionary/Buddhist/Buddhist_missionary.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Missionary/Buddhist/Buddhist_missionary_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Buddhist/Buddhist_missionary_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -434,9 +434,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Missionary/Confucian/Confucian_missionary.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Confucian/Confucian_missionary.nif</NIF>
 			<KFM>Art/Units/Missionary/Confucian/Confucian_missionary.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Missionary/Confucian/Confucian_Missionary_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Confucian/Confucian_Missionary_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -458,9 +458,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Missionary/Taoist/TaoistMissionary.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Taoist/TaoistMissionary.nif</NIF>
 			<KFM>Art/Units/Missionary/Taoist/TaoistMissionary.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Missionary/Taoist/TaoistMissionary_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Missionary/Taoist/TaoistMissionary_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -482,9 +482,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/african AncientSpy/AncientSpy.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/african AncientSpy/AncientSpy.nif</NIF>
 			<KFM>Art/Units/AncientSpy/AncientSpy.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/african AncientSpy/AncientSpy_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/african AncientSpy/AncientSpy_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -506,9 +506,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/african Spy/Spy.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/african Spy/Spy.nif</NIF>
 			<KFM>Art/Units/Spy/Spy.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/african Spy/Spy_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/african Spy/Spy_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -532,9 +532,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Prophet/GreatProphet.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Prophet/GreatProphet.nif</NIF>
 			<KFM>Art/Units/GreatPeople/Prophet/GreatProphet.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Prophet/GreatProphet_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Prophet/GreatProphet_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -556,9 +556,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Artist/GreatArtist.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Artist/GreatArtist.nif</NIF>
 			<KFM>Art/Units/GreatPeople/Artist/GreatArtist.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Artist/GreatArtist_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Artist/GreatArtist_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -580,9 +580,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/ModernArtist/ModernArtist.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernArtist/ModernArtist.nif</NIF>
 			<KFM>Art/Units/GreatPeople/ModernArtist/ModernArtist.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/ModernArtist/ModernArtist_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernArtist/ModernArtist_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -604,9 +604,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Scientist/GreatScientistAncient.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Scientist/GreatScientistAncient.nif</NIF>
 			<KFM>Art/Units/GreatPeople/Scientist/GreatScientistAncient.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Scientist/GreatScientistAncient_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Scientist/GreatScientistAncient_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -628,9 +628,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/ModernScientist/ModernScientist.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernScientist/ModernScientist.nif</NIF>
 			<KFM>Art/Units/GreatPeople/ModernScientist/ModernScientist.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/ModernScientist/ModernScientist_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernScientist/ModernScientist_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -652,9 +652,9 @@
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Merchant/GreatMerchantAncient.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Merchant/GreatMerchantAncient.nif</NIF>
 			<KFM>Art/Units/GreatPeople/Merchant/GreatMerchantAncient.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Merchant/GreatMerchantAncient_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Merchant/GreatMerchantAncient_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/GreatMerchantShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -676,9 +676,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/ModernMerchant/ModernMerchant.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernMerchant/ModernMerchant.nif</NIF>
 			<KFM>Art/Units/GreatPeople/ModernMerchant/ModernMerchant.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/ModernMerchant/ModernMerchant_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernMerchant/ModernMerchant_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -700,9 +700,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Engineer/Engineer.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Engineer/Engineer.nif</NIF>
 			<KFM>Art/Units/GreatPeople/Engineer/Engineer.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Engineer/Engineer_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Engineer/Engineer_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -724,9 +724,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/ModernEngineer/GreatEngineerModern.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernEngineer/GreatEngineerModern.nif</NIF>
 			<KFM>Art/Units/GreatPeople/ModernEngineer/GreatEngineerModern.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/ModernEngineer/GreatEngineerModern_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/ModernEngineer/GreatEngineerModern_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -748,9 +748,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Great_Spy_Modern/Great_Spy_Modern.nif</NIF>
-			<KFM>Art/Units/Great_Spy_Modern/Great_Spy_Modern.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Great_Spy_Modern/Great_Spy_Modern_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Great_Spy_Modern/Great_Spy_Modern.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Modern/Great_Spy_Modern.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Great_Spy_Modern/Great_Spy_Modern_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -772,9 +772,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Warlord_Ancient/warlord_ancient_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Warlord_Ancient/warlord_ancient_fx.nif</NIF>
 			<KFM>Art/Units/Warlord_Ancient/Warlord_Ancient.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Warlord_Ancient/Warlord_Ancient_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Warlord_Ancient/Warlord_Ancient_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -796,9 +796,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Warlord_MiddleAge/Warlord_MiddleAge.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Warlord_MiddleAge/Warlord_MiddleAge.nif</NIF>
 			<KFM>Art/Units/Warlord_MiddleAge/Warlord_MiddleAge.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Warlord_MiddleAge/Warlord_MiddleAge_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Warlord_MiddleAge/Warlord_MiddleAge_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -820,9 +820,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/GreatPeople/Warlord_Modern/Warlord_Modern.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Warlord_Modern/Warlord_Modern.nif</NIF>
 			<KFM>Art/Units/Warlord_Modern/Warlord_Modern.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/GreatPeople/Warlord_Modern/Warlord_Modern_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/GreatPeople/Warlord_Modern/Warlord_Modern_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -845,9 +845,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Explorer/Explorer_African.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Explorer/Explorer_African.nif</NIF>
 			<KFM>Art/Units/Explorer/Explorer.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Explorer/Explorer_African_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Explorer/Explorer_African_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -869,9 +869,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Settler/african_settler.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Settler/african_settler.nif</NIF>
 			<KFM>Art/Units/Settler/Settler_Male.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Settler/african_settler.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Settler/african_settler.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -893,9 +893,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Settler/settler_female.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Settler/settler_female.nif</NIF>
 			<KFM>Art/Units/Settler/Settler_Female.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Settler/settler_female_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Settler/settler_female_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -917,9 +917,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Settler/settler_child.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Settler/settler_child.nif</NIF>
 			<KFM>Art/Units/Settler/Settler_Child.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Settler/settler_child_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Settler/settler_child_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -942,9 +942,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Worker/worker_african.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Worker/worker_african.nif</NIF>
 			<KFM>Art/Units/Worker/Worker.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Worker/worker_african_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Worker/worker_african_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -966,9 +966,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/african medievalworker/worker_african.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/african medievalworker/worker_african.nif</NIF>
 			<KFM>Art/Units/Unique/India/Worker/IndianFastWorker.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/african medievalworker/worker_african.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/african medievalworker/worker_african.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -990,9 +990,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Modernworker/africanmodernworker.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Modernworker/africanmodernworker.nif</NIF>
 			<KFM>Art/Units/ModernWorker/ModernWorker.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Modernworker/africanmodernworker_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Modernworker/africanmodernworker_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1014,9 +1014,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Scout/african_scout.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Scout/african_scout.nif</NIF>
 			<KFM>Art/Units/Scout/Scout.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Scout/african_scout.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Scout/african_scout.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1228,9 +1228,9 @@
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African War Elephant/WarElephant_African.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African War Elephant/WarElephant_African.nif</NIF>
 			<KFM>Art/Units/WarElephant_Carthage/WarElephant_Carthage.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African War Elephant/WarElephant_African_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African War Elephant/WarElephant_African_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/WarElephantShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1964,9 +1964,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/Askari/Askari.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/Askari/Askari.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/Askari/Askari_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/Askari/Askari_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1988,9 +1988,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/King's African Rifles/KAR.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/King's African Rifles/KAR.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/King's African Rifles/KAR_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/King's African Rifles/KAR_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -2012,9 +2012,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Machinegun/africanmachinegunner.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Machinegun/africanmachinegunner.nif</NIF>
 			<KFM>Art/Units/MachineGun/MachineGunner.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Machinegun/africanmachinegunner_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Machinegun/africanmachinegunner_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -2036,9 +2036,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African SAMInfantry/africansaminfantry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African SAMInfantry/africansaminfantry.nif</NIF>
 			<KFM>Art/Units/SAMInfantry/SAMInfantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African SAMInfantry/africansaminfantry_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African SAMInfantry/africansaminfantry_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -2060,9 +2060,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Modern Infantry/africanmoderninfantry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Infantry/africanmoderninfantry.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Modern Infantry/africanmoderninfantry_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Infantry/africanmoderninfantry_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -2084,9 +2084,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African antitank/WWAntiTankInfantry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African antitank/WWAntiTankInfantry.nif</NIF>
 			<KFM>Art/Units/AntiTankInfantry/WWAntiTankInfantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African antitank/WWAntiTankInfantry_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African antitank/WWAntiTankInfantry_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -2108,9 +2108,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African paratrooper/Paratrooper.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African paratrooper/Paratrooper.nif</NIF>
 			<KFM>Art/Units/Paratrooper/Paratrooper.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African paratrooper/Paratrooper_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African paratrooper/Paratrooper_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>Bip01 Neck</ShadowAttachNode>
@@ -2132,9 +2132,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Modern Settlers/Settler_African_Male.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Settlers/Settler_African_Male.nif</NIF>
 			<KFM>Art/Units/CEO/CEO.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Modern Settlers/Settler_African_Male_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Settlers/Settler_African_Male_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -2156,9 +2156,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Modern Settlers/Settler_African_Female_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Settlers/Settler_African_Female_fx.nif</NIF>
 			<KFM>Art/Units/Settler_South_America/Settler_Female.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Modern Settlers/Settler_African_Female_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Settlers/Settler_African_Female_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -2180,9 +2180,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Africa/African Modern Settlers/Settler_African_Child.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Settlers/Settler_African_Child.nif</NIF>
 			<KFM>Art/Units/ModernWorker/ModernWorker.kfm</KFM>
-			<SHADERNIF>Art/Units/Africa/African Modern Settlers/Settler_African_Child_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Africa/African Modern Settlers/Settler_African_Child_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -35936,7 +35936,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/Generic/African Spy/Great_Spy_Ancient_FX.nif</NIF>
-			<KFM>Art/Units/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/African Spy/Great_Spy_Ancient_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
@@ -36367,9 +36367,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Great_Spy_Ancient/Great_Spy_Ancient_FX.nif</NIF>
-			<KFM>Art/Units/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
-			<SHADERNIF>Art/Units/Great_Spy_Ancient/Great_Spy_Ancient_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient_FX.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>

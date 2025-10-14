@@ -17,9 +17,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Settler/Male/settler_male.nif</NIF>
-			<KFM>Art/Units/Italian Settler/Male/settler_male.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Settler/Male/settler_male_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Male/settler_male.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Male/settler_male.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Male/settler_male_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -41,9 +41,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Settler/Female/settler_female.nif</NIF>
-			<KFM>Art/Units/Italian Settler/Female/settler_female.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Settler/Female/settler_female_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Female/settler_female.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Female/settler_female.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Female/settler_female_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -65,9 +65,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Settler/Child/settler_child.nif</NIF>
-			<KFM>Art/Units/Italian Settler/Child/settler_child.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Settler/Child/settler_child_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Child/settler_child.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Child/settler_child.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Child/settler_child_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -89,9 +89,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Settler/Cattle/Ox.nif</NIF>
-			<KFM>Art/Units/Italian Settler/Cattle/SupplyTrain.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Settler/Cattle/Ox.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Cattle/Ox.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Cattle/SupplyTrain.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Cattle/Ox.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -113,9 +113,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Settler/Cow/Ox.nif</NIF>
-			<KFM>Art/Units/Italian Settler/Cow/SupplyTrain.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Settler/Cow/Ox.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Cow/Ox.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Cow/SupplyTrain.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Cow/Ox.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -137,9 +137,9 @@
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Settler/Wolf/wolf.nif</NIF>
-			<KFM>Art/Units/Italian Settler/Wolf/wolf.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Settler/Wolf/wolf_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Wolf/wolf.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Wolf/wolf.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Settler/Wolf/wolf_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/WolfShadow.nif</ShadowNIF>
 				<ShadowAttachNode>LionBip Spine</ShadowAttachNode>
@@ -161,9 +161,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Worker/worker.nif</NIF>
-			<KFM>Art/Units/Italian Worker/anim/Worker.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Worker/worker_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Worker/worker.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Worker/anim/Worker.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Worker/worker_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -185,9 +185,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Scout/scout.nif</NIF>
-			<KFM>Art/Units/Italian Scout/anim/scout.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Scout/scout_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Scout/scout.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Scout/anim/scout.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Scout/scout_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -209,9 +209,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Spy ancient/ancient_spy.nif</NIF>
-			<KFM>Art/Units/Italian Spy ancient/anim/ancient_spy.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Spy ancient/ancient_spy_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spy ancient/ancient_spy.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Spy ancient/anim/ancient_spy.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spy ancient/ancient_spy_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -233,9 +233,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Spy modern/Great_Spy_Modern_FX.nif</NIF>
-			<KFM>Art/Units/Great_Spy_Modern/Great_Spy_Modern.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Spy modern/Great_Spy_Modern_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spy modern/Great_Spy_Modern_FX.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Modern/Great_Spy_Modern.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spy modern/Great_Spy_Modern_FX.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -257,9 +257,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian warrior/warrior.nif</NIF>
-			<KFM>Art/Units/Italian warrior/anim/warrior.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian warrior/warrior_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian warrior/warrior.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian warrior/anim/warrior.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian warrior/warrior_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -281,9 +281,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Archer/archer.nif</NIF>
-			<KFM>Art/Units/Italian Archer/anim/archer.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Archer/archer_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Archer/archer.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Archer/anim/archer.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Archer/archer_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -305,9 +305,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Horsearcher/horsearcher.nif</NIF>
-			<KFM>Art/Units/Italian Horsearcher/anim/horsearcher_2.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Horsearcher/horsearcher_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Horsearcher/horsearcher.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Horsearcher/anim/horsearcher_2.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Horsearcher/horsearcher_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -329,9 +329,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Spearman/spearman.nif</NIF>
-			<KFM>Art/Units/Italian Spearman/anim/spearman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Spearman/spearman_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spearman/spearman.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Spearman/anim/spearman.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spearman/spearman_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -353,9 +353,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Spearman medieval/spearman_caucasian.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spearman medieval/spearman_caucasian.nif</NIF>
 			<KFM>Art/Units/Spearman/Spearman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Spearman medieval/spearman_caucasian_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Spearman medieval/spearman_caucasian_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -377,9 +377,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Swordsman/Militia.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Swordsman/Militia.nif</NIF>
 			<KFM>Art/Units/Warrior/Warrior.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Swordsman/Militia.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Swordsman/Militia.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -401,9 +401,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Swordsman medieval/Medieval_Militia_Swordsman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Swordsman medieval/Medieval_Militia_Swordsman.nif</NIF>
 			<KFM>Art/Units/Scenario/Knigts_templar/knightstemplar.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Swordsman medieval/Medieval_Militia_Swordsman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Swordsman medieval/Medieval_Militia_Swordsman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -425,9 +425,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Chariot/chariot.nif</NIF>
-			<KFM>Art/Units/Italian Chariot/anim_gr/chariot.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Chariot/chariot_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Chariot/chariot.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Chariot/anim_gr/chariot.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Chariot/chariot_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/ChariotShadow.nif</ShadowNIF>
 				<ShadowAttachNode>Chariot_Chariot</ShadowAttachNode>
@@ -460,9 +460,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Axeman/axeman.nif</NIF>
-			<KFM>Art/Units/Italian Axeman/anim_berserk/axeman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Axeman/axeman_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Axeman/axeman.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Axeman/anim_berserk/axeman.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Axeman/axeman_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -484,9 +484,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Axeman 2/Militia_axeman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Axeman 2/Militia_axeman.nif</NIF>
 			<KFM>Art/Units/Swordsman/Swordsman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Axeman 2/Militia_axeman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Axeman 2/Militia_axeman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -508,9 +508,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Axeman medieval/Medieval_Militia_Axeman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Axeman medieval/Medieval_Militia_Axeman.nif</NIF>
 			<KFM>Art/Units/Swordsman/Swordsman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Axeman medieval/Medieval_Militia_Axeman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Axeman medieval/Medieval_Militia_Axeman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -532,9 +532,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Heavy Footman/ItalyHeavyFootfinal.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Heavy Footman/ItalyHeavyFootfinal.nif</NIF>
 			<KFM>Art/Units/Swordsman/Swordsman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Heavy Footman/ItalyHeavyFootfinal.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Heavy Footman/ItalyHeavyFootfinal.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -556,9 +556,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Pikeman/italypikemanx_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Pikeman/italypikemanx_fx.nif</NIF>
 			<KFM>Art/Units/Pikeman/Pikeman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Pikeman/italypikemanx_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Pikeman/italypikemanx_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -580,9 +580,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Longbowman/italylongbowman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Longbowman/italylongbowman.nif</NIF>
 			<KFM>Art/Units/Longbowman/Longbowman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Longbowman/italylongbowman.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Longbowman/italylongbowman.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -604,9 +604,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Crossbowman/italycrossbowmanfinal.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Crossbowman/italycrossbowmanfinal.nif</NIF>
 			<KFM>Art/Units/Crossbowman/Crossbowman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Crossbowman/italycrossbowmanfinal.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Crossbowman/italycrossbowmanfinal.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -628,9 +628,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Knight/italyknightfinal_fx.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Knight/italyknightfinal_fx.nif</NIF>
 			<KFM>Art/Units/Knight/Knight.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Knight/italyknightfinal_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Knight/italyknightfinal_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -652,9 +652,9 @@
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian War Elephant/WarElephant_African.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian War Elephant/WarElephant_African.nif</NIF>
 			<KFM>Art/Units/WarElephant_Greco_Roman/WarElephant_Carthage.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian War Elephant/WarElephant_African_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian War Elephant/WarElephant_African_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/WarElephantShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -676,9 +676,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Musketman/gun.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Musketman/gun.nif</NIF>
 			<KFM>Art/Units/Unique/England/Redcoat/redcoat.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Musketman/gun.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Musketman/gun.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -700,9 +700,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Rifleman/alpinirifleman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Rifleman/alpinirifleman.nif</NIF>
 			<KFM>Art/Units/Rifleman/Rifleman.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Rifleman/alpinirifleman_fx.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Rifleman/alpinirifleman_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -724,9 +724,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Grenadier/italiangrenadierblackuniformnew.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Grenadier/italiangrenadierblackuniformnew.nif</NIF>
 			<KFM>Art/Units/Grenadier/Grenadier.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Grenadier/italiangrenadierblackuniformnew.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Grenadier/italiangrenadierblackuniformnew.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -748,9 +748,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Paratrooper/Paratrooper.nif</NIF>
-			<KFM>Art/Units/Italian Paratrooper/Paratrooper.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Paratrooper/Paratrooper_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Paratrooper/Paratrooper.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Paratrooper/Paratrooper.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Paratrooper/Paratrooper_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>Bip01 Neck</ShadowAttachNode>
@@ -772,9 +772,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Cavalry/Italiancavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Cavalry/Italiancavalry.nif</NIF>
 			<KFM>Art/Units/Cavalry/Cavalry.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Cavalry/Italiancavalry.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Cavalry/Italiancavalry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>
@@ -796,9 +796,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Marine/marines.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Marine/marines.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Marine/marines.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Marine/marines.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -820,9 +820,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Modern Infantry/marines.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Modern Infantry/marines.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Modern Infantry/marines.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Modern Infantry/marines.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -838,155 +838,15 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_LANCIA_IZ_ITALIAN</Type>
-			<Button>Art/units/Italian Armoured Car/ButtonLanciaItaly.dds</Button>
-			<fScale>0.4</fScale>
-			<fInterfaceScale>0.9</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Art/units/Italian Armoured Car/LanciaIZ/Lancia1Z.nif</NIF>
-			<KFM>Art/units/Italian Armoured Car/LanciaIZ/Lancia1Z.kfm</KFM>
-			<SHADERNIF>Art/units/Italian Armoured Car/LanciaIZ/Lancia1Z.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>1.0</fShadowScale>
-			</ShadowDef>
-			<iDamageStates>4</iDamageStates>
-			<TrailDefinition>
-				<Texture>Art/Shared/tanktread.dds</Texture>
-				<fWidth>1.0</fWidth>
-				<fLength>180.0</fLength>
-				<fTaper>0.0</fTaper>
-				<fFadeStartTime>0.2</fFadeStartTime>
-				<fFadeFalloff>0.35</fFadeFalloff>
-			</TrailDefinition>
-			<fBattleDistance>0.5</fBattleDistance>
-			<fRangedDeathTime>0.12</fRangedDeathTime>
-			<bActAsRanged>1</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop>SND_FT17_LOOP</AudioRunTypeLoop>
-				<AudioRunTypeEnd>SND_FT17_END</AudioRunTypeEnd>
-			</AudioRunSounds>
-			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
-			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
-		</UnitArtInfo>
-		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_HUMVEE_ITALIAN</Type>
-			<Button>Art/Buttons/Units/Humvee.dds</Button>
-			<fScale>0.42</fScale>
-			<fInterfaceScale>0.9</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian HUMVEE/HUMVEE.nif</NIF>
-			<KFM>Art/Units/Italian HUMVEE/HUMVEE.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian HUMVEE/HUMVEE.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>1.0</fShadowScale>
-			</ShadowDef>
-			<iDamageStates>4</iDamageStates>
-			<TrailDefinition>
-				<Texture>Art/Shared/tanktread.dds</Texture>
-				<fWidth>1.0</fWidth>
-				<fLength>180.0</fLength>
-				<fTaper>0.0</fTaper>
-				<fFadeStartTime>0.2</fFadeStartTime>
-				<fFadeFalloff>0.35</fFadeFalloff>
-			</TrailDefinition>
-			<fBattleDistance>0.5</fBattleDistance>
-			<fRangedDeathTime>0.12</fRangedDeathTime>
-			<bActAsRanged>1</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
-				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
-			</AudioRunSounds>
-			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
-			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
-		</UnitArtInfo>
-		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_LIGHT_TANK_ITALIAN</Type>
-			<Button>Art/Units/Italian light Tank/Tank_Button_Rome.dds</Button>
-			<fScale>0.53</fScale>
-			<fInterfaceScale>0.9</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian light Tank/l640.nif</NIF>
-			<KFM>Art/Units/Italian light Tank/l640.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian light Tank/l640.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>1.0</fShadowScale>
-			</ShadowDef>
-			<iDamageStates>4</iDamageStates>
-			<TrailDefinition>
-				<Texture>Art/Shared/tanktread.dds</Texture>
-				<fWidth>0.8</fWidth>
-				<fLength>180.0</fLength>
-				<fTaper>0.0</fTaper>
-				<fFadeStartTime>0.2</fFadeStartTime>
-				<fFadeFalloff>0.35</fFadeFalloff>
-			</TrailDefinition>
-			<fBattleDistance>0.5</fBattleDistance>
-			<fRangedDeathTime>0.12</fRangedDeathTime>
-			<bActAsRanged>1</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
-				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
-			</AudioRunSounds>
-			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
-			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
-		</UnitArtInfo>
-		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MEDIUM_TANK_ITALIAN</Type>
-			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
-			<fScale>0.63</fScale>
-			<fInterfaceScale>0.9</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian medium Tank/Fiat.nif</NIF>
-			<KFM>Art/Units/Italian medium Tank/Fiat.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian medium Tank/Fiat.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>0.1</fShadowScale>
-			</ShadowDef>
-			<iDamageStates>4</iDamageStates>
-			<TrailDefinition>
-				<Texture>Art/Shared/tanktread.dds</Texture>
-				<fWidth>0.8</fWidth>
-				<fLength>180.0</fLength>
-				<fTaper>0.0</fTaper>
-				<fFadeStartTime>0.2</fFadeStartTime>
-				<fFadeFalloff>0.35</fFadeFalloff>
-			</TrailDefinition>
-			<fBattleDistance>0.5</fBattleDistance>
-			<fRangedDeathTime>0.12</fRangedDeathTime>
-			<bActAsRanged>1</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
-				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
-			</AudioRunSounds>
-			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
-			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
-		</UnitArtInfo>
-		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MECHINF_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/MechanizedInfantry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,8,8</Button>
 			<fScale>0.53</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Mechanized Infantry/mechanizedinfantry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Mechanized Infantry/mechanizedinfantry.nif</NIF>
 			<KFM>Art/Units/Mechanizedinfantry/Mechanizedinfantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Mechanized Infantry/mechanizedinfantry.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Mechanized Infantry/mechanizedinfantry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/MechInfantryShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1017,9 +877,9 @@
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Submarine/Marconi.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Submarine/Marconi.nif</NIF>
 			<KFM>Art/Units/Submarine/Submarine.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Submarine/Marconi.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Submarine/Marconi.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1047,9 +907,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Early Fighter/spadxiii.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Early Fighter/spadxiii.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Early Fighter/spadxiii.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Early Fighter/spadxiii.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1077,9 +937,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Early Bomber/Capronica3.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Early Bomber/Capronica3.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Early Bomber/Capronica3.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Early Bomber/Capronica3.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1107,9 +967,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Fighter/G55.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Fighter/G55.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Fighter/G55.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Fighter/G55.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1131,45 +991,15 @@
 			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_AMBROSINI_SV15</Type>
-			<Button>Art/Units/Italian Early Jet Fighter/button_caproni_campini.dds</Button>
-			<fScale>0.69</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Early Jet Fighter/Yak_15.nif</NIF>
-			<KFM>Art/Units/JetFighter/JetFighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Early Jet Fighter/Yak_15.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/JetFighterShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>0.60</fShadowScale>
-			</ShadowDef>
-			<iDamageStates>4</iDamageStates>
-			<fBattleDistance>0.35</fBattleDistance>
-			<fRangedDeathTime>0.31</fRangedDeathTime>
-			<bSmoothMove>1</bSmoothMove>
-			<fBankRate>0.35</fBankRate>
-			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop/>
-				<AudioRunTypeEnd/>
-			</AudioRunSounds>
-			<PatrolSound>AS3D_UN_JET_PATROL</PatrolSound>
-			<SelectionSound>AS3D_UN_JET_COMMAND_PATROL</SelectionSound>
-			<ActionSound>AS3D_UN_JET_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>
-		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_BOMBER_ITALIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
 			<fScale>0.50</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Bomber/b17g.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Bomber/b17g.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Bomber/b17g.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Bomber/b17g.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1197,39 +1027,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian supersonic Jet Fighter/Tornado.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian supersonic Jet Fighter/Tornado.nif</NIF>
 			<KFM>Art/Units/JetFighter/JetFighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian supersonic Jet Fighter/Tornado.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/JetFighterShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>0.75</fShadowScale>
-			</ShadowDef>
-			<iDamageStates>4</iDamageStates>
-			<fBattleDistance>0.35</fBattleDistance>
-			<fRangedDeathTime>0.31</fRangedDeathTime>
-			<bSmoothMove>1</bSmoothMove>
-			<fBankRate>0.35</fBankRate>
-			<bActAsRanged>0</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop/>
-				<AudioRunTypeEnd/>
-			</AudioRunSounds>
-			<PatrolSound>AS3D_UN_JET_PATROL</PatrolSound>
-			<SelectionSound>AS3D_UN_JET_COMMAND_PATROL</SelectionSound>
-			<ActionSound>AS3D_UN_JET_COMMAND_PATROL</ActionSound>
-		</UnitArtInfo>
-		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_EUROFIGHTER2</Type>
-			<Button>Art/Units/Italian Jet Fighter/ButtonEurofighterItaly.dds</Button>
-			<fScale>0.545</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Jet Fighter/Eurofighter.nif</NIF>
-			<KFM>Art/Units/JetFighter/JetFighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Jet Fighter/Eurofighter.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian supersonic Jet Fighter/Tornado.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/JetFighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1257,9 +1057,9 @@
 			<fInterfaceScale>0.7</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Gunship/tiger.nif</NIF>
-			<KFM>Art/Units/Italian Gunship/tiger.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Gunship/tiger.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Gunship/tiger.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Gunship/tiger.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Gunship/tiger.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/GunshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1284,9 +1084,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Warlord modern/Mannerheim.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Warlord modern/Mannerheim.nif</NIF>
 			<KFM>Art/Units/Warlord_Modern/Warlord_Modern.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Warlord modern/Mannerheim.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Warlord modern/Mannerheim.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -1308,8 +1108,8 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Workboat/EE2_WhalingBoat.nif</NIF>
-			<KFM>Art/Units/Italian Workboat/EE2_WhalingBoat.kfm</KFM>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Workboat/EE2_WhalingBoat.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Workboat/EE2_WhalingBoat.kfm</KFM>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/WorkboatShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1340,14 +1140,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_GALLEY</Type>
-			<Button>Art/Units/Italian Galley/EE2_AncientMerchant_Button.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Galley.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,9</Button>
 			<fScale>0.23</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Galley/EE2_AncientMerchant.nif</NIF>
-			<KFM>Art/Units/Italian Galley/EE2_AncientMerchant.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Galley/EE2_AncientMerchant_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Galley/EE2_AncientMerchant.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Galley/EE2_AncientMerchant.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Galley/EE2_AncientMerchant_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/GalleyShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1384,9 +1184,9 @@
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Galleas/ee2_galleas.nif</NIF>
-			<KFM>Art/Units/Italian Galleas/ee2_galleas.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Galleas/ee2_galleas_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Galleas/ee2_galleas.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Galleas/ee2_galleas.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Galleas/ee2_galleas_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/IroncladShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1423,9 +1223,9 @@
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Caravel/EE2_Caravel.nif</NIF>
-			<KFM>Art/Units/Italian Caravel/EE2_Caravel.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Caravel/EE2_Caravel_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Caravel/EE2_Caravel.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Caravel/EE2_Caravel.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Caravel/EE2_Caravel_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CaravelShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1457,14 +1257,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ITALIAN_GALLEON</Type>
-			<Button>Art/Units/Italian Galleon/EE2_Carrack_Button.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Galleon.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,9</Button>
 			<fScale>0.21</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Galleon/EE2_Carrack.nif</NIF>
-			<KFM>Art/Units/Italian Galleon/EE2_Carrack.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Galleon/EE2_Carrack_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Galleon/EE2_Carrack.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Galleon/EE2_Carrack.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Galleon/EE2_Carrack_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/GalleonShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1501,9 +1301,9 @@
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Frigate/frigate.nif</NIF>
-			<KFM>Art/Units/Italian Frigate/frigate.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Frigate/frigate_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Frigate/frigate.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Frigate/frigate.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Frigate/frigate_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FrigateShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -1540,9 +1340,9 @@
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Italian Ship of the Line/Ship_of_the_Line.nif</NIF>
-			<KFM>Art/Units/Italian Ship of the Line/Ship_of_the_Line.kfm</KFM>
-			<SHADERNIF>Art/Units/Italian Ship of the Line/Ship_of_the_Line_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Ship of the Line/Ship_of_the_Line.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Italy/Italian Ship of the Line/Ship_of_the_Line.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Italy/Italian Ship of the Line/Ship_of_the_Line_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FrigateShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
