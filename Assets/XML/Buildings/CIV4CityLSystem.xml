@@ -1316,131 +1316,43 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<!-- 1x1 INDIAN ANCIENT/CLASSICAL -->
-		<ArtRef Name="generic:an_egypt.nif::1x1_01">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+		<!-- 1x1 INDIAN -->
+		<ArtRef Name="generic:India_Ancient.nif::1x1_02">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
+			<Scale>0.6</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_02">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+		<ArtRef Name="generic:India_Ancient.nif::1x2_02">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
+			<Scale>0.6</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_03">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+		<ArtRef Name="generic:India_Ancient.nif::1x2_03">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
+			<Scale>0.6</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_04">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_05">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_06">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_07">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_08">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x1_09">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<!-- 1x1 INDIAN MEDIEVAL Leoreth: also classical -->
-		<ArtRef Name="generic:med_egypt.nif::1x1x2_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_egypt.nif::1x1x2_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_egypt.nif::1x1x1_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_SouthEastAsia.nif::1x1_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+		<ArtRef Name="generic:India_Medieval.nif::1x1_02">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.2</Scale>
+			<Scale>0.7</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:med_SouthEastAsia.nif::2x1_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+		<ArtRef Name="generic:India_Medieval.nif::1x1_04">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-		</ArtRef> 
-		<!-- 1x1 INDIAN RENAISSANCE/INDUSTRIAL/MODERN -->
-		<ArtRef Name="generic:ren_eastern.nif::1x1_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
+			<Scale>0.5</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:Arabia_Renaissance.nif::1x1x1_02">
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::1x1_03">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x1_01">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x1_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.2</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x1_03">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x1_04">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::2x1_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-		</ArtRef> 
 		<!-- 1x1 INCA/PACIFIC ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_South_America.nif::1x1_03">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -4451,172 +4363,48 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<!-- 2x1 INDIAN ANCIENT/CLASSICAL -->
-		<ArtRef Name="generic:an_egypt.nif::2x1_01">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::2x1_02">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::2x1_03">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::2x1_04">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x2_01">
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x2_02">
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<!-- 2x1 INDIAN MEDIEVAL Leoreth: also Classical -->
-		<ArtRef Name="generic:med_egypt.nif::1x2x2_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+		<!-- 2x1 INDIAN -->
+		<ArtRef Name="generic:India_Ancient.nif::2x2_01">
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:med_egypt.nif::1x2x2_03">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_egypt.nif::2x1x2_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+		<ArtRef Name="generic:India_Ancient.nif::2x2_01">
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
+			<Rotate>270</Rotate>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:med_egypt.nif::2x1x2_04">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+		<ArtRef Name="generic:India_Ancient.nif::2x2_04">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
+			<Scale>0.6</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:med_SouthEastAsia.nif::2x1_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+		<ArtRef Name="generic:India_Medieval.nif::2x2_02">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-		</ArtRef> 
-		<ArtRef Name="generic:med_SouthEastAsia.nif::2x1_03">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Scale>0.7</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:Arabia_Renaissance.nif::1x2x2_01">
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-		</ArtRef> 
-		<!-- 2x1 INDIAN RENAISSANCE/INDUSTRIAL/MODERN -->
-		<ArtRef Name="generic:ren_eastern.nif::2x1_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.0</Scale>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::2x1_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
+		<ArtRef Name="generic:Arabia_Renaissance.nif::1x2x2_01">
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::2x1_04">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::1x2_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Scale>1.2</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::1x2_04">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x2_01">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x2_02">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x2_03">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x2_05">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::2x1_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::2x1_03">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::2x1_05">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
+			<Rotate>90</Rotate>
+			<Scale>0.8</Scale>
 		</ArtRef>
 		<!-- 2x1 INCA ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_South_America.nif::1x2_01">
@@ -5899,48 +5687,6 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
-		<!-- 3x1 INDIAN ANCIENT/CLASSICAL -->
-		<ArtRef Name="generic:an_egypt.nif::3x1_01">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_egypt.nif::1x3_01">
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<!-- 3x1 INDIAN MEDIEVAL Leoreth: also Classical -->
-		<ArtRef Name="generic:med_egypt.nif::2x1x2_03">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<!-- 3x1 INDIAN RENAISSANCE/INDUSTRIAL/MODERN -->
-		<ArtRef Name="generic:ren_eastern.nif::3x1_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::1x3_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::1x3_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-		</ArtRef>
 		<!-- 3x1 INCA ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_South_America.nif::1x3_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
@@ -6754,63 +6500,30 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		
-		<!-- 2x2 INDIAN ANCIENT/CLASSICAL -->
-		<ArtRef Name="generic:an_egypt.nif::2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+		<!-- 2x2 INDIAN -->
+		<ArtRef Name="generic:India_Ancient.nif::1x2_04">
+			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:India_Ancient.nif::2x2_03">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<!-- 2x2 INDIAN MEDIEVAL Leoreth: also Classical -->
-		<ArtRef Name="generic:med_egypt.nif::2x2x2_01">
+		<ArtRef Name="generic:India_Medieval.nif::1x2_01">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<!-- 2x2 INDIAN RENAISSANCE/INDUSTRIAL/MODERN -->
-		<ArtRef Name="generic:ren_eastern.nif::2x2_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::2x2_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.9</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_eastern.nif::2x2_03">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::1x2_04">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-<!--			<Attribute Class="Rotation">0,180</Attribute> -->
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Rotate>270</Rotate>
-			<Scale>1.3</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::2x2_01">
-			<Attribute Class="Era">ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="ArtStyle">ERA_CLASSICAL,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::2x2_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
+		<ArtRef Name="generic:India_Medieval.nif::1x2_03">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:mod_India.nif::2x2_03">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>1.2</Scale>
+			<Scale>0.8</Scale>
 		</ArtRef>
 		<!-- 2x2 IBERIAN CLASSICAL -->
 		<ArtRef Name="generic:clas_Iberia.nif::2x2_01">

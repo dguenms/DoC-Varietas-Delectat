@@ -2268,140 +2268,58 @@
 		</ArtRef>
 		<!-- 1x1 INDIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_01</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Ancient.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Ancient</Attribute>
+			<Scale>0.2</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_02</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Ancient.nif::1x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Ancient</Attribute>
+			<Scale>0.2</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_03</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Ancient.nif::1x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Ancient</Attribute>
+			<Scale>0.2</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_04</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Medieval.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Medieval</Attribute>
+			<Scale>0.2</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_05</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Medieval.nif::1x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Medieval</Attribute>
+			<Scale>0.15</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_06</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Arabia_Renaissance.nif::1x1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_07</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_08</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x1_09</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<!-- 1x1 INDIAN MEDIEVAL -->
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_egypt.nif::1x1x2_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_egypt.nif::1x1x2_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_egypt.nif::1x1x1_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_SouthEastAsia.nif::1x1_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
-			<Scale>0.35</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_SouthEastAsia.nif::1x1_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
-			<Scale>0.32</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_SouthEastAsia.nif::2x1_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
-			<Scale>0.32</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_Arabia_Renaissance</Attribute>
+			<Scale>0.9</Scale>
 		</ArtRef>
 		<!-- 1x1 INDIAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="art:building">
@@ -6416,135 +6334,65 @@
 		</ArtRef>
 		<!-- 2x1 INDIAN ANCIENT/CLASSICAL -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::2x1_01</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Ancient.nif::2x2_01</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Ancient</Attribute>
+			<Scale>0.25</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::2x1_02</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Ancient.nif::2x2_01</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Ancient</Attribute>
+			<Rotate>270</Rotate>
+			<Scale>0.25</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::2x1_03</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Ancient.nif::2x2_04</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Ancient</Attribute>
+			<Scale>0.2</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL,ERA_DIGITAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::2x1_04</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT<!--,ERA_CLASSICAL--></Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x2_01</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/India_Medieval.nif::2x2_02</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_India_Medieval</Attribute>
+			<Scale>0.2</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_egypt.nif::1x2_02</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Arabia_Renaissance.nif::1x2x2_01</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<!-- 2x1 INDIAN MEDIEVAL -->
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_egypt.nif::1x2x2_01</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
-			<Scale>0.31</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_Arabia_Renaissance</Attribute>
+			<Scale>0.25</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_egypt.nif::1x2x2_03</Attribute>
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_egypt.nif::2x1x2_02</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Arabia_Renaissance.nif::1x2x2_01</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_egypt.nif::2x1x2_04</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_egypt</Attribute>
-			<Scale>0.31</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_SouthEastAsia.nif::2x1_01</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
-			<Scale>0.32</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_SouthEastAsia.nif::2x1_02</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
-			<Scale>0.35</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_SouthEastAsia.nif::2x1_03</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_SouthEastAsia</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_Arabia_Renaissance</Attribute>
+			<Rotate>90</Rotate>
+			<Scale>0.25</Scale>
 		</ArtRef>
 		<!-- 2x1 INDIAN RENAISSANCE/INDUSTRIAL/MODERN -->
 		<ArtRef Name="art:building">
