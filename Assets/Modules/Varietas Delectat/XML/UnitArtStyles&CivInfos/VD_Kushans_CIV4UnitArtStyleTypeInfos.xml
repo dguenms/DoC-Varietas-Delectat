@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization Infos -->
+<Civ4UnitArtStyleTypeInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
+	<UnitArtStyleTypeInfos>
+<!--________________________________________________________________________________________________________________________________________________-->
+<!--                                                                                                                                                -->
+<!-- VD mod BEGIN Kushan ArtStyle                                                                                                                   -->
+<!--________________________________________________________________________________________________________________________________________________-->
+		<UnitArtStyleTypeInfo>
+			<Type>UNIT_ARTSTYLE_KUSHAN</Type>
+			<StyleUnits>
+
+				<StyleUnit>
+					<UnitType>UNIT_SETTLER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_STEPPE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_MALE_STEPPE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_STEPPE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_FEMALE_STEPPE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_STEPPE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SETTLER_CHILD_STEPPE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_DONKEY</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WORKER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORKER_STEPPE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORKER_MEDIEVAL_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WORKER_STEPPE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_LABOURER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LABOURER_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LABOURER_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LABOURER_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SCOUT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SCOUT_STEPPE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SCOUT_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SCOUT_STEPPE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+ 				<StyleUnit>
+					<UnitType>UNIT_EXPLORER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_EXPLORER_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_EXPLORER_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_EXPLORER_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_NATIVE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_MODERN_NATIVE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_NATIVE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WARRIOR</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WARRIOR_STEPPE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WARRIOR_STEPPE</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WARRIOR_STEPPE</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_ARCHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SPEARMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_AXEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SWORDSMAN_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SWORDSMAN_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SWORDSMAN_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SKIRMISHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SKIRMISHER_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SKIRMISHER_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SKIRMISHER_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CHARIOT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_HORSE_ARCHER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_HEAVY_SWORDSMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SWORDSMAN_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_LONGBOWMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LONGBOWMAN_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CROSSBOWMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CROSSBOWMAN_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_LANCER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LANCER_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LANCER_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LANCER_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_MUSKETEER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MUSKETEER_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MUSKETEER_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MUSKETEER_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CUIRASSIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CUIRASSIER_KUSHAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CUIRASSIER_KUSHAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CUIRASSIER_KUSHAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CANNON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CANNON_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CANNON_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CANNON_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GRENADIER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GRENADIER_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GRENADIER_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GRENADIER_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_RIFLEMAN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_RIFLEMAN_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_RIFLEMAN_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_RIFLEMAN_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_CAVALRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CAVALRY_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CAVALRY_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CAVALRY_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_INFANTRY_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_INFANTRY_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_INFANTRY_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_AT_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AT_INFANTRY_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_MACHINE_GUN</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MACHINE_GUN_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_SAM_INFANTRY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SAM_INFANTRY_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_MARINE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MARINE_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MARINE_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MARINE_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_PARATROOPER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PARATROOPER_INDIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PARATROOPER_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PARATROOPER_INDIAN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_GALLEY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEY_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GALLEY_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEY_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_WAR_GALLEY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_GALLEY_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_GALLEY_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_GALLEY_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_COG</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_COG_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_COG_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_COG_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GALLEASS</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEASS_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GALLEASS_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEASS_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GALLEON</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GALLEON_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GALLEON_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GALLEON_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_FRIGATE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_FRIGATE_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_FRIGATE_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_FRIGATE_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_SHIP_OF_THE_LINE</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SHIP_OF_THE_LINE_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_GENERAL</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GENERAL_TURKIC</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_GENERAL_MODERN_TURKIC</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GENERAL_MEDIEVAL_TURKIC</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_ARTIST</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARTIST_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARTIST_MODERN_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARTIST_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_ENGINEER</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ENGINEER_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ENGINEER_MODERN_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ENGINEER_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_MERCHANT</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MERCHANT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MERCHANT_MODERN_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MERCHANT_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_PROPHET</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_PROPHET_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_PROPHET_MODERN_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_PROPHET_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_SCIENTIST</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SCIENTIST_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SCIENTIST_MODERN_INDIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SCIENTIST_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+				<StyleUnit>
+					<UnitType>UNIT_GREAT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+
+			</StyleUnits>
+		</UnitArtStyleTypeInfo>
+<!--________________________________________________________________________________________________________________________________________________-->
+<!--                                                                                                                                                -->
+<!-- VD mod END Kushan ArtStyle                                                                                                                     -->
+<!--________________________________________________________________________________________________________________________________________________-->
+	</UnitArtStyleTypeInfos>
+</Civ4UnitArtStyleTypeInfos>
