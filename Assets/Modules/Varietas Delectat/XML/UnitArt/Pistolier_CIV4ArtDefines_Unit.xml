@@ -61,9 +61,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Pistolier/Chinese/cavalry.nif</NIF>
-			<KFM>Art/Units/Cavalry/Cavalry.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Pistolier/Chinese/cavalry.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Pistolier/China/pistolier_fx.nif</NIF>
+			<KFM>Art/Units/Unique/Russia/Cossack/RussianCossack.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Pistolier/China/pistolier_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
 				<ShadowAttachNode>HorseBip Spine1</ShadowAttachNode>

@@ -9655,30 +9655,6 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_MUSKETEER_CHINESE</Type>
-			<Button>Art/Interface/Buttons/Units/Musketman.dds</Button>
-			<fScale>0.44</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<bActAsLand>0</bActAsLand>
-			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/China/Chinese Rifleman/rifleman.nif</NIF>
-			<KFM>Art/Units/Rifleman/Rifleman.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/China/Chinese Rifleman/rifleman.nif</SHADERNIF>
-			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
-				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
-				<fShadowScale>1.0</fShadowScale>
-			</ShadowDef>
-			<fBattleDistance>0.35</fBattleDistance>
-			<fRangedDeathTime>0.05</fRangedDeathTime>
-			<bActAsRanged>1</bActAsRanged>
-			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
-			<AudioRunSounds>
-				<AudioRunTypeLoop/>
-				<AudioRunTypeEnd/>
-			</AudioRunSounds>
-		</UnitArtInfo>
-		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MACHINE_GUN_ASIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/MachineGun.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,6</Button>
 			<fScale>0.44</fScale>
@@ -35930,14 +35906,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPY_GREAT_AFRICAN</Type>
-			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,15</Button>
-			<fScale>0.46</fScale>
+			<Button>Art/Interface/Buttons/Units/GreatSpy.dds</Button>
+			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/African Spy/Great_Spy_Ancient_FX.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Generic/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/African Spy/Great_Spy_Ancient_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy/Great_Spy_Ancient_FX.nif</NIF>
+			<KFM>Art/Units/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy/Great_Spy_Ancient_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -35954,14 +35930,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPY_GREAT_MODERN_AFRICAN</Type>
-			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,12</Button>
-			<fScale>0.46</fScale>
-			<fInterfaceScale>1.1</fInterfaceScale>
+			<Button>Art/Interface/Buttons/Units/GreatSpy.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/African Spy (Modern)/Spy_FX.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy (Modern)/Spy_FX.nif</NIF>
 			<KFM>Art/Units/Great_Spy_Modern/Great_Spy_Modern.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/African Spy (Modern)/Spy_FX.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy (Modern)/Spy_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>

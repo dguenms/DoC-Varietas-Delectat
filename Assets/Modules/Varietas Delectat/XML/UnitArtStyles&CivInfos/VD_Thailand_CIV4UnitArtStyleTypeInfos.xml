@@ -314,6 +314,14 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
+					<UnitType>UNIT_HUSSAR</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HUSSAR_INDONESIA</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HUSSAR_INDONESIA</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HUSSAR_INDONESIA</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
 					<UnitType>UNIT_RIFLEMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_MAHARDLEK_THAI</EarlyArtDefineTag>

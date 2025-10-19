@@ -315,9 +315,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_WAR_ELEPHANT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_AFRICAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_AFRICAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_AFRICAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ETHIOPIAN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ETHIOPIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WAR_ELEPHANT_ETHIOPIAN</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

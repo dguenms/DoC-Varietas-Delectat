@@ -458,16 +458,6 @@
 			<Button>Art/Interface/Buttons/Buildings/ProtestantCathedral.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
-			<Type>ART_DEF_BUILDING_PROTESTANT_MONASTERY</Type>
-			<LSystem>LSYSTEM_2x2</LSystem>
-			<bAnimated>1</bAnimated>
-			<fScale>1.2</fScale>
-			<fInterfaceScale>0.5</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Protestant_School/College.nif</NIF>
-			<KFM/>
-			<Button>Art/Interface/Buttons/Buildings/ProtestantMonastery.dds</Button>
-		</BuildingArtInfo>
-		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_PROTESTANT_SHRINE</Type>
 			<LSystem>LSYSTEM_2x4</LSystem>
 			<bAnimated>1</bAnimated>
@@ -626,16 +616,6 @@
 			<NIF>Art/Structures/Buildings/Kings_Saga/KingsSaga.nif</NIF>
 			<KFM/>
 			<Button>,Art/Interface/Buttons/Buildings/HeroicEpic.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,3,5</Button>
-		</BuildingArtInfo>
-		<BuildingArtInfo>
-			<Type>ART_DEF_BUILDING_NATIONAL_COLLEGE</Type>
-			<LSystem>LSYSTEM_2x3</LSystem>
-			<bAnimated>0</bAnimated>
-			<fScale>1.35</fScale>
-			<fInterfaceScale>0.67</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/University/University.nif</NIF>
-			<KFM/>
-			<Button>Art/Structures/Buildings/National_College/Sorbonne.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_ARMOURY</Type>
