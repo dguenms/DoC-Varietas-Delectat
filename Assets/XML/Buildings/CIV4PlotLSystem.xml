@@ -57,7 +57,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_w.nif::2x1</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -70,7 +70,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_uw.nif::2x1</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -83,7 +83,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_w.nif::2x1</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -96,7 +96,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_uw.nif::2x1</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -117,7 +117,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_w.nif::2x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -130,7 +130,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_uw.nif::2x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -143,7 +143,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_w.nif::2x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -156,7 +156,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_uw.nif::2x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -191,7 +191,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_w.nif::2x3</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -206,7 +206,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_uw.nif::2x3</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -220,7 +220,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_w.nif::2x3</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -235,7 +235,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_uw.nif::2x3</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -257,7 +257,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_w.nif::4x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -270,7 +270,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_uw.nif::4x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -283,7 +283,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_w.nif::4x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -296,7 +296,7 @@
 		<ArtRef Name="art:crop">
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/crops_i_uw.nif::4x2</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_WHEAT,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bForceGround:1</Attribute>
@@ -7407,7 +7407,7 @@
 		<!-- corn -->
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::2x1_01</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -7417,7 +7417,7 @@
 		</ArtRef>
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::1x2_01</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -7474,7 +7474,7 @@
 		<!-- CORN -->
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::2x2_01</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -7483,7 +7483,7 @@
 		</ArtRef>
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::2x2_02</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -7693,6 +7693,123 @@
 			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 		</ArtRef>
+		<!-- CINNAMON crops -->
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when worked by plantation -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::2x2_01_Sugar_Worked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when worked by plantation -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::2x2_02_Sugar_Worked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when improved but not worked by plantation -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::2x2_01_Sugar_NotWorked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.6</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when improved but not worked by plantation -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::2x2_02_Sugar_NotWorked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.6</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when in the rough -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::2x2_01_Sugar_Normal</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when in the rough -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::2x2_02_Sugar_Normal</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<!-- CINNAMON improvement crap -->
+		<ArtRef Name="art:CINNAMON_PLANTATION_RACK">
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::1x3_01_Rack_NotWorked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:Building</Attribute>
+			<Attribute Class="Scalar">szForceContourGeometry:Shadow</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="art:CINNAMON_PLANTATION_RACK">
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::1x3_01_Rack_Worked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:Building</Attribute>
+			<Attribute Class="Scalar">szForceContourGeometry:Shadow</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="art:CINNAMON_PLANTATION_POOL">
+			<!-- worked pool -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_Pool_Spinning.nif</Attribute>
+			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">szForceContourGeometry:Shadow</Attribute>
+		</ArtRef>
+		<ArtRef Name="art:CINNAMON_PLANTATION_POOL">
+			<!-- unworked pool -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Cinnamon/Sugar_LSystem.nif::1x1_02_Pool_NotWorked</Attribute>
+			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">szForceContourGeometry:Shadow</Attribute>
+			<Rotate>0</Rotate>
+		</ArtRef>
 		<!-- OLIVES crops -->
 		<ArtRef Name="art:olives_crop">
 			<!-- when worked by plantation -->
@@ -7745,6 +7862,59 @@
 		<ArtRef Name="art:OLIVES_PLANTATION_PRESS">
 			<!-- unworked Press -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Olives/Olives.nif::2x2_01_Press_NotWorked</Attribute>
+			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+		</ArtRef>
+		<!-- NUTMEG crops -->
+		<ArtRef Name="art:nutmeg_crop">
+			<!-- when worked by plantation -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/nutmeg/Olives.nif::2x2_01_Olives_Worked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:nutmeg_crop</Attribute>
+			<Scale>0.8</Scale>
+			<Rotate>+45</Rotate>
+		</ArtRef>
+		<ArtRef Name="art:Nutmeg_crop">
+			<!-- when improved but not worked by plantation -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/nutmeg/Olives.nif::2x2_01_Olives_NotWorked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:nutmeg_crop</Attribute>
+			<Scale>0.6</Scale>
+			<Rotate>+45</Rotate>
+		</ArtRef>
+		<ArtRef Name="art:Nutmeg_crop">
+			<!-- when in the rough ... there's anotehr in 3x2 for farms -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/nutmeg/Olives.nif::2x2_01_Olives_Normal</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:nutmeg_crop</Attribute>
+			<Scale>0.8</Scale>
+			<Rotate>+45</Rotate>
+		</ArtRef>
+		<ArtRef Name="art:NUTMEG_ORCHARD_GRINDER">
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Nutmeg/Spices_Grinder_Worked.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Terrain/Resources/Nutmeg/Spices_Grinder_Worked.kfm</Attribute>
+			<Attribute Class="Scalar">iPlayAnimationID:0</Attribute>
+			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">szForceContourGeometry:Shadow</Attribute>
+		</ArtRef>
+		<ArtRef Name="art:NUTMEG_ORCHARD_GRINDER">
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Nutmeg/olives.nif::1x2_01_Grinder_NotWorked</Attribute>
 			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
 			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -8005,7 +8175,7 @@
 		<ArtRef Name="art:coffee_crop">
 			<!-- when worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Coffee/Cofwes_LSystem.nif::2x2_01_Cofwe_Worked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Bonus">BONUS_COFFEE</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
@@ -8017,7 +8187,7 @@
 		<ArtRef Name="art:coffee_crop">
 			<!-- when improved but not worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Coffee/Cofwes_LSystem.nif::2x2_01_Cofwe_NotWorked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Bonus">BONUS_COFFEE</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -8030,7 +8200,7 @@
 		<ArtRef Name="art:Coffee_crop">
 			<!-- when in the rough ... there's anotehr in 3x2 for farms -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Coffee/Cofwes_LSystem.nif::2x2_01_Cofwe_Normal</Attribute>
-			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_PLANTATION,!IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Bonus">BONUS_COFFEE</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
@@ -8042,7 +8212,7 @@
 		<!-- Coffee improvement crap -->
 		<ArtRef Name="art:COFFEE_PLANTATION_RACK">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Coffee/Cofwes_LSystem.nif::1x3_01_Rack_NotWorked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
 			<Attribute Class="Bonus">BONUS_COFFEE</Attribute>
 			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
@@ -8050,7 +8220,7 @@
 		</ArtRef>
 		<ArtRef Name="art:COFFEE_PLANTATION_RACK">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Coffee/Cofwes_LSystem.nif::1x3_01_Rack_Worked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
 			<Attribute Class="Bonus">BONUS_COFFEE</Attribute>
 			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
@@ -8077,7 +8247,7 @@
 		<ArtRef Name="art:tea_crop">
 			<!-- when worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Tea/Spices_LSystem.nif::2x2_01_Spice_Worked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Bonus">BONUS_TEA</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
@@ -8089,7 +8259,7 @@
 		<ArtRef Name="art:tea_crop">
 			<!-- when improved but not worked by plantation -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Tea/Spices_LSystem.nif::2x2_01_Spice_NotWorked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Bonus">BONUS_TEA</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
@@ -8102,7 +8272,7 @@
 		<ArtRef Name="art:Tea_crop">
 			<!-- when in the rough ... there's anotehr in 3x2 for farms -->
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Tea/Spices_LSystem.nif::2x2_01_Spice_Normal</Attribute>
-			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_PLANTATION,!IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Bonus">BONUS_TEA</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
@@ -8114,7 +8284,7 @@
 		<!-- Tea improvement crap -->
 		<ArtRef Name="art:TEA_PLANTATION_RACK">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Tea/Spices_LSystem.nif::1x3_01_Rack_NotWorked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
 			<Attribute Class="Bonus">BONUS_TEA</Attribute>
 			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
@@ -8122,7 +8292,7 @@
 		</ArtRef>
 		<ArtRef Name="art:TEA_PLANTATION_RACK">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Tea/Spices_LSystem.nif::1x3_01_Rack_Worked</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_PLANTATION,IMPROVEMENT_SLAVE_PLANTATION</Attribute>
 			<Attribute Class="Scalar">bExtraGoalOnly:1</Attribute>
 			<Attribute Class="Bonus">BONUS_TEA</Attribute>
 			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
@@ -8155,7 +8325,7 @@
 		<!-- CORN -->
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::3x2_02</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -8165,7 +8335,7 @@
 		</ArtRef>
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::2x3_01</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -10120,6 +10290,126 @@
 			<Scale>0.8</Scale>
 			<Rotate>+45</Rotate>
 		</ArtRef>
+		<!-- Cinnamon -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- worked ancient cinnamon orchard -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:2</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Winery/Winery.nif</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- unworked ancient cinnamon orchard -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:2</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Winery/Winery.nif</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:BONUS_SPICES_CINNAMON">
+			<!-- unworked cinnamon -->
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_FARM</Attribute>
+			<Attribute Class="Scalar">bGoalOnly:1</Attribute>
+			<Attribute Class="Scalar">bPlace:0</Attribute>
+			<Attribute Class="Scalar">iCropArea:12</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when worked by orchard -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/cinnamon/Sugar_LSystem.nif::2x2_01_Sugar_Worked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+			<Rotate>+45</Rotate>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when worked by orchard -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/cinnamon/Sugar_LSystem.nif::2x2_02_Sugar_Worked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when improved but not worked by orchard -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/cinnamon/Sugar_LSystem.nif::2x2_01_Sugar_NotWorked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.6</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when improved but not worked by orchard -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/cinnamon/Sugar_LSystem.nif::2x2_02_Sugar_NotWorked</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bApplyRotation:0</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.6</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when in the rough -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/cinnamon/Sugar_LSystem.nif::2x2_01_Sugar_Normal</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="art:cinnamon_crop">
+			<!-- when in the rough -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/cinnamon/Sugar_LSystem.nif::2x2_02_Sugar_Normal</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:cinnamon_crop</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
 		<!-- Afro spices plantation -->
 		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
 			<!-- early worked spices plantation -->
@@ -10849,6 +11139,1449 @@
 			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
 			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- Afro cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.23</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_early_off.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
+			<Scale>0.9</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.23</Scale>
+		</ArtRef>
+		<!-- Khmer cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Khmer/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.23</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Khmer/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.23</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- Mediterranean cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.44</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.44</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<!-- Meso cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<!-- Middle East cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_Renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.26</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_Renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<!-- Native cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- Inca cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Inca/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Inca/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<!-- Pacific cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Pacific/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.25</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Pacific/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.25</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- European cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.35</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Anglo/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Anglo/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<!-- Norse/Russian cinnamon plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Norse/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.35</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Russia/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Norse/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.26</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked cinnamon plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_CINNAMON</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_POOL</Attribute>
+			<Attribute Class="Scalar">szExtra:art:CINNAMON_PLANTATION_RACK</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Russia/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.26</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- Afro nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.23</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_early_off.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
+			<Scale>0.9</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Afro/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.23</Scale>
+		</ArtRef>
+		<!-- Khmer nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Khmer/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.23</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Khmer/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.23</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- Mediterranean nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.44</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.44</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<!-- Meso nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_MESO_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Meso/plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<!-- Middle East nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_Renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.26</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_MiddleEast/Plantation_Renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/plantation.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<!-- Native nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NATIVE_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Native/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- Inca nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Inca/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_AMERICA</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Inca/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<!-- Pacific nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Pacific/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.25</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
+			<Attribute Class="Era">ERA_ALL,!ERA_GLOBAL,!ERA_DIGITAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Pacific/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.25</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<!-- European nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.29</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.35</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Anglo/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.29</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- medieval unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.32</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- industrial unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Anglo/Plantation_industrial.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<!-- Norse/Russian nutmeg plantation -->
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Norse/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Scale>0.35</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance worked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:16</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Russia/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Scale>0.26</Scale>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- early unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Norse/Plantation_early.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.26</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_NORSE</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Europe/Plantation_medieval.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
+			<!-- renaissance unworked nutmeg plantation -->
+			<Attribute Class="Improvement">IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">iCropArea:8</Attribute>
+			<Attribute Class="Scalar">szExtra:art:NUTMEG_ORCHARD_GRINDER</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Russia/Plantation_renaissance.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Scale>0.26</Scale>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bImprovementWorkedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:BONUS_SPICES_NUTMEG">
+			<!-- unworked nutmeg -->
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_FARM</Attribute>
+			<Attribute Class="Scalar">bGoalOnly:1</Attribute>
+			<Attribute Class="Scalar">bPlace:0</Attribute>
+			<Attribute Class="Scalar">iCropArea:12</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Scale>0.6</Scale>
+		</ArtRef>
+		<ArtRef Name="art:Nutmeg_crop">
+			<!-- when in the rough -->
+			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/nutmeg/Olives.nif::2x2_01_Olives_Normal</Attribute>
+			<Attribute Class="Improvement">NO_IMPROVEMENT,IMPROVEMENT_ALL,!IMPROVEMENT_ORCHARD</Attribute>
+			<Attribute Class="Bonus">BONUS_SPICES_NUTMEG</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">bBonusImprovedOnly:0</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:nutmeg_crop</Attribute>
+			<Scale>0.8</Scale>
+			<Rotate>+45</Rotate>
 		</ArtRef>
 		<!-- Olives -->
 		<ArtRef Name="goal:IMPROVEMENT_ORCHARD">
@@ -15081,7 +16814,7 @@
 		<!-- CORN -->
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::4x2_01</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -15090,7 +16823,7 @@
 		</ArtRef>
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::4x2_02</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -15100,7 +16833,7 @@
 		</ArtRef>
 		<ArtRef Name="art:corn_crop">
 			<Attribute Class="Scalar">NIF:Art/Terrain/Resources/Corn/crops.nif::2x4_01</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:corn_crop</Attribute>
@@ -17141,7 +18874,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_AFRICA,!ARTSTYLE_MESO_AMERICA,!ARTSTYLE_MONGOLIA,!ARTSTYLE_NATIVE_AMERICA,!ARTSTYLE_SOUTH_AMERICA</Attribute> 
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17157,7 +18890,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_AFRICA,!ARTSTYLE_MESO_AMERICA,!ARTSTYLE_MONGOLIA,!ARTSTYLE_NATIVE_AMERICA,!ARTSTYLE_SOUTH_AMERICA</Attribute> 
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17173,7 +18906,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_AFRICA,!ARTSTYLE_MESO_AMERICA,!ARTSTYLE_MONGOLIA,!ARTSTYLE_NATIVE_AMERICA,!ARTSTYLE_SOUTH_AMERICA</Attribute> 
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17189,7 +18922,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_AFRICA,!ARTSTYLE_MESO_AMERICA,!ARTSTYLE_MONGOLIA,!ARTSTYLE_NATIVE_AMERICA,!ARTSTYLE_SOUTH_AMERICA</Attribute> 
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17207,7 +18940,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_AFRICA,!ARTSTYLE_MESO_AMERICA,!ARTSTYLE_MONGOLIA,!ARTSTYLE_NATIVE_AMERICA,!ARTSTYLE_SOUTH_AMERICA</Attribute> 
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17235,7 +18968,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL,!ARTSTYLE_AFRICA,!ARTSTYLE_MESO_AMERICA,!ARTSTYLE_MONGOLIA,!ARTSTYLE_NATIVE_AMERICA,!ARTSTYLE_SOUTH_AMERICA</Attribute> 
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17262,7 +18995,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_IBERIA,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17277,7 +19010,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_IBERIA,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17294,7 +19027,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_IBERIA,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17319,7 +19052,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_IBERIA,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17335,7 +19068,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_IBERIA,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA,ARTSTYLE_GRECO_ROMAN</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17353,7 +19086,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_IBERIA,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA,ARTSTYLE_GRECO_ROMAN</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17381,7 +19114,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/med_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/med_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17397,7 +19130,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/med_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/med_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17415,7 +19148,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/med_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/med_eu_farm01.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17443,7 +19176,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_NORSE,ARTSTYLE_NATIVE_AMERICA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_anglo_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17459,7 +19192,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_NORSE,ARTSTYLE_NATIVE_AMERICA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_anglo_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17477,7 +19210,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_NORSE,ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_anglo_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17505,7 +19238,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA,ARTSTYLE_NATIVE_AMERICA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/mod_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17522,7 +19255,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA,ARTSTYLE_NATIVE_AMERICA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/mod_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17541,7 +19274,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ANGLO_AMERICA,ARTSTYLE_BARBARIAN,ARTSTYLE_EUROPE,ARTSTYLE_NORSE,ARTSTYLE_RUSSIA,ARTSTYLE_NATIVE_AMERICA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/mod_eu_farm01.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -17570,7 +19303,7 @@
 		<!-- generic future farms -->
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_DIGITAL</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/mod_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17586,7 +19319,7 @@
 		</ArtRef>
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_DIGITAL</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/mod_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17604,7 +19337,7 @@
 			<Attribute Class="Era">ERA_DIGITAL</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/mod_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/mod_eu_farm01.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -17632,7 +19365,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_ARABIA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA,ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17648,7 +19381,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_ARABIA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA,ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17664,7 +19397,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_ARABIA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA,ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17680,7 +19413,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_ARABIA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA,ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17698,7 +19431,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_ARABIA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA,ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17726,7 +19459,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_ARABIA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA,ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17753,7 +19486,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/Waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17769,7 +19502,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/Waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17787,7 +19520,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_NATIVE_AMERICA,ARTSTYLE_SOUTH_AMERICA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/Waterwell.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17814,7 +19547,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_SOUTH_AMERICA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17832,7 +19565,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_SOUTH_AMERICA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17852,7 +19585,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_AFRICA,ARTSTYLE_MESO_AMERICA,ARTSTYLE_MONGOLIA,ARTSTYLE_SOUTH_AMERICA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -17884,7 +19617,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17900,7 +19633,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17916,7 +19649,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17932,7 +19665,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -17950,7 +19683,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -17978,7 +19711,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -18005,7 +19738,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Smokestack.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18022,7 +19755,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Smokestack.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18041,7 +19774,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_SOUTH_PACIFIC</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Smokestack.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -18070,7 +19803,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18087,7 +19820,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18104,7 +19837,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
@@ -18138,7 +19871,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18154,7 +19887,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18171,7 +19904,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM3</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -18196,7 +19929,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Smokestack.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18213,7 +19946,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Smokestack.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18232,7 +19965,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ASIA,ARTSTYLE_JAPAN,ARTSTYLE_SOUTH_EAST_ASIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/Smokestack.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -18261,7 +19994,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18277,7 +20010,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18294,7 +20027,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -18319,7 +20052,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/an_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/an_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18334,7 +20067,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/an_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/an_eu_farm01.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18351,7 +20084,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/an_eu_farm01.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/an_eu_farm01.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -18376,7 +20109,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18392,7 +20125,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18410,7 +20143,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_ARABIA,ARTSTYLE_CRESCENT,ARTSTYLE_EGYPT,ARTSTYLE_INDIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/waterwell.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/waterwell.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -18439,7 +20172,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_eu_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18455,7 +20188,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_eu_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18473,7 +20206,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_EUROPE</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_eu_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -18500,7 +20233,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18518,7 +20251,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18536,7 +20269,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18553,7 +20286,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18572,7 +20305,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -18602,7 +20335,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/FarmFire.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/tribalvillage/tribalvillage.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -18631,7 +20364,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/Plantation.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18647,7 +20380,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL,ERA_GLOBAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/Plantation.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18665,7 +20398,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_GRECO_ROMAN,ARTSTYLE_IBERIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Plantation/Plantation_Mediterranean/Plantation.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Plantation/Plantation.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM6</Attribute>
@@ -18693,7 +20426,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
-			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_CORN,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_russian_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18709,7 +20442,7 @@
 		<ArtRef Name="goal:IMPROVEMENT_FARM">
 			<Attribute Class="Era">ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
-			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Bonus">BONUS_CORN,BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_russian_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM1</Attribute>
@@ -18727,7 +20460,7 @@
 			<Attribute Class="ArtStyle">ARTSTYLE_RUSSIA</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Farm/ind_russian_farmhouse.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Farm/workshop.kfm</Attribute>
-			<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+			<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM4</Attribute>
 			<Attribute Class="Scalar">szExtra:art:IMPROVEMENT_FARM5</Attribute>
 			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
@@ -18754,6 +20487,14 @@
 		<!--- corn crop -->
 		<ArtRef Name="goal:BONUS_CORN">
 			<Attribute Class="Bonus">BONUS_CORN</Attribute>
+			<Attribute Class="Scalar">iCropAreaMultiplier:10</Attribute>
+			<Attribute Class="Scalar">bPlace:0</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bIsPartOfBonus:1</Attribute>
+		</ArtRef>
+		<!--- millet crop -->
+		<ArtRef Name="goal:BONUS_MILLET">
+			<Attribute Class="Bonus">BONUS_MILLET</Attribute>
 			<Attribute Class="Scalar">iCropAreaMultiplier:10</Attribute>
 			<Attribute Class="Scalar">bPlace:0</Attribute>
 			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
@@ -19413,7 +21154,7 @@
 	<!-- Regular Non-rice farm:     Place a farm in the mix -->
 	<LProduction From="Node_4x4">
 		<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-		<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT</Attribute>
+		<Attribute Class="Bonus">NO_BONUS,BONUS_ALL,!BONUS_RICE,!BONUS_WHEAT,!BONUS_MILLET,!BONUS_POTATO</Attribute>
 		<Attribute Class="Scalar">bNotBFS:1</Attribute>
 		<To Name="Farm_4x4"/>
 		<To Name="GNode_4x4"/>
@@ -19429,7 +21170,7 @@
 	<!-- SPECIAL Rice & wheat farm:			Place a farm in the top-right of the plot -->
 	<LProduction Name="4x4_Farm_Rice" From="Node_12x12">
 		<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-		<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+		<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 		<To Name="Farm_4x4">
 			<Translate>3,3</Translate>
 		</To>
@@ -19443,7 +21184,7 @@
 	</LProduction>
 	<LProduction Name="4x4_Farm_Rice2" From="Node_12x12">
 		<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-		<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+		<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 		<To Name="Farm_4x4">
 			<Translate>-3,3</Translate>
 		</To>
@@ -19457,7 +21198,7 @@
 	</LProduction>
 	<LProduction Name="4x4_Farm_Rice3" From="Node_12x12">
 		<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-		<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+		<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 		<To Name="Farm_4x4">
 			<Translate>-3,-3</Translate>
 		</To>
@@ -19471,7 +21212,7 @@
 	</LProduction>
 	<LProduction Name="4x4_Farm_Rice4" From="Node_12x12">
 		<Attribute Class="Improvement">IMPROVEMENT_FARM</Attribute>
-		<Attribute Class="Bonus">BONUS_WHEAT</Attribute>
+		<Attribute Class="Bonus">BONUS_WHEAT,BONUS_POTATO</Attribute>
 		<To Name="Farm_4x4">
 			<Translate>3,-3</Translate>
 		</To>
@@ -19713,7 +21454,7 @@
 	</LProduction>
 	<LProduction From="Node_2x2">
 		<Attribute Class="Improvement">NO_IMPROVEMENT</Attribute>
-		<Attribute Class="Bonus">BONUS_SILK,BONUS_DYE,BONUS_SPICES,BONUS_SUGAR,BONUS_CORN,BONUS_COTTON</Attribute>
+		<Attribute Class="Bonus">BONUS_SILK,BONUS_DYE,BONUS_SPICES,BONUS_SPICES_CINNAMON,BONUS_SUGAR,BONUS_CORN,BONUS_MILLET,BONUS_COTTON</Attribute>
 		<To Name="BLeaf_2x2"/>
 	</LProduction>
 	<LProduction From="Node_2x2">
