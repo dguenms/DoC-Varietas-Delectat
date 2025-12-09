@@ -28358,7 +28358,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPITFIRE_FIGHTER</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Spitfire.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Fighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,10</Button>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
