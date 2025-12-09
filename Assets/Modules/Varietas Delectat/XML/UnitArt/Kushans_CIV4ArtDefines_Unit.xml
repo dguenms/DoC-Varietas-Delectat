@@ -348,7 +348,7 @@
 
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CUIRASSIER_KUSHAN</Type>
-			<Button>Art/Interface/Buttons/Units/Cuirassier.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,3,11</Button>
 			<fScale>0.42</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
