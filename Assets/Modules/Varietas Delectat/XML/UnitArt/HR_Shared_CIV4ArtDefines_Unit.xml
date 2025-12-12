@@ -632,7 +632,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WAR_GALLEY_AFRICAN</Type>
-			<Button>Art/Interface/Buttons/Units/War Galley.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Galley.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,8,8</Button>
 			<fScale>0.1</fScale>
 			<fInterfaceScale>0.8</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
