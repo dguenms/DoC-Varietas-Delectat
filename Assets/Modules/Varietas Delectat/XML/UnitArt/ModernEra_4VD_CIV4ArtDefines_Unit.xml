@@ -1661,7 +1661,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MODERN_INF_GREEK</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/ModernInfantry.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -1685,7 +1685,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MODERN_INF_HOLLAND</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/ModernInfantry.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -2220,7 +2220,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MODERN_INF_JAPANESE</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/ModernInfantry.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -2314,7 +2314,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MODERN_INF_KOREAN</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/ModernInfantry.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -2551,7 +2551,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MODERN_INF_PORTUGAL</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/ModernInfantry.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -6699,7 +6699,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MODERN_INFANTRY</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/ModernInfantry.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Marine.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,7</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
