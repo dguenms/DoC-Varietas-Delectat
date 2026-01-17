@@ -24447,7 +24447,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ILLUSTRIOUS_ENGLISH</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Illustrious.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Carrier.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,10</Button>
 			<fScale>1.2</fScale>
 			<fInterfaceScale>0.92</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -26300,7 +26300,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CROMWELL_TANK</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Cromwell.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
 			<fScale>0.58</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
