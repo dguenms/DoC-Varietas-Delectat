@@ -1833,7 +1833,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_FIAT_L6_40</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/LightTank.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
 			<fScale>0.53</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>

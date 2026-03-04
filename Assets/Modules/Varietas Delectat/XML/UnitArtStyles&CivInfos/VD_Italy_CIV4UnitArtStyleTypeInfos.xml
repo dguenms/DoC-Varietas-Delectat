@@ -475,9 +475,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_TANK</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MEDIUM_TANK_ITALIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MEDIUM_TANK_ITALIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MEDIUM_TANK_ITALIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_FIAT_L6_40</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_FIAT_L6_40</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_FIAT_L6_40</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

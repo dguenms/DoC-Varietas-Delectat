@@ -17520,7 +17520,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_BOMBER_PE_8</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/btn_pe8a.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
 			<fScale>0.41</fScale>
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
