@@ -115,7 +115,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/Iran/Qizilbash Spearman/spearman3.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/[anim]/Spearman/Spearman.kfm</KFM>
+			<KFM>Art/Units/Spearman/Spearman.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Iran/Qizilbash Spearman/spearman3.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
