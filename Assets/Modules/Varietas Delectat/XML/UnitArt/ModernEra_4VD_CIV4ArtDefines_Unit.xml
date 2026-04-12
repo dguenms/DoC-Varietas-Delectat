@@ -86,7 +86,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_B10_BOMBER_CHINESE</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/MartinB10.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
 			<fScale>0.64</fScale>
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -1709,7 +1709,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_B10_BOMBER_HOLLAND</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/MartinB10.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
 			<fScale>0.64</fScale>
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -2486,7 +2486,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_B10_BOMBER_OTTOMAN</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/MartinB10.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
 			<fScale>0.64</fScale>
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
