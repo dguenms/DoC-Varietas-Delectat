@@ -1202,7 +1202,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_WESPE_GERMAN</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Wespe.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/ICBM.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,6,11</Button>
 			<fScale>0.57</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
