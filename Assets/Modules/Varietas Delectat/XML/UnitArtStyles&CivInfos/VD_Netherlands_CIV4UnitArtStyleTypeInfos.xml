@@ -503,9 +503,17 @@
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_EUROPEAN</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MODERN_EUROPEAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_EUROPEAN</MiddleArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				<StyleUnit>
+					<UnitType>UNIT_FEMALE_GREAT_SPY</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_EUROPEAN_FEMALE</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_FEMALE_MODERN_GREAT_SPY</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_EUROPEAN_FEMALE</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

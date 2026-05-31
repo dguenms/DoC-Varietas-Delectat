@@ -33817,15 +33817,15 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SPY_GREAT_EUROPEAN</Type>
+			<Type>ART_DEF_UNIT_SPY_GREAT_EUROPEAN_FEMALE</Type>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,15</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/European Female Great Spy/MedievalSpy.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Female Great Spy/MedievalSpy.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/European Female Great Spy/MedievalSpy_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -35235,13 +35235,37 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN</Type>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,15</Button>
+			<fScale>0.42</fScale>
+			<fInterfaceScale>1.1</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Middle Eastern Spy (Medieval)/Great_Spy_Ancient.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/Middle Eastern Spy (Medieval)/Great_Spy_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Middle Eastern Spy (Medieval)/Great_Spy_Ancient_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.8</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SPY_GREAT_MIDDLE_EASTERN_FEMALE</Type>
+			<Button>Art/Interface/Buttons/Units/Female_Great_Spy.dds</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Middle Eastern Spy (Medieval)/MedievalSpy_FX.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Middle Eastern Spy (Medieval)/MedievalSpy_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Middle Eastern Female Spy (Medieval)/MedievalSpy_FX.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Female Great Spy/MedievalSpy.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Middle Eastern Female Spy (Medieval)/MedievalSpy_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -35906,7 +35930,31 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPY_GREAT_AFRICAN</Type>
-			<Button>Art/Interface/Buttons/Units/GreatSpy.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,15</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy/Great_Spy_Ancient_FX.nif</NIF>
+			<KFM>Art/Units/Great_Spy_Ancient/Great_Spy_Ancient.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy/Great_Spy_Ancient_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SPY_GREAT_AFRICAN_FEMALE</Type>
+			<Button>Art/Interface/Buttons/Units/Female_Great_Spy.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -35930,7 +35978,31 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPY_GREAT_MODERN_AFRICAN</Type>
-			<Button>Art/Interface/Buttons/Units/GreatSpy.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,12</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy (Modern)/Spy_FX.nif</NIF>
+			<KFM>Art/Units/Great_Spy_Modern/Great_Spy_Modern.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Great Spies/African Spy (Modern)/Spy_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.8</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SPY_GREAT_MODERN_AFRICAN_FEMALE</Type>
+			<Button>Art/Interface/Buttons/Units/Female_Great_Spy_Modern.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -36601,15 +36673,15 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SPY_GREAT_ORIENTAL</Type>
+			<Type>ART_DEF_UNIT_SPY_GREAT_ORIENTAL_FEMALE</Type>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,15</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Oriental Spy/MedievalSpy_FX.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Oriental Spy/MedievalSpy_FX.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Oriental Female Spy/MedievalSpy_FX.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Female Great Spy/MedievalSpy.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Oriental Female Spy/MedievalSpy_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -37513,15 +37585,15 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_SPY_GREAT_NATIVE</Type>
-			<Button>Art/Interface/Buttons/Units/GreatSpy.dds</Button>
+			<Type>ART_DEF_UNIT_SPY_GREAT_NATIVE_FEMALE</Type>
+			<Button>Art/Interface/Buttons/Units/Female_Great_Spy.dds</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Native Great Spy/nativespydef_fx.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Great Spy/MedievalSpy.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Native Great Spy/nativespydef_fx.nif</SHADERNIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Generic/Native Female Great Spy/nativespydef_fx.nif</NIF>
+			<KFM>Modules/Varietas Delectat/Art/Units/Generic/European Female Great Spy/MedievalSpy.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Generic/Native Female Great Spy/nativespydef_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
