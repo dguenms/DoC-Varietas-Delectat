@@ -514,7 +514,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Amorites/Amorite AT Infantry /WWAntiTankInfantry_FX.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Amorites/Amorite AT Infantry/WWAntiTankInfantry_FX.nif</NIF>
 			<KFM>Art/Units/AntiTankInfantry/WWAntiTankInfantry.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Amorites/Amorite AT Infantry/WWAntiTankInfantry_FX.nif</SHADERNIF>
 			<ShadowDef>

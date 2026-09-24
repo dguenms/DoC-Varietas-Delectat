@@ -507,9 +507,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_GREAT_SPY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPY_GREAT_NATIVE</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</EarlyArtDefineTag>
 						<LateArtDefineTag>ART_DEF_UNIT_SPY_GREAT_MODERN_EUROPEAN</LateArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPY_GREAT_NATIVE</MiddleArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_GREAT_SPY_ANCIENT</MiddleArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 			</StyleUnits>

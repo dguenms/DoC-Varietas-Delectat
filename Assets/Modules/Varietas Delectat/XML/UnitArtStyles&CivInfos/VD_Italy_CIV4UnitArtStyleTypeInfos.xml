@@ -443,9 +443,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_JET_FIGHTER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_EUROFIGHTER2</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_EUROFIGHTER2</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_EUROFIGHTER2</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_EUROFIGHTER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_EUROFIGHTER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_EUROFIGHTER</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

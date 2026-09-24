@@ -1295,7 +1295,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_MALI</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -1512,6 +1512,30 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_MALI</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Mali/Mali Axeman/maliaxemanfinal.nif</NIF>
+			<KFM>Art/Units/Unique_NativeAmerica_DogSoldier/Dogsoldier.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mali/Mali Axeman/maliaxemanfinal.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</Type>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,3,11</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -2664,7 +2688,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ROOIKAT_SOUTH_AFRICA</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/M8ReconCar.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/MechanizedInfantry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,8,8</Button>
 			<fScale>0.53</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -3821,7 +3845,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -4277,9 +4301,33 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN1</Type>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Arab/Arab Spearman/berberarabiaspearman.nif</NIF>
+			<KFM>Art/Units/Charlemagne_HeavySpearman/HeavySpearman.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Arab/Arab Spearman/berberarabiaspearman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPEARMAN_BABYLONIAN</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -4655,7 +4703,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/babylon/Babylonian Marine/Marines.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/babylon/Babylonian Marine/Marines_FX.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/babylon/Babylonian Marine/Marines_FX.nif</SHADERNIF>
 			<ShadowDef>
@@ -7365,7 +7413,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_MAYAN</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -8554,7 +8602,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_KOREAN</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -8810,7 +8858,7 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/korea/korean lance cavalry/lightcavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/korea/korean lance cavalry/lightcavalry_fx.nif</NIF>
 			<KFM>Art/Units/Charlemagne_LightCavalry/LightCavalry.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/korea/korean lance cavalry/lightcavalry_fx.nif</SHADERNIF>
 			<ShadowDef>
@@ -8901,7 +8949,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_CHINESE</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -10231,7 +10279,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_JAPANESE</Type>
-			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -10280,6 +10328,30 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_JAPANESE</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Japan/japanese axeman/Axeman.nif</NIF>
+			<KFM>Art/Units/Swordsman/Swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Japan/japanese axeman/Axeman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_LIGHT_SWORDSMAN_JAPANESE</Type>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,3,11</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -11801,6 +11873,30 @@
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_MONGOLIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Axeman/MongolAxemanfinal.nif</NIF>
+			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongolian Axeman/MongolAxemanfinal.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_LIGHT_SWORDSMAN_MONGOLIAN</Type>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,3,11</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -15534,6 +15630,30 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_LIGHT_SWORDSMAN_1_ENGLISH</Type>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,3,11</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/english/english axeman/Unique_Sumerian_Vulture_FX.nif</NIF>
+			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/english/english axeman/Unique_Sumerian_Vulture_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_2_ENGLISH</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -15558,9 +15678,57 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_LIGHT_SWORDSMAN_2_ENGLISH</Type>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,3,11</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/english/english axeman/Unique_Sumerian_Vulture_FX_2.nif</NIF>
+			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/english/english axeman/Unique_Sumerian_Vulture_FX_2.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_3_ENGLISH</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/english/english axeman/Unique_Sumerian_Vulture_FX_3.nif</NIF>
+			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/english/english axeman/Unique_Sumerian_Vulture_FX_3.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_LIGHT_SWORDSMAN_3_ENGLISH</Type>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,3,11</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -15632,7 +15800,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_DRAGOON_ENGLAND</Type>
-			<Button>,Art/Interface/Buttons/Units/Cavalry.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,2</Button>
+			<Button>Art/Interface/Buttons/Units/Dragoon.dds</Button>
 			<fScale>0.42</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -18383,7 +18551,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_VIKING</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -19915,7 +20083,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_PORTUGAL</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -20779,7 +20947,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ARIETE_ARMOR</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Leopard1German.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/ModernArmor.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,11</Button>
 			<fScale>0.47</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -21698,7 +21866,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_CHAINMAIL_CARTHAGE</Type>
-			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -21722,7 +21890,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_LYBIAN_CHAINMAIL_CARTHAGE</Type>
-			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -21746,7 +21914,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_SACREDBAND_CARTHAGE</Type>
-			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -21853,7 +22021,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_PUNIC_SPEARMAN_CARTHAGE</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -22152,7 +22320,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_SPANISH</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -23158,6 +23326,30 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
+<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SWORDSMAN_BYZANTINE1</Type>
+			<Button>,Art/Interface/Buttons/Units/Swordsman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,5</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Modules/Varietas Delectat/Art/Units/Byzantine/Byzantine Maceman/ByzantineMaceman.nif</NIF>
+			<KFM>Art/Units/Unique_Sumeria_Vulture/Unique_Sumerian_Vulture.kfm</KFM>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Byzantine/Byzantine Maceman/ByzantineMaceman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AXEMAN_BYZANTINE</Type>
 			<Button>,Art/Interface/Buttons/Units/Axeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,1</Button>
@@ -23232,7 +23424,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_HEAVY_SPEARMAN_BYZANTINE</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,1</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Charlemagne_Atlas.dds,5,1</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -25455,7 +25647,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPEARMAN_LEADER_BARBARIAN</Type>
-			<Button>,Art/Interface/Buttons/Units/Pikeman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Spearman.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,6</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -25743,7 +25935,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_PIRATE_BRIGANTINE</Type>
-			<Button>Modules/Custom Civilizations/Pirates/UU2_Brigantine/Brigantine.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/Frigate.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,9</Button>
 			<fScale>0.13</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -26265,7 +26457,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_TIGER_TANK</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/PzKpfwVI.dds</Button>
+			<Button>Art/Interface/Buttons/Units/Panzer.dds</Button>
 			<fScale>0.54</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -28868,7 +29060,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MIG29_RUSSIAN</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Mig29.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/JetFighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,10</Button>
 			<fScale>0.52</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -29438,7 +29630,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MIRAGE2000_EGYPT</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Mirage.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/JetFighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,10</Button>
 			<fScale>0.49</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -29468,7 +29660,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MIRAGE2000_GREECE</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Mirage.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/JetFighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,10</Button>
 			<fScale>0.49</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -29498,7 +29690,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MIRAGE2000_INDIA</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Mirage.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/JetFighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,10</Button>
 			<fScale>0.49</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -29528,7 +29720,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MIRAGE2000_TAIWAN</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Mirage.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/JetFighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,10</Button>
 			<fScale>0.49</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -29948,7 +30140,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_DASSAULT_RAFALE</Type>
-			<Button>Modules/Varietas Delectat/Art/Buttons/Units/Rafale.dds</Button>
+			<Button>,Art/Interface/Buttons/Units/JetFighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,10</Button>
 			<fScale>0.52</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -34183,7 +34375,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/UnitsPoland/Polish Skirmisher/SlavicPolishJavelinman.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/Poland/Polish Skirmisher/SlavicPolishJavelinman.nif</NIF>
 			<KFM>Art/Units/Unique/Mali/Skirmisher/MaliSkirmisher.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Poland/Polish Skirmisher/SlavicPolishJavelinman.nif</SHADERNIF>
 			<ShadowDef>
@@ -36410,7 +36602,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SPY_ORIENTAL</Type>
-			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,15</Button>
+			<Button>,Art/Interface/Buttons/Units/Spy.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,8,14</Button>
 			<fScale>0.46</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -36511,9 +36703,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongol General/subutaifinal.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/mongol/mongolian general/subutaifinal.nif</NIF>
 			<KFM>Art/Units/Warlord_Ancient/Warlord_Ancient.kfm</KFM>
-			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Mongol/Mongol General/subutaifinal.nif</SHADERNIF>
+			<SHADERNIF>Modules/Varietas Delectat/Art/Units/mongol/mongolian general/subutaifinal.nif</SHADERNIF>
 			<ShadowDef>
 			<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 			<ShadowAttachNode>Bip01 Pelvis</ShadowAttachNode>
@@ -38098,7 +38290,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GALLEASS_ORIENTAL</Type>
-			<Button>Art/Interface/Buttons/Units/Caravel.dds</Button>
+			<Button>Art/Interface/Buttons/Units/Galleass.dds</Button>
 			<fScale>0.14</fScale>
 			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>

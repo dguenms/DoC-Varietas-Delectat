@@ -132,19 +132,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_HEAVY_SPEARMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_PIKEMAN_EUROPEAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EUROPEAN1</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -168,19 +168,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_1_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_1_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_1_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_1_ENGLISH</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_1_ENGLISH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_1_ENGLISH</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_2_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_2_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_2_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_2_ENGLISH</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_2_ENGLISH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_2_ENGLISH</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_3_ENGLISH</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_3_ENGLISH</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_3_ENGLISH</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_3_ENGLISH</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_3_ENGLISH</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_3_ENGLISH</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

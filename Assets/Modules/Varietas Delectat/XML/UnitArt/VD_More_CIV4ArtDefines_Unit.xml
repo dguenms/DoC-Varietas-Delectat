@@ -163,7 +163,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Modules/Varietas Delectat/Art/Units/Iran/Timurid Archer/TimuridArcher.nif</NIF>
-			<KFM>Modules/Varietas Delectat/Art/Units/[anim]/Archer_Eurasian/Archer_Eurasian.kfm</KFM>
+			<KFM>Art/Units/Archer_Eurasian/Archer_Eurasian.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Iran/Timurid Archer/TimuridArcher.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>

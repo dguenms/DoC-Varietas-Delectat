@@ -192,19 +192,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MAYAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MAYAN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

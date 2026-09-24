@@ -200,19 +200,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_LIGHT_SWORDSMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_MALI</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_LIGHT_SWORDSMAN_MALI</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

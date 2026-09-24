@@ -125,18 +125,18 @@
 					<UnitType>UNIT_HEAVY_SPEARMAN</UnitType>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN1</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN1</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
 						<EarlyArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_EGYPT</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_ARABIAN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN1</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HEAVY_SPEARMAN_ARABIAN1</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
