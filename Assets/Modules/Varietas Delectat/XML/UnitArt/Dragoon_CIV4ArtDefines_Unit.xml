@@ -128,7 +128,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CAVALRY_ENGLISH</Type>
-			<Button>Art/Interface/Buttons/Units/Dragoon.dds</Button>
+			<Button>Art/Interface/Buttons/Units/Cavalry.dds</Button>
 			<fScale>0.42</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -277,7 +277,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Modules/Varietas Delectat/Art/Units/Dragon/Indian/SepoyMutineerCavalry.nif</NIF>
+			<NIF>Modules/Varietas Delectat/Art/Units/dragoon/indian/sepoymutineercavalry.nif</NIF>
 			<KFM>Art/Units/Cavalry/Cavalry.kfm</KFM>
 			<SHADERNIF>Modules/Varietas Delectat/Art/Units/Dragoon/Indian/SepoyMutineerCavalry.nif</SHADERNIF>
 			<ShadowDef>
